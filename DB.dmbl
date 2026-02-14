@@ -1,22 +1,22 @@
 Table m_user {
-id interger [primary key]
-name_family
-name_first
-name_display
-address_postcode
-address_prefecture
-address_city
-address_other
+  id integer [primary key]
+  name_family varchar
+  name_first varchar
+  name_display varchar
+  address_postcode varchar
+  address_prefecture varchar
+  address_city varchar
+  address_other varchar
 }
 
 Table m_admin {
-id interger [primary key]
-name_family
-name_first
-name_display
-role
-datetime_created
-id_admin_created
-datetime_updated
-id_admin_updated
+  id interger [primary key]
+  name_family varchar
+  name_first varchar
+  name_display varchar
+  role integer
+  datetime_created datetime
+  id_admin_created integer
+  datetime_updated datetime
+  id_admin_updated integer
 }
