@@ -1,12 +1,17 @@
 Table m_user {
   id integer [primary key]
-  name_family varchar
+  name_family varchar 
   name_first varchar
+  name_cooperation varchar
   name_display varchar
   address_postcode varchar
   address_prefecture varchar
   address_city varchar
   address_other varchar
+  id_admin_created
+  id_admin_updated
+  datetime_created
+  datetime_updated
 }
 
 Table m_admin {
