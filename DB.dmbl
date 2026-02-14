@@ -1,3 +1,22 @@
-Table users {
+Table m_user {
+id interger [primary key]
+name_family
+name_first
+name_display
+address_postcode
+address_prefecture
+address_city
+address_other
+}
 
+Table m_admin {
+id interger [primary key]
+name_family
+name_first
+name_display
+role
+datetime_created
+id_admin_created
+datetime_updated
+id_admin_updated
 }
