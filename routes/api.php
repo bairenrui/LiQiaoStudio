@@ -6,6 +6,6 @@ use App\Http\Controllers\Api\MemberController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/dashboard/summary', [DashboardController::class, 'summary']);
-Route::get('/members', [MemberController::class, 'index']);
+Route::apiResource('/members', MemberController::class);
 Route::get('/map', [MapController::class, 'show']);
 Route::get('/map/areas/{svgElementId}', [MapController::class, 'area']);
