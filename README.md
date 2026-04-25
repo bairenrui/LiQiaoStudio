@@ -22,3 +22,49 @@ node scripts/extract_html_data.js
 - `data/map_layers.json`
 - `data/svg_area_ids.json`
 - `data/unmapped_svg_area_ids.json`
+
+## Laravel setup
+
+本项目已经是 Laravel + Vue 3 一体代码库。
+
+安装依赖：
+
+```bash
+composer install
+npm install
+```
+
+初始化数据库并导入初始数据：
+
+```bash
+php artisan migrate:fresh --seed
+```
+
+启动开发服务：
+
+```bash
+php artisan serve
+npm run dev
+```
+
+构建前端：
+
+```bash
+npm run build
+```
+
+默认 seed 管理员：
+
+- Email: `admin@example.com`
+- Password: `password`
+
+正式连接 MySQL 时，参考 `.env.example` 设置：
+
+```env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=taiseicho_map
+DB_USERNAME=root
+DB_PASSWORD=
+```
