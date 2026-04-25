@@ -1,0 +1,6312 @@
+[
+  {
+    "source_row_no": 3,
+    "member_no": 1,
+    "district_code": "1区A1",
+    "address_lot": "84-2",
+    "name": "高橋　敏文",
+    "name_kana": "タカハシ　トシミ",
+    "phone": "663-7363",
+    "note": ""
+  },
+  {
+    "source_row_no": 4,
+    "member_no": 2,
+    "district_code": "1区A1",
+    "address_lot": "84-3",
+    "name": "大沼　正志",
+    "name_kana": "オオヌマ",
+    "phone": "665-1447",
+    "note": ""
+  },
+  {
+    "source_row_no": 5,
+    "member_no": 3,
+    "district_code": "1区A1",
+    "address_lot": "84-4",
+    "name": "増子　泰洋",
+    "name_kana": "マスコ　ヤスヒロ",
+    "phone": "651-5040",
+    "note": ""
+  },
+  {
+    "source_row_no": 6,
+    "member_no": 4,
+    "district_code": "1区A1",
+    "address_lot": "84-5",
+    "name": "三須　由美子",
+    "name_kana": "ミス",
+    "phone": "663-5371",
+    "note": ""
+  },
+  {
+    "source_row_no": 7,
+    "member_no": 5,
+    "district_code": "1区A1",
+    "address_lot": "84-7",
+    "name": "秋元　義弘",
+    "name_kana": "アキモト",
+    "phone": "666-8124",
+    "note": ""
+  },
+  {
+    "source_row_no": 8,
+    "member_no": 6,
+    "district_code": "1区A1",
+    "address_lot": "88-1",
+    "name": "小幡　政夫",
+    "name_kana": "オバタ　マサヲ",
+    "phone": "664-4160",
+    "note": "木幡　泰洋"
+  },
+  {
+    "source_row_no": 9,
+    "member_no": 7,
+    "district_code": "1区A1",
+    "address_lot": "88-2",
+    "name": "本澤　まち子",
+    "name_kana": "ホンザワ",
+    "phone": "663-5697",
+    "note": "本澤　喜久枝"
+  },
+  {
+    "source_row_no": 10,
+    "member_no": 8,
+    "district_code": "1区A1",
+    "address_lot": "88-3",
+    "name": "兵藤　守",
+    "name_kana": "ヒョウドウ　マモル",
+    "phone": "668-1404",
+    "note": ""
+  },
+  {
+    "source_row_no": 11,
+    "member_no": 9,
+    "district_code": "1区A1",
+    "address_lot": "88-4",
+    "name": "",
+    "name_kana": "イノウエ　ケサエ",
+    "phone": "665-1089",
+    "note": ""
+  },
+  {
+    "source_row_no": 12,
+    "member_no": 10,
+    "district_code": "1区A1",
+    "address_lot": "88-5",
+    "name": "髙橋　央",
+    "name_kana": "タカハシ　アキラ",
+    "phone": "090-5829-6990",
+    "note": ""
+  },
+  {
+    "source_row_no": 13,
+    "member_no": 11,
+    "district_code": "1区A2",
+    "address_lot": "80-1",
+    "name": "福島　健二",
+    "name_kana": "フクシマ",
+    "phone": "665-3483",
+    "note": ""
+  },
+  {
+    "source_row_no": 14,
+    "member_no": 12,
+    "district_code": "1区A2",
+    "address_lot": "80-3",
+    "name": "廣澤　宣明",
+    "name_kana": "ヒロサワ",
+    "phone": "654-8600",
+    "note": ""
+  },
+  {
+    "source_row_no": 15,
+    "member_no": 13,
+    "district_code": "1区A2",
+    "address_lot": "80-7",
+    "name": "青井　修",
+    "name_kana": "アオイ",
+    "phone": "663-7931",
+    "note": ""
+  },
+  {
+    "source_row_no": 16,
+    "member_no": 14,
+    "district_code": "1区A2",
+    "address_lot": "86",
+    "name": "二片　雄一",
+    "name_kana": "フタカタ",
+    "phone": "666-5708",
+    "note": ""
+  },
+  {
+    "source_row_no": 17,
+    "member_no": 15,
+    "district_code": "1区A2",
+    "address_lot": "87",
+    "name": "松本　恭子",
+    "name_kana": "マツモト",
+    "phone": "665-6486",
+    "note": ""
+  },
+  {
+    "source_row_no": 18,
+    "member_no": 16,
+    "district_code": "1区A2",
+    "address_lot": "75",
+    "name": "松本　竹弘",
+    "name_kana": "マツモト",
+    "phone": "741-5766",
+    "note": ""
+  },
+  {
+    "source_row_no": 19,
+    "member_no": 17,
+    "district_code": "1区A2",
+    "address_lot": "77",
+    "name": "舛谷　努",
+    "name_kana": "マスヤ",
+    "phone": "654-7691",
+    "note": ""
+  },
+  {
+    "source_row_no": 20,
+    "member_no": 18,
+    "district_code": "1区A2",
+    "address_lot": "79-2",
+    "name": "松島　久子",
+    "name_kana": "マツシマ",
+    "phone": "665-5985",
+    "note": ""
+  },
+  {
+    "source_row_no": 21,
+    "member_no": 19,
+    "district_code": "1区A2",
+    "address_lot": "80-12",
+    "name": "有山　和秀",
+    "name_kana": "アリヤマ",
+    "phone": "651-2011",
+    "note": "中村　晃一"
+  },
+  {
+    "source_row_no": 22,
+    "member_no": 20,
+    "district_code": "1区A2",
+    "address_lot": "80-13",
+    "name": "窪田　利文",
+    "name_kana": "クボタ",
+    "phone": "653-4061",
+    "note": ""
+  },
+  {
+    "source_row_no": 23,
+    "member_no": 21,
+    "district_code": "1区A2",
+    "address_lot": "80-14",
+    "name": "浅井　哲也",
+    "name_kana": "アサイ",
+    "phone": "653-6868",
+    "note": ""
+  },
+  {
+    "source_row_no": 24,
+    "member_no": 22,
+    "district_code": "1区A2",
+    "address_lot": "83-1",
+    "name": "内田　朱美",
+    "name_kana": "ウチダ",
+    "phone": "651-2262",
+    "note": ""
+  },
+  {
+    "source_row_no": 25,
+    "member_no": 23,
+    "district_code": "1区B1",
+    "address_lot": "2-1",
+    "name": "河上　淳子",
+    "name_kana": "カワカミ　ジュンコ",
+    "phone": "665-5867",
+    "note": ""
+  },
+  {
+    "source_row_no": 26,
+    "member_no": 24,
+    "district_code": "1区B1",
+    "address_lot": "2",
+    "name": "中西　正昭",
+    "name_kana": "ナカニシ　マサアキ",
+    "phone": "652-2674",
+    "note": ""
+  },
+  {
+    "source_row_no": 27,
+    "member_no": 25,
+    "district_code": "1区B1",
+    "address_lot": "72",
+    "name": "大川　由希子",
+    "name_kana": "オオカワ",
+    "phone": "664-4140",
+    "note": ""
+  },
+  {
+    "source_row_no": 28,
+    "member_no": 26,
+    "district_code": "1区B1",
+    "address_lot": "72",
+    "name": "沼尻　忠雄",
+    "name_kana": "ヌマジリ　タダオ",
+    "phone": "664-1620",
+    "note": ""
+  },
+  {
+    "source_row_no": 29,
+    "member_no": 27,
+    "district_code": "1区B1",
+    "address_lot": "72",
+    "name": "中村　一男",
+    "name_kana": "ナカムラ　カズオ",
+    "phone": "665-0609",
+    "note": ""
+  },
+  {
+    "source_row_no": 30,
+    "member_no": 28,
+    "district_code": "1区B1",
+    "address_lot": "73",
+    "name": "若林　貞夫",
+    "name_kana": "ワカバヤシ　サダオ",
+    "phone": "665-0498",
+    "note": ""
+  },
+  {
+    "source_row_no": 31,
+    "member_no": 29,
+    "district_code": "1区B2",
+    "address_lot": "4",
+    "name": "吉澤　好一",
+    "name_kana": "ヨシザワ",
+    "phone": "665-7718",
+    "note": ""
+  },
+  {
+    "source_row_no": 32,
+    "member_no": 30,
+    "district_code": "1区B2",
+    "address_lot": "4-2",
+    "name": "金田　伸一",
+    "name_kana": "カネダ",
+    "phone": "776-9977",
+    "note": ""
+  },
+  {
+    "source_row_no": 33,
+    "member_no": 31,
+    "district_code": "1区B2",
+    "address_lot": "5",
+    "name": "岡田　孝雄",
+    "name_kana": "オカダ",
+    "phone": "663-3544",
+    "note": ""
+  },
+  {
+    "source_row_no": 34,
+    "member_no": 32,
+    "district_code": "1区B2",
+    "address_lot": "5",
+    "name": "村松　永偉",
+    "name_kana": "ムラマツ",
+    "phone": "664-6812",
+    "note": ""
+  },
+  {
+    "source_row_no": 35,
+    "member_no": 33,
+    "district_code": "1区B2",
+    "address_lot": "5-1",
+    "name": "田口　京子",
+    "name_kana": "タグチ",
+    "phone": "782-9788",
+    "note": ""
+  },
+  {
+    "source_row_no": 36,
+    "member_no": 34,
+    "district_code": "1区B2",
+    "address_lot": "8",
+    "name": "野口　松子",
+    "name_kana": "ノグチ",
+    "phone": "665-7927",
+    "note": ""
+  },
+  {
+    "source_row_no": 37,
+    "member_no": 35,
+    "district_code": "1区B2",
+    "address_lot": "68-1",
+    "name": "岡本　博",
+    "name_kana": "オカモト",
+    "phone": "665-1157",
+    "note": ""
+  },
+  {
+    "source_row_no": 38,
+    "member_no": 36,
+    "district_code": "1区B2",
+    "address_lot": "68-2",
+    "name": "稲荷場　真弓",
+    "name_kana": "イナリバ　マユミ",
+    "phone": "664-6676",
+    "note": ""
+  },
+  {
+    "source_row_no": 39,
+    "member_no": 37,
+    "district_code": "1区B2",
+    "address_lot": "71-1",
+    "name": "大和田　正樹",
+    "name_kana": "オオワダ",
+    "phone": "699-1241",
+    "note": ""
+  },
+  {
+    "source_row_no": 40,
+    "member_no": 38,
+    "district_code": "1区B2",
+    "address_lot": "71-2",
+    "name": "片岡　賢司",
+    "name_kana": "カタオカ",
+    "phone": "779-8945",
+    "note": ""
+  },
+  {
+    "source_row_no": 41,
+    "member_no": 39,
+    "district_code": "1区B2",
+    "address_lot": "71-7",
+    "name": "櫻井　一彦",
+    "name_kana": "サクライ",
+    "phone": "780-2080",
+    "note": ""
+  },
+  {
+    "source_row_no": 42,
+    "member_no": 40,
+    "district_code": "1区B2",
+    "address_lot": "71-9",
+    "name": "笠原　敬佑",
+    "name_kana": "カサハラ",
+    "phone": "080-4439-3201",
+    "note": ""
+  },
+  {
+    "source_row_no": 43,
+    "member_no": 41,
+    "district_code": "1区C1",
+    "address_lot": "6-2",
+    "name": "高瀬　有基",
+    "name_kana": "タカセ",
+    "phone": "080-2007-4594",
+    "note": ""
+  },
+  {
+    "source_row_no": 44,
+    "member_no": 42,
+    "district_code": "1区C1",
+    "address_lot": "6-3",
+    "name": "高橋　孝男",
+    "name_kana": "タカハシ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 45,
+    "member_no": 43,
+    "district_code": "1区C1",
+    "address_lot": "7",
+    "name": "須永　仁志",
+    "name_kana": "スナガ",
+    "phone": "667-9827",
+    "note": ""
+  },
+  {
+    "source_row_no": 46,
+    "member_no": 44,
+    "district_code": "1区C1",
+    "address_lot": "9",
+    "name": "和知　眞佐枝",
+    "name_kana": "ワチ",
+    "phone": "612-3211",
+    "note": "和知　幸雄"
+  },
+  {
+    "source_row_no": 47,
+    "member_no": 45,
+    "district_code": "1区C1",
+    "address_lot": "14",
+    "name": "須永　ミエ",
+    "name_kana": "スナガ",
+    "phone": "663-7366",
+    "note": "須永　重利"
+  },
+  {
+    "source_row_no": 48,
+    "member_no": 46,
+    "district_code": "1区C1",
+    "address_lot": "15",
+    "name": "天野　正一",
+    "name_kana": "アマノ",
+    "phone": "666-3410",
+    "note": ""
+  },
+  {
+    "source_row_no": 49,
+    "member_no": 47,
+    "district_code": "1区C1",
+    "address_lot": "16",
+    "name": "井上　佳則",
+    "name_kana": "イノウエ",
+    "phone": "653-7251",
+    "note": ""
+  },
+  {
+    "source_row_no": 50,
+    "member_no": 48,
+    "district_code": "1区C2",
+    "address_lot": "61",
+    "name": "石井　智江",
+    "name_kana": "イシイ",
+    "phone": "665-7079",
+    "note": ""
+  },
+  {
+    "source_row_no": 51,
+    "member_no": 49,
+    "district_code": "1区C2",
+    "address_lot": "62-1",
+    "name": "関口　大輔",
+    "name_kana": "セキグチ",
+    "phone": "699-1151",
+    "note": ""
+  },
+  {
+    "source_row_no": 52,
+    "member_no": 50,
+    "district_code": "1区C2",
+    "address_lot": "62-2",
+    "name": "周藤　正秋",
+    "name_kana": "スドウ",
+    "phone": "080-2015-5342",
+    "note": ""
+  },
+  {
+    "source_row_no": 53,
+    "member_no": 51,
+    "district_code": "1区C2",
+    "address_lot": "62-3",
+    "name": "角名　洋平",
+    "name_kana": "カドナ",
+    "phone": "080-5171-1308",
+    "note": "大澤　直樹"
+  },
+  {
+    "source_row_no": 54,
+    "member_no": 52,
+    "district_code": "1区C2",
+    "address_lot": "62-5",
+    "name": "中村　孝一",
+    "name_kana": "ナカムラ",
+    "phone": "717-3529",
+    "note": ""
+  },
+  {
+    "source_row_no": 55,
+    "member_no": 53,
+    "district_code": "1区C2",
+    "address_lot": "65",
+    "name": "田中　洋一",
+    "name_kana": "タナカ",
+    "phone": "665-1159",
+    "note": ""
+  },
+  {
+    "source_row_no": 56,
+    "member_no": 54,
+    "district_code": "1区C2",
+    "address_lot": "67",
+    "name": "橋本　弘子",
+    "name_kana": "ハシモト",
+    "phone": "665-7221",
+    "note": ""
+  },
+  {
+    "source_row_no": 57,
+    "member_no": 55,
+    "district_code": "1区C2",
+    "address_lot": "69-1",
+    "name": "原田　哲弥",
+    "name_kana": "ハラダ",
+    "phone": "090-2439-2157",
+    "note": ""
+  },
+  {
+    "source_row_no": 58,
+    "member_no": 56,
+    "district_code": "1区C2",
+    "address_lot": "69-2",
+    "name": "長谷川　久巳",
+    "name_kana": "ハセガワ",
+    "phone": "666-2394",
+    "note": ""
+  },
+  {
+    "source_row_no": 59,
+    "member_no": 57,
+    "district_code": "1区C2",
+    "address_lot": "69-3",
+    "name": "矢野　輝男",
+    "name_kana": "ヤノ",
+    "phone": "666-5409",
+    "note": "矢野　武司"
+  },
+  {
+    "source_row_no": 60,
+    "member_no": 58,
+    "district_code": "1区C2",
+    "address_lot": "69-4",
+    "name": "瀬上　健司",
+    "name_kana": "セガミ",
+    "phone": "090-2628-0075",
+    "note": ""
+  },
+  {
+    "source_row_no": 61,
+    "member_no": 59,
+    "district_code": "1区C2",
+    "address_lot": "69-5",
+    "name": "表寺　和正",
+    "name_kana": "オモテラ",
+    "phone": "090-7216-3409",
+    "note": ""
+  },
+  {
+    "source_row_no": 62,
+    "member_no": 60,
+    "district_code": "1区C2",
+    "address_lot": "69-6",
+    "name": "大川　雄哉",
+    "name_kana": "オオカワ",
+    "phone": "729-8530",
+    "note": ""
+  },
+  {
+    "source_row_no": 63,
+    "member_no": 61,
+    "district_code": "1区C2",
+    "address_lot": "70-2",
+    "name": "今井　恒人",
+    "name_kana": "イマイ",
+    "phone": "665-5958",
+    "note": ""
+  },
+  {
+    "source_row_no": 64,
+    "member_no": 62,
+    "district_code": "2区A1",
+    "address_lot": "91",
+    "name": "畠山　一恵",
+    "name_kana": "ハタケヤマ",
+    "phone": "663-4006",
+    "note": "畠山　隆一"
+  },
+  {
+    "source_row_no": 65,
+    "member_no": 63,
+    "district_code": "2区A1",
+    "address_lot": "91-2",
+    "name": "福田　隆",
+    "name_kana": "フクダ",
+    "phone": "877-0491",
+    "note": ""
+  },
+  {
+    "source_row_no": 66,
+    "member_no": 64,
+    "district_code": "2区A1",
+    "address_lot": "92",
+    "name": "松澤　孝仁",
+    "name_kana": "マツザワ",
+    "phone": "653-7196",
+    "note": ""
+  },
+  {
+    "source_row_no": 67,
+    "member_no": 65,
+    "district_code": "2区A1",
+    "address_lot": "93-1",
+    "name": "杉本　愼吉",
+    "name_kana": "スギモト",
+    "phone": "666-1188",
+    "note": ""
+  },
+  {
+    "source_row_no": 68,
+    "member_no": 66,
+    "district_code": "2区A1",
+    "address_lot": "93-2",
+    "name": "岩野　政雄",
+    "name_kana": "イワノ",
+    "phone": "699-3578",
+    "note": ""
+  },
+  {
+    "source_row_no": 69,
+    "member_no": 67,
+    "district_code": "2区A1",
+    "address_lot": "94",
+    "name": "宇賀神　美沙江",
+    "name_kana": "ウガジン",
+    "phone": "663-4074",
+    "note": "宇賀神　元"
+  },
+  {
+    "source_row_no": 70,
+    "member_no": 68,
+    "district_code": "2区A1",
+    "address_lot": "94",
+    "name": "大塚　英男",
+    "name_kana": "オオツカ",
+    "phone": "651-5275",
+    "note": ""
+  },
+  {
+    "source_row_no": 71,
+    "member_no": 69,
+    "district_code": "2区A1",
+    "address_lot": "94-4",
+    "name": "坪井　健一",
+    "name_kana": "ツボイ",
+    "phone": "654-9256",
+    "note": ""
+  },
+  {
+    "source_row_no": 72,
+    "member_no": 70,
+    "district_code": "2区A2",
+    "address_lot": "91",
+    "name": "和田　起一",
+    "name_kana": "ワダ",
+    "phone": "665-7075",
+    "note": ""
+  },
+  {
+    "source_row_no": 73,
+    "member_no": 71,
+    "district_code": "2区A2",
+    "address_lot": "100-1",
+    "name": "矢島　宏典",
+    "name_kana": "ヤジマ",
+    "phone": "090-2627-0830",
+    "note": ""
+  },
+  {
+    "source_row_no": 74,
+    "member_no": 72,
+    "district_code": "2区A2",
+    "address_lot": "100-2",
+    "name": "稲垣　有亮",
+    "name_kana": "イナガキ",
+    "phone": "090-9249-3619",
+    "note": "070-9129-5537"
+  },
+  {
+    "source_row_no": 75,
+    "member_no": 73,
+    "district_code": "2区A2",
+    "address_lot": "100-3",
+    "name": "手塚　さつき",
+    "name_kana": "テヅカ",
+    "phone": "778-7030",
+    "note": ""
+  },
+  {
+    "source_row_no": 76,
+    "member_no": 74,
+    "district_code": "2区A2",
+    "address_lot": "100-4",
+    "name": "中野　大地",
+    "name_kana": "ナカノ",
+    "phone": "080-5194-7485",
+    "note": ""
+  },
+  {
+    "source_row_no": 77,
+    "member_no": 75,
+    "district_code": "2区A2",
+    "address_lot": "100-5",
+    "name": "片山　幹久",
+    "name_kana": "カタヤマ",
+    "phone": "080-1996-0214",
+    "note": ""
+  },
+  {
+    "source_row_no": 78,
+    "member_no": 76,
+    "district_code": "2区A2",
+    "address_lot": "101-2",
+    "name": "原　邦彦",
+    "name_kana": "ハラ",
+    "phone": "663-1914",
+    "note": ""
+  },
+  {
+    "source_row_no": 79,
+    "member_no": 77,
+    "district_code": "2区A2",
+    "address_lot": "102",
+    "name": "廣川　充",
+    "name_kana": "ヒロカワ",
+    "phone": "652-4860",
+    "note": ""
+  },
+  {
+    "source_row_no": 80,
+    "member_no": 78,
+    "district_code": "2区A2",
+    "address_lot": "102",
+    "name": "三島　正江",
+    "name_kana": "ミシマ",
+    "phone": "665-3334",
+    "note": "三島　敏昭"
+  },
+  {
+    "source_row_no": 81,
+    "member_no": 79,
+    "district_code": "2区A2",
+    "address_lot": "104",
+    "name": "高橋　久子",
+    "name_kana": "タカハシ",
+    "phone": "665-3340",
+    "note": ""
+  },
+  {
+    "source_row_no": 82,
+    "member_no": 80,
+    "district_code": "2区A2",
+    "address_lot": "105",
+    "name": "今井　敏夫",
+    "name_kana": "イマイ",
+    "phone": "663-1292",
+    "note": ""
+  },
+  {
+    "source_row_no": 83,
+    "member_no": 81,
+    "district_code": "2区A2",
+    "address_lot": "107-7",
+    "name": "江森　久利",
+    "name_kana": "エモリ",
+    "phone": "665-5857",
+    "note": ""
+  },
+  {
+    "source_row_no": 84,
+    "member_no": 82,
+    "district_code": "2区A2",
+    "address_lot": "108-5",
+    "name": "島谷　浩",
+    "name_kana": "シマタニ",
+    "phone": "782-8710",
+    "note": "501"
+  },
+  {
+    "source_row_no": 85,
+    "member_no": 83,
+    "district_code": "2区B1",
+    "address_lot": "95",
+    "name": "大隅　蕙子",
+    "name_kana": "オオスミ　ケイコ",
+    "phone": "664-6607",
+    "note": "2世帯、齋藤　麻衣子"
+  },
+  {
+    "source_row_no": 86,
+    "member_no": 84,
+    "district_code": "2区B1",
+    "address_lot": "95",
+    "name": "西村　和雄",
+    "name_kana": "ニシムラ　カズオ",
+    "phone": "664-6695",
+    "note": ""
+  },
+  {
+    "source_row_no": 87,
+    "member_no": 85,
+    "district_code": "2区B1",
+    "address_lot": "96-2",
+    "name": "吉川　正治",
+    "name_kana": "キッカワ　マサハル",
+    "phone": "668-1566",
+    "note": ""
+  },
+  {
+    "source_row_no": 88,
+    "member_no": 86,
+    "district_code": "2区B1",
+    "address_lot": "96-3",
+    "name": "青柳　則子",
+    "name_kana": "アオヤギ",
+    "phone": "667-8640",
+    "note": "青柳　潤"
+  },
+  {
+    "source_row_no": 89,
+    "member_no": 87,
+    "district_code": "2区B1",
+    "address_lot": "96-6",
+    "name": "ニノ神　雅人",
+    "name_kana": "ニノカミ",
+    "phone": "090-7328-4703",
+    "note": "ニノ神　麻奈美"
+  },
+  {
+    "source_row_no": 90,
+    "member_no": 88,
+    "district_code": "2区B1",
+    "address_lot": "108-2",
+    "name": "野田　満",
+    "name_kana": "ノダ　ミツル",
+    "phone": "090-8598-9930",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 91,
+    "member_no": 89,
+    "district_code": "2区B1",
+    "address_lot": "108-3",
+    "name": "平田　聡",
+    "name_kana": "ヒラタ　サトシ",
+    "phone": "653-4509",
+    "note": ""
+  },
+  {
+    "source_row_no": 92,
+    "member_no": 90,
+    "district_code": "2区B1",
+    "address_lot": "199-1",
+    "name": "鳴海　悟志",
+    "name_kana": "ナルミ",
+    "phone": "080-5421-4109",
+    "note": ""
+  },
+  {
+    "source_row_no": 93,
+    "member_no": 91,
+    "district_code": "2区B1",
+    "address_lot": "199-4",
+    "name": "大谷　稔",
+    "name_kana": "オオタニ",
+    "phone": "090-2524-3781",
+    "note": ""
+  },
+  {
+    "source_row_no": 94,
+    "member_no": 92,
+    "district_code": "2区B2",
+    "address_lot": "190-2",
+    "name": "清水　良子",
+    "name_kana": "シミズ",
+    "phone": "090-8436-3056",
+    "note": "矢作コーポ101"
+  },
+  {
+    "source_row_no": 95,
+    "member_no": 93,
+    "district_code": "2区B2",
+    "address_lot": "192-1",
+    "name": "池田　広子",
+    "name_kana": "イケダ",
+    "phone": "677-2419",
+    "note": "第2田中ﾊｲﾂ202、池田　一弘"
+  },
+  {
+    "source_row_no": 96,
+    "member_no": 94,
+    "district_code": "2区B2",
+    "address_lot": "192-3",
+    "name": "臼倉　義之",
+    "name_kana": "ウスクラ　ヨシユキ",
+    "phone": "666-8916",
+    "note": ""
+  },
+  {
+    "source_row_no": 97,
+    "member_no": 95,
+    "district_code": "2区B2",
+    "address_lot": "193-1",
+    "name": "中村　祐三",
+    "name_kana": "ナカムラ",
+    "phone": "654-5441",
+    "note": "矢作　保"
+  },
+  {
+    "source_row_no": 98,
+    "member_no": 96,
+    "district_code": "2区B2",
+    "address_lot": "196",
+    "name": "柳川　洋子",
+    "name_kana": "ヤナガワ　ヨウコ",
+    "phone": "665-7563",
+    "note": ""
+  },
+  {
+    "source_row_no": 99,
+    "member_no": 97,
+    "district_code": "2区B2",
+    "address_lot": "197",
+    "name": "柳川　守由",
+    "name_kana": "ヤナガワ　モリヨシ",
+    "phone": "663-1275",
+    "note": ""
+  },
+  {
+    "source_row_no": 100,
+    "member_no": 98,
+    "district_code": "2区B2",
+    "address_lot": "198",
+    "name": "阿曽　真一",
+    "name_kana": "アソ　シンイチ",
+    "phone": "666-5522",
+    "note": ""
+  },
+  {
+    "source_row_no": 101,
+    "member_no": 99,
+    "district_code": "2区B2",
+    "address_lot": "199",
+    "name": "静　実喜雄",
+    "name_kana": "シズ　ミキオ",
+    "phone": "651-0756",
+    "note": ""
+  },
+  {
+    "source_row_no": 102,
+    "member_no": 100,
+    "district_code": "2区B2",
+    "address_lot": "200",
+    "name": "関口　健司",
+    "name_kana": "セキグチ　ケンジ",
+    "phone": "664-1437",
+    "note": ""
+  },
+  {
+    "source_row_no": 103,
+    "member_no": 101,
+    "district_code": "2区B2",
+    "address_lot": "200-2",
+    "name": "柴田　芳三",
+    "name_kana": "シバタ　ヨシゾウ",
+    "phone": "663-5281",
+    "note": ""
+  },
+  {
+    "source_row_no": 104,
+    "member_no": 102,
+    "district_code": "2区B2",
+    "address_lot": "200-3",
+    "name": "宮崎　幸久",
+    "name_kana": "ミヤザキ",
+    "phone": "663-2604",
+    "note": "宮崎　秀子"
+  },
+  {
+    "source_row_no": 105,
+    "member_no": 103,
+    "district_code": "2区B2",
+    "address_lot": "200-5",
+    "name": "矢作　哲平",
+    "name_kana": "ヤハギ",
+    "phone": "652-2800",
+    "note": ""
+  },
+  {
+    "source_row_no": 106,
+    "member_no": 104,
+    "district_code": "3区A1",
+    "address_lot": "111",
+    "name": "関口　敏枝",
+    "name_kana": "セキグチ",
+    "phone": "663-7361",
+    "note": ""
+  },
+  {
+    "source_row_no": 107,
+    "member_no": 105,
+    "district_code": "3区A1",
+    "address_lot": "112",
+    "name": "齋藤　朗",
+    "name_kana": "サイトウ",
+    "phone": "666-9767",
+    "note": "石田　昭一"
+  },
+  {
+    "source_row_no": 108,
+    "member_no": 106,
+    "district_code": "3区A1",
+    "address_lot": "113",
+    "name": "関口　茂芳",
+    "name_kana": "セキグチ",
+    "phone": "665-5232",
+    "note": ""
+  },
+  {
+    "source_row_no": 109,
+    "member_no": 107,
+    "district_code": "3区A1",
+    "address_lot": "113-2",
+    "name": "岡田　貞夫",
+    "name_kana": "オカダ",
+    "phone": "664-0334",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 110,
+    "member_no": 108,
+    "district_code": "3区A1",
+    "address_lot": "114-1",
+    "name": "関口　修",
+    "name_kana": "セキグチ",
+    "phone": "048-788-4501",
+    "note": ""
+  },
+  {
+    "source_row_no": 111,
+    "member_no": 109,
+    "district_code": "3区A1",
+    "address_lot": "115",
+    "name": "吉澤　俊典",
+    "name_kana": "ヨシザワ",
+    "phone": "090-2437-2883",
+    "note": ""
+  },
+  {
+    "source_row_no": 112,
+    "member_no": 110,
+    "district_code": "3区A1",
+    "address_lot": "116",
+    "name": "辻村　世一",
+    "name_kana": "ツジムラ",
+    "phone": "663-1644",
+    "note": "2世帯、辻村　茂"
+  },
+  {
+    "source_row_no": 113,
+    "member_no": 111,
+    "district_code": "3区A1",
+    "address_lot": "117",
+    "name": "伊豆原　孝彦",
+    "name_kana": "イズハラ",
+    "phone": "663-1286",
+    "note": ""
+  },
+  {
+    "source_row_no": 114,
+    "member_no": 112,
+    "district_code": "3区A1",
+    "address_lot": "118",
+    "name": "関川　光枝",
+    "name_kana": "セキカワ",
+    "phone": "665-1084",
+    "note": ""
+  },
+  {
+    "source_row_no": 115,
+    "member_no": 113,
+    "district_code": "3区A1",
+    "address_lot": "118-1",
+    "name": "猿渡　章",
+    "name_kana": "サルワタリ",
+    "phone": "788-1324",
+    "note": ""
+  },
+  {
+    "source_row_no": 116,
+    "member_no": 114,
+    "district_code": "3区A1",
+    "address_lot": "118-6",
+    "name": "清水　洋聡",
+    "name_kana": "シミズ",
+    "phone": "090-2457-1280",
+    "note": ""
+  },
+  {
+    "source_row_no": 117,
+    "member_no": 115,
+    "district_code": "3区A2",
+    "address_lot": "109-4",
+    "name": "岸　政利",
+    "name_kana": "キシ",
+    "phone": "778-9426",
+    "note": ""
+  },
+  {
+    "source_row_no": 118,
+    "member_no": 116,
+    "district_code": "3区A2",
+    "address_lot": "109-5",
+    "name": "斉藤　憲司",
+    "name_kana": "サイトウ",
+    "phone": "",
+    "note": ""
+  },
+  {
+    "source_row_no": 119,
+    "member_no": 117,
+    "district_code": "3区A2",
+    "address_lot": "109-6",
+    "name": "津田　貴光",
+    "name_kana": "ツダ",
+    "phone": "080-1326-8991",
+    "note": ""
+  },
+  {
+    "source_row_no": 120,
+    "member_no": 118,
+    "district_code": "3区A2",
+    "address_lot": "109-8",
+    "name": "井原　正子",
+    "name_kana": "イハラ",
+    "phone": "663-5852",
+    "note": "井原　英子"
+  },
+  {
+    "source_row_no": 121,
+    "member_no": 119,
+    "district_code": "3区A2",
+    "address_lot": "109-10",
+    "name": "伊藤　義幸",
+    "name_kana": "イトウ　ヨシユキ",
+    "phone": "654-5716",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 122,
+    "member_no": 120,
+    "district_code": "3区A2",
+    "address_lot": "109-13",
+    "name": "青山　光",
+    "name_kana": "アオヤマ",
+    "phone": "783-3244",
+    "note": ""
+  },
+  {
+    "source_row_no": 123,
+    "member_no": 121,
+    "district_code": "3区A2",
+    "address_lot": "109-14",
+    "name": "横尾　教男",
+    "name_kana": "ヨコオ　ノリオ",
+    "phone": "654-2778",
+    "note": ""
+  },
+  {
+    "source_row_no": 124,
+    "member_no": 122,
+    "district_code": "3区A2",
+    "address_lot": "109-15",
+    "name": "串間　努",
+    "name_kana": "クシマ　ツトム",
+    "phone": "663-1191",
+    "note": ""
+  },
+  {
+    "source_row_no": 125,
+    "member_no": 123,
+    "district_code": "3区A2",
+    "address_lot": "109-16",
+    "name": "西上　泰生",
+    "name_kana": "ニシカミ　ヤスオ",
+    "phone": "856-9174",
+    "note": ""
+  },
+  {
+    "source_row_no": 126,
+    "member_no": 124,
+    "district_code": "3区A2",
+    "address_lot": "109-19",
+    "name": "田中　真悟",
+    "name_kana": "タナカ",
+    "phone": "090-7731-9506",
+    "note": ""
+  },
+  {
+    "source_row_no": 127,
+    "member_no": 125,
+    "district_code": "3区A2",
+    "address_lot": "110",
+    "name": "柏原　健次",
+    "name_kana": "カシハラ　ケンジ",
+    "phone": "663-1776",
+    "note": ""
+  },
+  {
+    "source_row_no": 128,
+    "member_no": 126,
+    "district_code": "3区B1",
+    "address_lot": "118-6",
+    "name": "速水　祐介",
+    "name_kana": "ハヤミ",
+    "phone": "070-8451-0717",
+    "note": ""
+  },
+  {
+    "source_row_no": 129,
+    "member_no": 127,
+    "district_code": "3区B1",
+    "address_lot": "118-9",
+    "name": "小川　貴司",
+    "name_kana": "オガワ",
+    "phone": "667-3122",
+    "note": ""
+  },
+  {
+    "source_row_no": 130,
+    "member_no": 128,
+    "district_code": "3区B1",
+    "address_lot": "118-10",
+    "name": "磯部",
+    "name_kana": "イソベ",
+    "phone": "663-6261",
+    "note": "磯部　英治、歌子"
+  },
+  {
+    "source_row_no": 131,
+    "member_no": 129,
+    "district_code": "3区B1",
+    "address_lot": "118-11",
+    "name": "今井　直人",
+    "name_kana": "イマイ　ナオト",
+    "phone": "090-4052-0367",
+    "note": ""
+  },
+  {
+    "source_row_no": 132,
+    "member_no": 130,
+    "district_code": "3区B1",
+    "address_lot": "119",
+    "name": "橋本　和久",
+    "name_kana": "ハシモト",
+    "phone": "664-4240",
+    "note": ""
+  },
+  {
+    "source_row_no": 133,
+    "member_no": 131,
+    "district_code": "3区B1",
+    "address_lot": "120-3",
+    "name": "酒井　真梨奈",
+    "name_kana": "サカイ",
+    "phone": "",
+    "note": ""
+  },
+  {
+    "source_row_no": 134,
+    "member_no": 132,
+    "district_code": "3区B1",
+    "address_lot": "121-1",
+    "name": "竹野　時江",
+    "name_kana": "タケノ",
+    "phone": "665-5452",
+    "note": ""
+  },
+  {
+    "source_row_no": 135,
+    "member_no": 133,
+    "district_code": "3区B1",
+    "address_lot": "122-4",
+    "name": "中村　行雄",
+    "name_kana": "ナカムラ",
+    "phone": "651-2217",
+    "note": ""
+  },
+  {
+    "source_row_no": 136,
+    "member_no": 134,
+    "district_code": "3区B1",
+    "address_lot": "123-2",
+    "name": "石井　博",
+    "name_kana": "イシイ",
+    "phone": "666-0200",
+    "note": ""
+  },
+  {
+    "source_row_no": 137,
+    "member_no": 135,
+    "district_code": "3区B2",
+    "address_lot": "122-2",
+    "name": "増子　博之",
+    "name_kana": "マスコ",
+    "phone": "778-9925",
+    "note": ""
+  },
+  {
+    "source_row_no": 138,
+    "member_no": 136,
+    "district_code": "3区B2",
+    "address_lot": "122-7",
+    "name": "常盤　健太郎",
+    "name_kana": "トキワ",
+    "phone": "788-3339",
+    "note": ""
+  },
+  {
+    "source_row_no": 139,
+    "member_no": 137,
+    "district_code": "3区B2",
+    "address_lot": "122-9",
+    "name": "松岡　明彦",
+    "name_kana": "マツオカ",
+    "phone": "877-0951",
+    "note": ""
+  },
+  {
+    "source_row_no": 140,
+    "member_no": 138,
+    "district_code": "3区B2",
+    "address_lot": "123-3",
+    "name": "大倉　明彦",
+    "name_kana": "オオクラ",
+    "phone": "816-4483",
+    "note": ""
+  },
+  {
+    "source_row_no": 141,
+    "member_no": 139,
+    "district_code": "3区B2",
+    "address_lot": "123-4",
+    "name": "齋藤　英次",
+    "name_kana": "サイトウ",
+    "phone": "663-2380",
+    "note": "2世帯、本田　恵一"
+  },
+  {
+    "source_row_no": 142,
+    "member_no": 140,
+    "district_code": "3区B2",
+    "address_lot": "124-2",
+    "name": "高柳　豊",
+    "name_kana": "タカヤナギ",
+    "phone": "653-1635",
+    "note": ""
+  },
+  {
+    "source_row_no": 143,
+    "member_no": 141,
+    "district_code": "3区B2",
+    "address_lot": "124-3",
+    "name": "菊地　研二",
+    "name_kana": "キクチ",
+    "phone": "667-6268",
+    "note": ""
+  },
+  {
+    "source_row_no": 144,
+    "member_no": 142,
+    "district_code": "3区B2",
+    "address_lot": "124-5",
+    "name": "能木　貴美",
+    "name_kana": "アタギ",
+    "phone": "666-0969",
+    "note": "能木　大介"
+  },
+  {
+    "source_row_no": 145,
+    "member_no": 143,
+    "district_code": "3区B2",
+    "address_lot": "124-6",
+    "name": "佐藤　敏昭",
+    "name_kana": "サトウ",
+    "phone": "654-3699",
+    "note": ""
+  },
+  {
+    "source_row_no": 146,
+    "member_no": 144,
+    "district_code": "3区B2",
+    "address_lot": "124-7",
+    "name": "鶴田　直樹",
+    "name_kana": "ツルタ",
+    "phone": "652-1487",
+    "note": ""
+  },
+  {
+    "source_row_no": 147,
+    "member_no": 145,
+    "district_code": "3区B2",
+    "address_lot": "124-8",
+    "name": "平川　敬",
+    "name_kana": "ヒラカワ",
+    "phone": "662-3564",
+    "note": ""
+  },
+  {
+    "source_row_no": 148,
+    "member_no": 146,
+    "district_code": "3区B2",
+    "address_lot": "125-1",
+    "name": "堀　亮一",
+    "name_kana": "ホリ",
+    "phone": "729-6058",
+    "note": ""
+  },
+  {
+    "source_row_no": 149,
+    "member_no": 147,
+    "district_code": "3区B2",
+    "address_lot": "125-2",
+    "name": "渋谷　道夫",
+    "name_kana": "シブヤ",
+    "phone": "667-6614",
+    "note": ""
+  },
+  {
+    "source_row_no": 150,
+    "member_no": 148,
+    "district_code": "3区B2",
+    "address_lot": "125-3",
+    "name": "今井　大介",
+    "name_kana": "イマイ",
+    "phone": "080-2016-0843",
+    "note": ""
+  },
+  {
+    "source_row_no": 151,
+    "member_no": 149,
+    "district_code": "3区B2",
+    "address_lot": "126-3",
+    "name": "谷　勇輝",
+    "name_kana": "タニ",
+    "phone": "080-5663-1261",
+    "note": "Kolet大宮02"
+  },
+  {
+    "source_row_no": 152,
+    "member_no": 150,
+    "district_code": "3区B2",
+    "address_lot": "126-4",
+    "name": "山本　高志",
+    "name_kana": "ヤマモト",
+    "phone": "080-6512-9003",
+    "note": ""
+  },
+  {
+    "source_row_no": 153,
+    "member_no": 151,
+    "district_code": "3区B2",
+    "address_lot": "127-1",
+    "name": "佐川　智朗",
+    "name_kana": "サガワ",
+    "phone": "090-1165-9919",
+    "note": ""
+  },
+  {
+    "source_row_no": 154,
+    "member_no": 152,
+    "district_code": "3区B2",
+    "address_lot": "127-2",
+    "name": "小名木　康",
+    "name_kana": "オナギ",
+    "phone": "782-8625",
+    "note": ""
+  },
+  {
+    "source_row_no": 155,
+    "member_no": 153,
+    "district_code": "3区B2",
+    "address_lot": "127-3",
+    "name": "中野　雄太",
+    "name_kana": "ナカノ",
+    "phone": "090-7082-7465",
+    "note": ""
+  },
+  {
+    "source_row_no": 156,
+    "member_no": 154,
+    "district_code": "3区B2",
+    "address_lot": "127-4",
+    "name": "斉藤　昇治",
+    "name_kana": "サイトウ",
+    "phone": "709-5843",
+    "note": ""
+  },
+  {
+    "source_row_no": 157,
+    "member_no": 155,
+    "district_code": "3区B2",
+    "address_lot": "127-5",
+    "name": "藤田　仁志",
+    "name_kana": "フジタ",
+    "phone": "856-9575",
+    "note": ""
+  },
+  {
+    "source_row_no": 158,
+    "member_no": 156,
+    "district_code": "3区B2",
+    "address_lot": "129",
+    "name": "永村　泰正",
+    "name_kana": "ナガムラ",
+    "phone": "663-5161",
+    "note": ""
+  },
+  {
+    "source_row_no": 159,
+    "member_no": 157,
+    "district_code": "3区B2",
+    "address_lot": "130-2",
+    "name": "村上　拓磨",
+    "name_kana": "ムラカミ",
+    "phone": "090-8007-2237",
+    "note": ""
+  },
+  {
+    "source_row_no": 160,
+    "member_no": 158,
+    "district_code": "3区C1",
+    "address_lot": "181-2",
+    "name": "勝田　寿郎",
+    "name_kana": "カツタ",
+    "phone": "652-5381",
+    "note": ""
+  },
+  {
+    "source_row_no": 161,
+    "member_no": 159,
+    "district_code": "3区C1",
+    "address_lot": "183-1",
+    "name": "新井　多美夫",
+    "name_kana": "アライ",
+    "phone": "663-5302",
+    "note": ""
+  },
+  {
+    "source_row_no": 162,
+    "member_no": 160,
+    "district_code": "3区C1",
+    "address_lot": "183-2",
+    "name": "森　浩之",
+    "name_kana": "モリ",
+    "phone": "663-2013",
+    "note": ""
+  },
+  {
+    "source_row_no": 163,
+    "member_no": 161,
+    "district_code": "3区C1",
+    "address_lot": "183-3",
+    "name": "塩浜　正剛",
+    "name_kana": "シオハマ",
+    "phone": "668-3820",
+    "note": ""
+  },
+  {
+    "source_row_no": 164,
+    "member_no": 162,
+    "district_code": "3区C1",
+    "address_lot": "183-6",
+    "name": "中嶋　隆",
+    "name_kana": "ナカジマ",
+    "phone": "653-1616",
+    "note": ""
+  },
+  {
+    "source_row_no": 165,
+    "member_no": 163,
+    "district_code": "3区C1",
+    "address_lot": "183-7",
+    "name": "田中　伸幸",
+    "name_kana": "タナカ",
+    "phone": "654-6068",
+    "note": ""
+  },
+  {
+    "source_row_no": 166,
+    "member_no": 164,
+    "district_code": "3区C1",
+    "address_lot": "184-4",
+    "name": "御手洗　輝",
+    "name_kana": "ミタライ",
+    "phone": "653-4587",
+    "note": ""
+  },
+  {
+    "source_row_no": 167,
+    "member_no": 165,
+    "district_code": "3区C1",
+    "address_lot": "184-6",
+    "name": "尾花　大輝",
+    "name_kana": "オバナ",
+    "phone": "070-1775-7661",
+    "note": ""
+  },
+  {
+    "source_row_no": 168,
+    "member_no": 166,
+    "district_code": "3区C1",
+    "address_lot": "190-2",
+    "name": "佐藤　キミ子",
+    "name_kana": "サトウ",
+    "phone": "666-3270",
+    "note": ""
+  },
+  {
+    "source_row_no": 169,
+    "member_no": 167,
+    "district_code": "3区C2",
+    "address_lot": "178",
+    "name": "厚沢　茂司",
+    "name_kana": "アツザワ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 170,
+    "member_no": 168,
+    "district_code": "3区C2",
+    "address_lot": "178",
+    "name": "岩崎　てる子",
+    "name_kana": "イワサキ",
+    "phone": "663-0075",
+    "note": "2世帯、加藤"
+  },
+  {
+    "source_row_no": 171,
+    "member_no": 169,
+    "district_code": "3区C2",
+    "address_lot": "178",
+    "name": "岩前　良夫",
+    "name_kana": "イワマエ",
+    "phone": "654-1228",
+    "note": ""
+  },
+  {
+    "source_row_no": 172,
+    "member_no": 170,
+    "district_code": "3区C2",
+    "address_lot": "179",
+    "name": "田口　英晃",
+    "name_kana": "タグチ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 173,
+    "member_no": 171,
+    "district_code": "3区C2",
+    "address_lot": "179-1",
+    "name": "細井　壽江",
+    "name_kana": "ホソイ",
+    "phone": "665-5418",
+    "note": "細井　修"
+  },
+  {
+    "source_row_no": 174,
+    "member_no": 172,
+    "district_code": "3区C2",
+    "address_lot": "179-2",
+    "name": "樋口　純一",
+    "name_kana": "ヒグチ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 175,
+    "member_no": 173,
+    "district_code": "3区C2",
+    "address_lot": "179-3",
+    "name": "長田　豊",
+    "name_kana": "ナガタ",
+    "phone": "664-4366",
+    "note": ""
+  },
+  {
+    "source_row_no": 176,
+    "member_no": 174,
+    "district_code": "3区C2",
+    "address_lot": "180",
+    "name": "田口　博昭",
+    "name_kana": "タグチ",
+    "phone": "663-1855",
+    "note": ""
+  },
+  {
+    "source_row_no": 177,
+    "member_no": 175,
+    "district_code": "3区C2",
+    "address_lot": "180",
+    "name": "豊田　真美",
+    "name_kana": "トヨタ",
+    "phone": "665-2714",
+    "note": "豊田　直行"
+  },
+  {
+    "source_row_no": 178,
+    "member_no": 176,
+    "district_code": "4区A1",
+    "address_lot": "19",
+    "name": "小林　勇",
+    "name_kana": "コバヤシ",
+    "phone": "665-5459",
+    "note": ""
+  },
+  {
+    "source_row_no": 179,
+    "member_no": 177,
+    "district_code": "4区A1",
+    "address_lot": "19-1",
+    "name": "三川　啓",
+    "name_kana": "ミカワ　ヒラク",
+    "phone": "090-2665-5814",
+    "note": ""
+  },
+  {
+    "source_row_no": 180,
+    "member_no": 178,
+    "district_code": "4区A1",
+    "address_lot": "20",
+    "name": "中村　芳之",
+    "name_kana": "ナカムラ",
+    "phone": "664-2487",
+    "note": "中村　紀美子"
+  },
+  {
+    "source_row_no": 181,
+    "member_no": 179,
+    "district_code": "4区A1",
+    "address_lot": "20-1",
+    "name": "中村　昌一",
+    "name_kana": "ナカムラ",
+    "phone": "666-1145",
+    "note": ""
+  },
+  {
+    "source_row_no": 182,
+    "member_no": 180,
+    "district_code": "4区A1",
+    "address_lot": "20-2",
+    "name": "中村　栄一",
+    "name_kana": "ナカムラ",
+    "phone": "664-7910",
+    "note": ""
+  },
+  {
+    "source_row_no": 183,
+    "member_no": 181,
+    "district_code": "4区A1",
+    "address_lot": "21-2",
+    "name": "相馬　幸治",
+    "name_kana": "ソウマ",
+    "phone": "747-9355",
+    "note": "2世帯、石井　美代子"
+  },
+  {
+    "source_row_no": 184,
+    "member_no": 182,
+    "district_code": "4区A1",
+    "address_lot": "21-3",
+    "name": "坪井　哲夫",
+    "name_kana": "ツボイ",
+    "phone": "662-2173",
+    "note": ""
+  },
+  {
+    "source_row_no": 185,
+    "member_no": 183,
+    "district_code": "4区A1",
+    "address_lot": "23-2",
+    "name": "小川　博子",
+    "name_kana": "オガワ",
+    "phone": "664-8255",
+    "note": "小川　幸作"
+  },
+  {
+    "source_row_no": 186,
+    "member_no": 184,
+    "district_code": "4区A1",
+    "address_lot": "23-5",
+    "name": "小山　一彦",
+    "name_kana": "コヤマ",
+    "phone": "779-8637",
+    "note": "2世帯、阿部　榮安"
+  },
+  {
+    "source_row_no": 187,
+    "member_no": 185,
+    "district_code": "4区A1",
+    "address_lot": "55-401",
+    "name": "林　正廣",
+    "name_kana": "ハヤシ",
+    "phone": "664-9781",
+    "note": ""
+  },
+  {
+    "source_row_no": 188,
+    "member_no": 186,
+    "district_code": "4区A1",
+    "address_lot": "57-2",
+    "name": "加藤　雅斗",
+    "name_kana": "カトウ",
+    "phone": "080-5131-1602",
+    "note": ""
+  },
+  {
+    "source_row_no": 189,
+    "member_no": 187,
+    "district_code": "4区A1",
+    "address_lot": "57-3",
+    "name": "小柳　大輔",
+    "name_kana": "コヤナギ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 190,
+    "member_no": 188,
+    "district_code": "4区A1",
+    "address_lot": "58",
+    "name": "新井　宣男",
+    "name_kana": "アライ",
+    "phone": "664-0259",
+    "note": ""
+  },
+  {
+    "source_row_no": 191,
+    "member_no": 189,
+    "district_code": "4区A1",
+    "address_lot": "60",
+    "name": "合津　和央",
+    "name_kana": "ゴウズ",
+    "phone": "665-0797",
+    "note": ""
+  },
+  {
+    "source_row_no": 192,
+    "member_no": 190,
+    "district_code": "4区A2",
+    "address_lot": "25",
+    "name": "田端　宏行",
+    "name_kana": "タバタ",
+    "phone": "663-0212",
+    "note": ""
+  },
+  {
+    "source_row_no": 193,
+    "member_no": 191,
+    "district_code": "4区A2",
+    "address_lot": "25-2",
+    "name": "熊倉　実",
+    "name_kana": "クマクラ",
+    "phone": "663-0704",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 194,
+    "member_no": 192,
+    "district_code": "4区A2",
+    "address_lot": "25-3",
+    "name": "高岡　力也",
+    "name_kana": "タカオカ",
+    "phone": "856-9393",
+    "note": ""
+  },
+  {
+    "source_row_no": 195,
+    "member_no": 193,
+    "district_code": "4区A2",
+    "address_lot": "25-4",
+    "name": "山下　龍男",
+    "name_kana": "ヤマシタ",
+    "phone": "667-4408",
+    "note": ""
+  },
+  {
+    "source_row_no": 196,
+    "member_no": 194,
+    "district_code": "4区A2",
+    "address_lot": "51",
+    "name": "小山　幸子",
+    "name_kana": "コヤマ",
+    "phone": "663-6966",
+    "note": ""
+  },
+  {
+    "source_row_no": 197,
+    "member_no": 195,
+    "district_code": "4区A2",
+    "address_lot": "51-2",
+    "name": "伊藤　信弘",
+    "name_kana": "イトウ",
+    "phone": "668-7192",
+    "note": ""
+  },
+  {
+    "source_row_no": 198,
+    "member_no": 196,
+    "district_code": "4区A2",
+    "address_lot": "51-3",
+    "name": "高畠　辰也",
+    "name_kana": "タカバタケ　タツヤ",
+    "phone": "651-9944",
+    "note": ""
+  },
+  {
+    "source_row_no": 199,
+    "member_no": 197,
+    "district_code": "4区A2",
+    "address_lot": "51-5",
+    "name": "千葉　信吾",
+    "name_kana": "チバ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 200,
+    "member_no": 198,
+    "district_code": "4区A2",
+    "address_lot": "51-6",
+    "name": "新井　祐",
+    "name_kana": "アライ",
+    "phone": "080-3157-6144",
+    "note": "山中　五郎"
+  },
+  {
+    "source_row_no": 201,
+    "member_no": 199,
+    "district_code": "4区A2",
+    "address_lot": "53-1",
+    "name": "渡邊　正人",
+    "name_kana": "ワタナベ",
+    "phone": "090-7703-7541",
+    "note": ""
+  },
+  {
+    "source_row_no": 202,
+    "member_no": 200,
+    "district_code": "4区A2",
+    "address_lot": "53-2",
+    "name": "大矢　隆啓",
+    "name_kana": "オオヤ",
+    "phone": "627-2215",
+    "note": ""
+  },
+  {
+    "source_row_no": 203,
+    "member_no": 201,
+    "district_code": "4区A2",
+    "address_lot": "53-3",
+    "name": "井ノ口　海人",
+    "name_kana": "イノグチ",
+    "phone": "080-3560-3806",
+    "note": ""
+  },
+  {
+    "source_row_no": 204,
+    "member_no": 202,
+    "district_code": "4区A2",
+    "address_lot": "53-4",
+    "name": "長野　和海",
+    "name_kana": "ナガノ",
+    "phone": "080-5504-1644",
+    "note": ""
+  },
+  {
+    "source_row_no": 205,
+    "member_no": 203,
+    "district_code": "4区A2",
+    "address_lot": "53-5",
+    "name": "関　幸大",
+    "name_kana": "セキ",
+    "phone": "080-4615-0603",
+    "note": ""
+  },
+  {
+    "source_row_no": 206,
+    "member_no": 204,
+    "district_code": "4区A2",
+    "address_lot": "53-6",
+    "name": "遠藤　功二",
+    "name_kana": "エンドウ",
+    "phone": "788-4855",
+    "note": ""
+  },
+  {
+    "source_row_no": 207,
+    "member_no": 205,
+    "district_code": "4区A3",
+    "address_lot": "131-3",
+    "name": "戸塚　歩佳",
+    "name_kana": "トツカ",
+    "phone": "090-5203-9230",
+    "note": ""
+  },
+  {
+    "source_row_no": 208,
+    "member_no": 206,
+    "district_code": "4区A3",
+    "address_lot": "131-8",
+    "name": "渡辺　直樹",
+    "name_kana": "ワタナベ",
+    "phone": "090-4734-1350",
+    "note": ""
+  },
+  {
+    "source_row_no": 209,
+    "member_no": 207,
+    "district_code": "4区A3",
+    "address_lot": "135",
+    "name": "橋本　俊樹",
+    "name_kana": "ハシモト",
+    "phone": "663-6067",
+    "note": ""
+  },
+  {
+    "source_row_no": 210,
+    "member_no": 208,
+    "district_code": "4区A3",
+    "address_lot": "136",
+    "name": "田熊　利宏",
+    "name_kana": "タグマ",
+    "phone": "665-0331",
+    "note": "田熊　勇、山田　穂積"
+  },
+  {
+    "source_row_no": 211,
+    "member_no": 209,
+    "district_code": "4区A3",
+    "address_lot": "136-6",
+    "name": "福島　敏光",
+    "name_kana": "フクシマ",
+    "phone": "090-2241-3826",
+    "note": ""
+  },
+  {
+    "source_row_no": 212,
+    "member_no": 210,
+    "district_code": "4区A3",
+    "address_lot": "136-7",
+    "name": "鈴木　悟",
+    "name_kana": "スズキ",
+    "phone": "080-9720-1133",
+    "note": ""
+  },
+  {
+    "source_row_no": 213,
+    "member_no": 211,
+    "district_code": "4区A3",
+    "address_lot": "152-1",
+    "name": "吉田　孝",
+    "name_kana": "ヨシダ",
+    "phone": "667-9014",
+    "note": ""
+  },
+  {
+    "source_row_no": 214,
+    "member_no": 212,
+    "district_code": "4区A3",
+    "address_lot": "152-5",
+    "name": "谷田部　和子",
+    "name_kana": "ヤタベ",
+    "phone": "653-5150",
+    "note": "谷田部　博"
+  },
+  {
+    "source_row_no": 215,
+    "member_no": 213,
+    "district_code": "4区A3",
+    "address_lot": "152-6",
+    "name": "早川　正智",
+    "name_kana": "ハヤカワ",
+    "phone": "607-5539",
+    "note": ""
+  },
+  {
+    "source_row_no": 216,
+    "member_no": 214,
+    "district_code": "4区A3",
+    "address_lot": "152-7",
+    "name": "白石　光宏",
+    "name_kana": "シライシ",
+    "phone": "717-2762",
+    "note": ""
+  },
+  {
+    "source_row_no": 217,
+    "member_no": 215,
+    "district_code": "4区A3",
+    "address_lot": "154",
+    "name": "福山　公子",
+    "name_kana": "フクヤマ",
+    "phone": "666-8617",
+    "note": ""
+  },
+  {
+    "source_row_no": 218,
+    "member_no": 216,
+    "district_code": "4区B1",
+    "address_lot": "132",
+    "name": "小沢　正成",
+    "name_kana": "オザワ",
+    "phone": "666-5430",
+    "note": ""
+  },
+  {
+    "source_row_no": 219,
+    "member_no": 217,
+    "district_code": "4区B1",
+    "address_lot": "141",
+    "name": "仙石　国次",
+    "name_kana": "センゴク",
+    "phone": "663-1073",
+    "note": ""
+  },
+  {
+    "source_row_no": 220,
+    "member_no": 218,
+    "district_code": "4区B1",
+    "address_lot": "141",
+    "name": "松本　克美",
+    "name_kana": "マツモト",
+    "phone": "664-7632",
+    "note": "2世帯、山崎　浪子"
+  },
+  {
+    "source_row_no": 221,
+    "member_no": 219,
+    "district_code": "4区B1",
+    "address_lot": "142",
+    "name": "杉崎　豊",
+    "name_kana": "スギサキ",
+    "phone": "663-0609",
+    "note": ""
+  },
+  {
+    "source_row_no": 222,
+    "member_no": 220,
+    "district_code": "4区B1",
+    "address_lot": "142-2",
+    "name": "竹野　行夫",
+    "name_kana": "タケノ",
+    "phone": "665-7618",
+    "note": ""
+  },
+  {
+    "source_row_no": 223,
+    "member_no": 221,
+    "district_code": "4区B1",
+    "address_lot": "142-3",
+    "name": "竹野　智博",
+    "name_kana": "タケノ",
+    "phone": "653-3442",
+    "note": ""
+  },
+  {
+    "source_row_no": 224,
+    "member_no": 222,
+    "district_code": "4区B1",
+    "address_lot": "142-4",
+    "name": "穐原　秀育",
+    "name_kana": "アキハラ",
+    "phone": "716-8318",
+    "note": ""
+  },
+  {
+    "source_row_no": 225,
+    "member_no": 223,
+    "district_code": "4区B1",
+    "address_lot": "142-6",
+    "name": "老川　彰則",
+    "name_kana": "オイカワ",
+    "phone": "080-6807-0210",
+    "note": ""
+  },
+  {
+    "source_row_no": 226,
+    "member_no": 224,
+    "district_code": "4区B2",
+    "address_lot": "133-2",
+    "name": "岩本　俊英",
+    "name_kana": "イワモト",
+    "phone": "652-1528",
+    "note": ""
+  },
+  {
+    "source_row_no": 227,
+    "member_no": 225,
+    "district_code": "4区B2",
+    "address_lot": "133-7",
+    "name": "高後　仁",
+    "name_kana": "ゴウゴ",
+    "phone": "668-2858",
+    "note": ""
+  },
+  {
+    "source_row_no": 228,
+    "member_no": 226,
+    "district_code": "4区B2",
+    "address_lot": "139-1",
+    "name": "橋本　千代",
+    "name_kana": "ハシモト",
+    "phone": "665-6530",
+    "note": "橋本　清"
+  },
+  {
+    "source_row_no": 229,
+    "member_no": 227,
+    "district_code": "4区B2",
+    "address_lot": "139-2",
+    "name": "山本　宏重",
+    "name_kana": "ヤマモト",
+    "phone": "652-2177",
+    "note": ""
+  },
+  {
+    "source_row_no": 230,
+    "member_no": 228,
+    "district_code": "4区B2",
+    "address_lot": "140-2",
+    "name": "渡辺　博司",
+    "name_kana": "ワタナベ",
+    "phone": "090-4951-0467",
+    "note": ""
+  },
+  {
+    "source_row_no": 231,
+    "member_no": 229,
+    "district_code": "4区B3",
+    "address_lot": "131-2",
+    "name": "冨澤　泰之",
+    "name_kana": "トミザワ",
+    "phone": "090-1113-1010",
+    "note": ""
+  },
+  {
+    "source_row_no": 232,
+    "member_no": 230,
+    "district_code": "4区B3",
+    "address_lot": "131-7",
+    "name": "中庭　剛",
+    "name_kana": "ナカニワ",
+    "phone": "666-6813",
+    "note": ""
+  },
+  {
+    "source_row_no": 233,
+    "member_no": 231,
+    "district_code": "4区B3",
+    "address_lot": "133-4",
+    "name": "見立屋　智",
+    "name_kana": "ミタテヤ",
+    "phone": "654-1616",
+    "note": "武藤　朝子"
+  },
+  {
+    "source_row_no": 234,
+    "member_no": 232,
+    "district_code": "4区B3",
+    "address_lot": "133-6",
+    "name": "野澤　弘二",
+    "name_kana": "ノザワ",
+    "phone": "665-5836",
+    "note": ""
+  },
+  {
+    "source_row_no": 235,
+    "member_no": 233,
+    "district_code": "4区B3",
+    "address_lot": "133-12",
+    "name": "工藤　慎一",
+    "name_kana": "クドウ",
+    "phone": "651-4136",
+    "note": ""
+  },
+  {
+    "source_row_no": 236,
+    "member_no": 234,
+    "district_code": "4区B3",
+    "address_lot": "137-3",
+    "name": "小澤　昇",
+    "name_kana": "オザワ",
+    "phone": "654-0267",
+    "note": ""
+  },
+  {
+    "source_row_no": 237,
+    "member_no": 235,
+    "district_code": "4区B3",
+    "address_lot": "137-4",
+    "name": "荒井　美智子",
+    "name_kana": "アライ",
+    "phone": "654-3679",
+    "note": ""
+  },
+  {
+    "source_row_no": 238,
+    "member_no": 236,
+    "district_code": "4区B3",
+    "address_lot": "137-5",
+    "name": "西川　直人",
+    "name_kana": "ニシカワ",
+    "phone": "",
+    "note": ""
+  },
+  {
+    "source_row_no": 239,
+    "member_no": 237,
+    "district_code": "4区B3",
+    "address_lot": "137-6",
+    "name": "竹内　勇",
+    "name_kana": "タケウチ",
+    "phone": "665-3718",
+    "note": ""
+  },
+  {
+    "source_row_no": 240,
+    "member_no": 238,
+    "district_code": "4区B3",
+    "address_lot": "137-7",
+    "name": "馬場　直也",
+    "name_kana": "ババ",
+    "phone": "652-2874",
+    "note": ""
+  },
+  {
+    "source_row_no": 241,
+    "member_no": 239,
+    "district_code": "4区B3",
+    "address_lot": "137-8",
+    "name": "大橋　章",
+    "name_kana": "オオハシ",
+    "phone": "654-6270",
+    "note": ""
+  },
+  {
+    "source_row_no": 242,
+    "member_no": 240,
+    "district_code": "4区B3",
+    "address_lot": "137-10",
+    "name": "久保田　敦",
+    "name_kana": "クボタ",
+    "phone": "080-1749-9049",
+    "note": ""
+  },
+  {
+    "source_row_no": 243,
+    "member_no": 241,
+    "district_code": "4区C1",
+    "address_lot": "138",
+    "name": "関口　三千夫",
+    "name_kana": "セキグチ",
+    "phone": "663-2181",
+    "note": ""
+  },
+  {
+    "source_row_no": 244,
+    "member_no": 242,
+    "district_code": "4区C1",
+    "address_lot": "138",
+    "name": "迫田　和彦",
+    "name_kana": "サコタ",
+    "phone": "667-2467",
+    "note": ""
+  },
+  {
+    "source_row_no": 245,
+    "member_no": 243,
+    "district_code": "4区C1",
+    "address_lot": "138-3",
+    "name": "中川　治",
+    "name_kana": "ナカガワ",
+    "phone": "653-1521",
+    "note": ""
+  },
+  {
+    "source_row_no": 246,
+    "member_no": 244,
+    "district_code": "4区C1",
+    "address_lot": "138-4",
+    "name": "藤井　晋介",
+    "name_kana": "フジイ",
+    "phone": "673-1208",
+    "note": ""
+  },
+  {
+    "source_row_no": 247,
+    "member_no": 245,
+    "district_code": "4区C1",
+    "address_lot": "143-2",
+    "name": "中井川　英明",
+    "name_kana": "ナカイガワ",
+    "phone": "653-0477",
+    "note": ""
+  },
+  {
+    "source_row_no": 248,
+    "member_no": 246,
+    "district_code": "4区C1",
+    "address_lot": "143-6",
+    "name": "栗原　宏",
+    "name_kana": "クリハラ",
+    "phone": "667-8569",
+    "note": ""
+  },
+  {
+    "source_row_no": 249,
+    "member_no": 247,
+    "district_code": "4区C1",
+    "address_lot": "143-7",
+    "name": "今井　三二",
+    "name_kana": "イマイ",
+    "phone": "652-7584",
+    "note": ""
+  },
+  {
+    "source_row_no": 250,
+    "member_no": 248,
+    "district_code": "4区C1",
+    "address_lot": "143-8",
+    "name": "高橋　芳之",
+    "name_kana": "タカハシ",
+    "phone": "662-8222",
+    "note": ""
+  },
+  {
+    "source_row_no": 251,
+    "member_no": 249,
+    "district_code": "4区C1",
+    "address_lot": "143-10",
+    "name": "三根　典久",
+    "name_kana": "ミネ",
+    "phone": "667-0326",
+    "note": ""
+  },
+  {
+    "source_row_no": 252,
+    "member_no": 250,
+    "district_code": "4区C1",
+    "address_lot": "143-11",
+    "name": "藤田　博",
+    "name_kana": "フジタ",
+    "phone": "654-7522",
+    "note": ""
+  },
+  {
+    "source_row_no": 253,
+    "member_no": 251,
+    "district_code": "4区C1",
+    "address_lot": "143-12",
+    "name": "市原　致行",
+    "name_kana": "イチハラ",
+    "phone": "666-3068",
+    "note": ""
+  },
+  {
+    "source_row_no": 254,
+    "member_no": 252,
+    "district_code": "4区C2",
+    "address_lot": "144-1",
+    "name": "内海　郁",
+    "name_kana": "ウツミ　カオル",
+    "phone": "779-8505",
+    "note": ""
+  },
+  {
+    "source_row_no": 255,
+    "member_no": 253,
+    "district_code": "4区C2",
+    "address_lot": "144-2",
+    "name": "戸村　俊一",
+    "name_kana": "トムラ　シュンイチ",
+    "phone": "663-2328",
+    "note": ""
+  },
+  {
+    "source_row_no": 256,
+    "member_no": 254,
+    "district_code": "4区C2",
+    "address_lot": "145-1",
+    "name": "佐藤　達朗",
+    "name_kana": "サトウ　タツロウ",
+    "phone": "782-9180",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 257,
+    "member_no": 255,
+    "district_code": "4区C2",
+    "address_lot": "145-2",
+    "name": "田村　建志",
+    "name_kana": "タムラ　タケシ",
+    "phone": "783-4535",
+    "note": ""
+  },
+  {
+    "source_row_no": 258,
+    "member_no": 256,
+    "district_code": "4区C2",
+    "address_lot": "146-1",
+    "name": "川田　公昭",
+    "name_kana": "カワタ　マサアキ",
+    "phone": "653-4907",
+    "note": ""
+  },
+  {
+    "source_row_no": 259,
+    "member_no": 257,
+    "district_code": "4区C2",
+    "address_lot": "146-3",
+    "name": "中﨑　剛",
+    "name_kana": "ナカザキ　タケシ",
+    "phone": "780-2689",
+    "note": ""
+  },
+  {
+    "source_row_no": 260,
+    "member_no": 258,
+    "district_code": "4区C2",
+    "address_lot": "146-5",
+    "name": "前島　伸行",
+    "name_kana": "マエジマ　ノブユキ",
+    "phone": "778-7195",
+    "note": ""
+  },
+  {
+    "source_row_no": 261,
+    "member_no": 259,
+    "district_code": "4区C2",
+    "address_lot": "149",
+    "name": "渡辺　幸平",
+    "name_kana": "ワタナベ　コウヘイ",
+    "phone": "663-5160",
+    "note": ""
+  },
+  {
+    "source_row_no": 262,
+    "member_no": 260,
+    "district_code": "4区C2",
+    "address_lot": "151-2",
+    "name": "木村　京子",
+    "name_kana": "キムラ　キョウコ",
+    "phone": "663-1329",
+    "note": ""
+  },
+  {
+    "source_row_no": 263,
+    "member_no": 261,
+    "district_code": "4区C3",
+    "address_lot": "172",
+    "name": "小林　敏邦",
+    "name_kana": "コバヤシ",
+    "phone": "663-3545",
+    "note": ""
+  },
+  {
+    "source_row_no": 264,
+    "member_no": 262,
+    "district_code": "4区C3",
+    "address_lot": "172-5",
+    "name": "西田　明夫",
+    "name_kana": "ニシダ",
+    "phone": "664-6102",
+    "note": ""
+  },
+  {
+    "source_row_no": 265,
+    "member_no": 263,
+    "district_code": "4区C3",
+    "address_lot": "173-1",
+    "name": "石崎　隆介",
+    "name_kana": "イシザキ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 266,
+    "member_no": 264,
+    "district_code": "4区C3",
+    "address_lot": "173-6",
+    "name": "古川　克己",
+    "name_kana": "フルカワ",
+    "phone": "653-0831",
+    "note": ""
+  },
+  {
+    "source_row_no": 267,
+    "member_no": 265,
+    "district_code": "4区C3",
+    "address_lot": "173-7",
+    "name": "和田　康彦",
+    "name_kana": "ワダ",
+    "phone": "651-3918",
+    "note": ""
+  },
+  {
+    "source_row_no": 268,
+    "member_no": 266,
+    "district_code": "4区C3",
+    "address_lot": "173-8",
+    "name": "山本　圭子",
+    "name_kana": "ヤマモト",
+    "phone": "667-0205",
+    "note": "山本　俊介"
+  },
+  {
+    "source_row_no": 269,
+    "member_no": 267,
+    "district_code": "4区C3",
+    "address_lot": "175-1",
+    "name": "柳川　正子",
+    "name_kana": "ヤナガワ",
+    "phone": "664-9760",
+    "note": ""
+  },
+  {
+    "source_row_no": 270,
+    "member_no": 268,
+    "district_code": "4区C3",
+    "address_lot": "175-3",
+    "name": "山田　道久",
+    "name_kana": "ヤマダ",
+    "phone": "666-3507",
+    "note": ""
+  },
+  {
+    "source_row_no": 271,
+    "member_no": 269,
+    "district_code": "5区A1",
+    "address_lot": "26",
+    "name": "白井　鐘順",
+    "name_kana": "シライ",
+    "phone": "652-5112",
+    "note": "準会員、白井　ミツ子"
+  },
+  {
+    "source_row_no": 272,
+    "member_no": 270,
+    "district_code": "5区A1",
+    "address_lot": "27",
+    "name": "後藤　信行",
+    "name_kana": "ゴトウ　ノブユキ",
+    "phone": "667-3529",
+    "note": ""
+  },
+  {
+    "source_row_no": 273,
+    "member_no": 271,
+    "district_code": "5区A1",
+    "address_lot": "32-3",
+    "name": "山口　雄豊",
+    "name_kana": "ヤマモト　ユウホウ",
+    "phone": "090-3900-4625",
+    "note": ""
+  },
+  {
+    "source_row_no": 274,
+    "member_no": 272,
+    "district_code": "5区A1",
+    "address_lot": "33-3",
+    "name": "角田　裕",
+    "name_kana": "ツノダ　ヒロシ",
+    "phone": "665-8489",
+    "note": ""
+  },
+  {
+    "source_row_no": 275,
+    "member_no": 273,
+    "district_code": "5区A1",
+    "address_lot": "35-1",
+    "name": "山本　真",
+    "name_kana": "ヤマモト　シン",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 276,
+    "member_no": 274,
+    "district_code": "5区A1",
+    "address_lot": "35-4",
+    "name": "西本　直樹",
+    "name_kana": "ニシモト　ナオキ",
+    "phone": "668-5003",
+    "note": "2世帯、河村　周行"
+  },
+  {
+    "source_row_no": 277,
+    "member_no": 275,
+    "district_code": "5区A1",
+    "address_lot": "37",
+    "name": "安藤　憲司",
+    "name_kana": "アンドウ",
+    "phone": "665-2972",
+    "note": "安藤　利夫"
+  },
+  {
+    "source_row_no": 278,
+    "member_no": 276,
+    "district_code": "5区A1",
+    "address_lot": "38",
+    "name": "竹内　健二",
+    "name_kana": "タケウチ　ケンジ",
+    "phone": "665-1739",
+    "note": ""
+  },
+  {
+    "source_row_no": 279,
+    "member_no": 277,
+    "district_code": "5区A1",
+    "address_lot": "38-2",
+    "name": "飯田　剛史",
+    "name_kana": "イイダ",
+    "phone": "090-6483-0783",
+    "note": ""
+  },
+  {
+    "source_row_no": 280,
+    "member_no": 278,
+    "district_code": "5区A1",
+    "address_lot": "38-7",
+    "name": "末崎　毅",
+    "name_kana": "スエザキ",
+    "phone": "080-5401-9615",
+    "note": ""
+  },
+  {
+    "source_row_no": 281,
+    "member_no": 279,
+    "district_code": "5区A1",
+    "address_lot": "39-1",
+    "name": "荒井　悦子",
+    "name_kana": "アライ",
+    "phone": "660-1392",
+    "note": "荒井　伸夫"
+  },
+  {
+    "source_row_no": 282,
+    "member_no": 280,
+    "district_code": "5区A1",
+    "address_lot": "39-3",
+    "name": "本木　信夫",
+    "name_kana": "モトキ　ノブオ",
+    "phone": "663-1585",
+    "note": ""
+  },
+  {
+    "source_row_no": 283,
+    "member_no": 281,
+    "district_code": "5区A1",
+    "address_lot": "39-4",
+    "name": "浪江　正二",
+    "name_kana": "ナミエ　ショウジ",
+    "phone": "666-6846",
+    "note": ""
+  },
+  {
+    "source_row_no": 284,
+    "member_no": 282,
+    "district_code": "5区A1",
+    "address_lot": "39-6",
+    "name": "山岸　衛",
+    "name_kana": "ヤマギシ",
+    "phone": "090-7178-1932",
+    "note": ""
+  },
+  {
+    "source_row_no": 285,
+    "member_no": 283,
+    "district_code": "5区A1",
+    "address_lot": "41",
+    "name": "山岸　留作",
+    "name_kana": "ヤマギシ　トメサク",
+    "phone": "667-2846",
+    "note": ""
+  },
+  {
+    "source_row_no": 286,
+    "member_no": 284,
+    "district_code": "5区A1",
+    "address_lot": "43-2",
+    "name": "櫻井　俊平",
+    "name_kana": "サクライ　シュンペイ",
+    "phone": "665-2007",
+    "note": ""
+  },
+  {
+    "source_row_no": 287,
+    "member_no": 285,
+    "district_code": "5区A2",
+    "address_lot": "44-2",
+    "name": "石村　昌文",
+    "name_kana": "イシムラ　マサフミ",
+    "phone": "664-4996",
+    "note": ""
+  },
+  {
+    "source_row_no": 288,
+    "member_no": 286,
+    "district_code": "5区A2",
+    "address_lot": "44-4",
+    "name": "原田　勇一",
+    "name_kana": "ハラダ",
+    "phone": "090-7736-1153",
+    "note": ""
+  },
+  {
+    "source_row_no": 289,
+    "member_no": 287,
+    "district_code": "5区A2",
+    "address_lot": "44-14",
+    "name": "河野　聖之",
+    "name_kana": "コウノ",
+    "phone": "080-3455-1003",
+    "note": ""
+  },
+  {
+    "source_row_no": 290,
+    "member_no": 288,
+    "district_code": "5区A2",
+    "address_lot": "45",
+    "name": "伊澤　宏平",
+    "name_kana": "イザワ　コウヘイ",
+    "phone": "782-4575",
+    "note": ""
+  },
+  {
+    "source_row_no": 291,
+    "member_no": 289,
+    "district_code": "5区A2",
+    "address_lot": "45",
+    "name": "竹之木進　貫治",
+    "name_kana": "タケノキシン　カンジ",
+    "phone": "662-2110",
+    "note": ""
+  },
+  {
+    "source_row_no": 292,
+    "member_no": 290,
+    "district_code": "5区A2",
+    "address_lot": "45",
+    "name": "飯島　綾乃",
+    "name_kana": "イイジマ",
+    "phone": "665-6030",
+    "note": "飯島　富士彦"
+  },
+  {
+    "source_row_no": 293,
+    "member_no": 291,
+    "district_code": "5区A2",
+    "address_lot": "49",
+    "name": "田熊　潔志",
+    "name_kana": "タグマ　キヨシ",
+    "phone": "663-7168",
+    "note": ""
+  },
+  {
+    "source_row_no": 294,
+    "member_no": 292,
+    "district_code": "5区A2",
+    "address_lot": "49-4",
+    "name": "鈴木　良平",
+    "name_kana": "スズキ",
+    "phone": "652-9447",
+    "note": "2世帯、角田　久子"
+  },
+  {
+    "source_row_no": 295,
+    "member_no": 293,
+    "district_code": "5区A2",
+    "address_lot": "50",
+    "name": "浅子　秀雄",
+    "name_kana": "アサコ　ヒデオ",
+    "phone": "665-6532",
+    "note": ""
+  },
+  {
+    "source_row_no": 296,
+    "member_no": 294,
+    "district_code": "5区A2",
+    "address_lot": "50",
+    "name": "野本　政明",
+    "name_kana": "ノモト　マサアキ",
+    "phone": "664-4073",
+    "note": ""
+  },
+  {
+    "source_row_no": 297,
+    "member_no": 295,
+    "district_code": "5区B1",
+    "address_lot": "44-1",
+    "name": "平井　昌宏",
+    "name_kana": "ヒライ",
+    "phone": "651-7870",
+    "note": ""
+  },
+  {
+    "source_row_no": 298,
+    "member_no": 296,
+    "district_code": "5区B1",
+    "address_lot": "44-8",
+    "name": "星野　巧",
+    "name_kana": "ホシノ",
+    "phone": "665-3686",
+    "note": ""
+  },
+  {
+    "source_row_no": 299,
+    "member_no": 297,
+    "district_code": "5区B1",
+    "address_lot": "45-4",
+    "name": "阿部　良二",
+    "name_kana": "アベ",
+    "phone": "668-1235",
+    "note": ""
+  },
+  {
+    "source_row_no": 300,
+    "member_no": 298,
+    "district_code": "5区B1",
+    "address_lot": "46",
+    "name": "田中　政興",
+    "name_kana": "タナカ",
+    "phone": "663-6964",
+    "note": "渡辺　新"
+  },
+  {
+    "source_row_no": 301,
+    "member_no": 299,
+    "district_code": "5区B1",
+    "address_lot": "47",
+    "name": "中村　征宏",
+    "name_kana": "ナカムラ",
+    "phone": "653-4420",
+    "note": ""
+  },
+  {
+    "source_row_no": 302,
+    "member_no": 300,
+    "district_code": "5区B1",
+    "address_lot": "50-1",
+    "name": "丸山　常夫",
+    "name_kana": "マルヤマ",
+    "phone": "666-6340",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 303,
+    "member_no": 301,
+    "district_code": "5区B1",
+    "address_lot": "50-6",
+    "name": "秋山　政泰",
+    "name_kana": "アキヤマ",
+    "phone": "668-1699",
+    "note": ""
+  },
+  {
+    "source_row_no": 304,
+    "member_no": 302,
+    "district_code": "5区B1",
+    "address_lot": "50-7",
+    "name": "長谷川　大",
+    "name_kana": "ハセガワ",
+    "phone": "778-8553",
+    "note": ""
+  },
+  {
+    "source_row_no": 305,
+    "member_no": 303,
+    "district_code": "5区B2",
+    "address_lot": "156",
+    "name": "薄田　忠夫",
+    "name_kana": "ウスダ",
+    "phone": "663-1848",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 306,
+    "member_no": 304,
+    "district_code": "5区B2",
+    "address_lot": "159-1",
+    "name": "大鹿　修平",
+    "name_kana": "オオシカ",
+    "phone": "080-2180-8640",
+    "note": ""
+  },
+  {
+    "source_row_no": 307,
+    "member_no": 305,
+    "district_code": "5区B2",
+    "address_lot": "160",
+    "name": "関口　善信",
+    "name_kana": "セキグチ",
+    "phone": "663-3415",
+    "note": "関口　一信"
+  },
+  {
+    "source_row_no": 308,
+    "member_no": 306,
+    "district_code": "5区B2",
+    "address_lot": "165",
+    "name": "関口　知良",
+    "name_kana": "セキグチ",
+    "phone": "663-2011",
+    "note": "関口　喩貴男、関口　タヱ"
+  },
+  {
+    "source_row_no": 309,
+    "member_no": 307,
+    "district_code": "5区B2",
+    "address_lot": "166",
+    "name": "勝田　繁行",
+    "name_kana": "カツタ",
+    "phone": "663-1711",
+    "note": ""
+  },
+  {
+    "source_row_no": 310,
+    "member_no": 308,
+    "district_code": "5区B2",
+    "address_lot": "166-6",
+    "name": "大竹　かず枝",
+    "name_kana": "オオタケ",
+    "phone": "664-1679",
+    "note": "大竹　正一"
+  },
+  {
+    "source_row_no": 311,
+    "member_no": 309,
+    "district_code": "5区B2",
+    "address_lot": "167",
+    "name": "齋藤　守央",
+    "name_kana": "サイトウ",
+    "phone": "664-6529",
+    "note": "2世帯、齋藤　明宏"
+  },
+  {
+    "source_row_no": 312,
+    "member_no": 310,
+    "district_code": "5区B2",
+    "address_lot": "167-5",
+    "name": "若林　佳孝",
+    "name_kana": "ワカバヤシ",
+    "phone": "665-2060",
+    "note": "下田　セツ"
+  },
+  {
+    "source_row_no": 313,
+    "member_no": 311,
+    "district_code": "5区B2",
+    "address_lot": "169",
+    "name": "齋藤　隆司",
+    "name_kana": "サイトウ　タカシ",
+    "phone": "665-2970",
+    "note": ""
+  },
+  {
+    "source_row_no": 314,
+    "member_no": 312,
+    "district_code": "5区B2",
+    "address_lot": "171",
+    "name": "塚原　二郎",
+    "name_kana": "ツカハラ",
+    "phone": "663-1806",
+    "note": ""
+  },
+  {
+    "source_row_no": 315,
+    "member_no": 313,
+    "district_code": "6区A1",
+    "address_lot": "203-1",
+    "name": "嶋田　光雄",
+    "name_kana": "シマダ",
+    "phone": "665-7562",
+    "note": ""
+  },
+  {
+    "source_row_no": 316,
+    "member_no": 314,
+    "district_code": "6区A1",
+    "address_lot": "203-3",
+    "name": "嶋田　健治",
+    "name_kana": "シマダ",
+    "phone": "663-4073",
+    "note": ""
+  },
+  {
+    "source_row_no": 317,
+    "member_no": 315,
+    "district_code": "6区A1",
+    "address_lot": "208",
+    "name": "楢本　吉彦",
+    "name_kana": "ナラモト",
+    "phone": "652-4759",
+    "note": ""
+  },
+  {
+    "source_row_no": 318,
+    "member_no": 316,
+    "district_code": "6区A1",
+    "address_lot": "210",
+    "name": "矢部　明",
+    "name_kana": "ヤベ",
+    "phone": "666-3921",
+    "note": ""
+  },
+  {
+    "source_row_no": 319,
+    "member_no": 317,
+    "district_code": "6区A1",
+    "address_lot": "211",
+    "name": "今泉　和彦",
+    "name_kana": "イマイズミ",
+    "phone": "651-4495",
+    "note": ""
+  },
+  {
+    "source_row_no": 320,
+    "member_no": 318,
+    "district_code": "6区A2",
+    "address_lot": "205",
+    "name": "蓜島　裕一",
+    "name_kana": "ハイシマ",
+    "phone": "663-2439",
+    "note": ""
+  },
+  {
+    "source_row_no": 321,
+    "member_no": 319,
+    "district_code": "6区A2",
+    "address_lot": "214",
+    "name": "熊井　隆智",
+    "name_kana": "クマイ",
+    "phone": "663-2447",
+    "note": "熊井　豊美"
+  },
+  {
+    "source_row_no": 322,
+    "member_no": 320,
+    "district_code": "6区A2",
+    "address_lot": "214",
+    "name": "石垣　進",
+    "name_kana": "イシガキ",
+    "phone": "666-0048",
+    "note": ""
+  },
+  {
+    "source_row_no": 323,
+    "member_no": 321,
+    "district_code": "6区A2",
+    "address_lot": "217-2",
+    "name": "矢島　陽介",
+    "name_kana": "ヤジマ",
+    "phone": "090-4750-6921",
+    "note": ""
+  },
+  {
+    "source_row_no": 324,
+    "member_no": 322,
+    "district_code": "6区A2",
+    "address_lot": "221-1",
+    "name": "中村　俊樹",
+    "name_kana": "ナカムラ",
+    "phone": "090-2346-8252",
+    "note": ""
+  },
+  {
+    "source_row_no": 325,
+    "member_no": 323,
+    "district_code": "6区A2",
+    "address_lot": "222-1",
+    "name": "榎本　敏郎",
+    "name_kana": "エノモト",
+    "phone": "665-5453",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 326,
+    "member_no": 324,
+    "district_code": "6区A2",
+    "address_lot": "222-2",
+    "name": "島田　勝行",
+    "name_kana": "シマダ",
+    "phone": "663-1143",
+    "note": ""
+  },
+  {
+    "source_row_no": 327,
+    "member_no": 325,
+    "district_code": "6区A2",
+    "address_lot": "222-3",
+    "name": "藤巻　貴幸",
+    "name_kana": "フジマキ",
+    "phone": "665-5451",
+    "note": ""
+  },
+  {
+    "source_row_no": 328,
+    "member_no": 326,
+    "district_code": "6区B1",
+    "address_lot": "232-2",
+    "name": "永杉　翔平",
+    "name_kana": "ナガスギ",
+    "phone": "090-4015-0720",
+    "note": ""
+  },
+  {
+    "source_row_no": 329,
+    "member_no": 327,
+    "district_code": "6区B1",
+    "address_lot": "232-3",
+    "name": "柳沢　政治",
+    "name_kana": "ヤナギサワ",
+    "phone": "651-5016",
+    "note": ""
+  },
+  {
+    "source_row_no": 330,
+    "member_no": 328,
+    "district_code": "6区B1",
+    "address_lot": "232-4",
+    "name": "吉田　二郎",
+    "name_kana": "ヨシダ",
+    "phone": "665-2035",
+    "note": ""
+  },
+  {
+    "source_row_no": 331,
+    "member_no": 329,
+    "district_code": "6区B1",
+    "address_lot": "232-5",
+    "name": "角田　和雄",
+    "name_kana": "ツノダ",
+    "phone": "666-3924",
+    "note": "福里　利枝"
+  },
+  {
+    "source_row_no": 332,
+    "member_no": 330,
+    "district_code": "6区B1",
+    "address_lot": "233",
+    "name": "長野　勉",
+    "name_kana": "ナガノ",
+    "phone": "667-7823",
+    "note": ""
+  },
+  {
+    "source_row_no": 333,
+    "member_no": 331,
+    "district_code": "6区B1",
+    "address_lot": "233",
+    "name": "木村　義夫",
+    "name_kana": "キムラ",
+    "phone": "664-6887",
+    "note": ""
+  },
+  {
+    "source_row_no": 334,
+    "member_no": 332,
+    "district_code": "6区B2",
+    "address_lot": "235-1",
+    "name": "松本　仁二郎",
+    "name_kana": "マツモト",
+    "phone": "080-1133-3403",
+    "note": ""
+  },
+  {
+    "source_row_no": 335,
+    "member_no": 333,
+    "district_code": "6区B2",
+    "address_lot": "235-2",
+    "name": "塚本　美沙紀",
+    "name_kana": "ツカモト",
+    "phone": "090-3140-0665",
+    "note": ""
+  },
+  {
+    "source_row_no": 336,
+    "member_no": 334,
+    "district_code": "6区B2",
+    "address_lot": "236",
+    "name": "後藤　廣子",
+    "name_kana": "ゴトウ",
+    "phone": "662-9245",
+    "note": ""
+  },
+  {
+    "source_row_no": 337,
+    "member_no": 335,
+    "district_code": "6区B2",
+    "address_lot": "238",
+    "name": "広谷　卓穂",
+    "name_kana": "ヒロヤ",
+    "phone": "",
+    "note": ""
+  },
+  {
+    "source_row_no": 338,
+    "member_no": 336,
+    "district_code": "6区B2",
+    "address_lot": "239",
+    "name": "會田　結",
+    "name_kana": "アイダ",
+    "phone": "080-1874-0874",
+    "note": ""
+  },
+  {
+    "source_row_no": 339,
+    "member_no": 337,
+    "district_code": "6区B2",
+    "address_lot": "240",
+    "name": "宮崎　レイ子",
+    "name_kana": "ミヤザキ",
+    "phone": "665-2545",
+    "note": ""
+  },
+  {
+    "source_row_no": 340,
+    "member_no": 338,
+    "district_code": "6区B2",
+    "address_lot": "241",
+    "name": "吉永　雅之",
+    "name_kana": "ヨシナガ",
+    "phone": "664-8295",
+    "note": ""
+  },
+  {
+    "source_row_no": 341,
+    "member_no": 339,
+    "district_code": "6区B2",
+    "address_lot": "241",
+    "name": "山口　悦子",
+    "name_kana": "ヤマグチ",
+    "phone": "663-3170",
+    "note": ""
+  },
+  {
+    "source_row_no": 342,
+    "member_no": 340,
+    "district_code": "6区B2",
+    "address_lot": "241",
+    "name": "梅林　康子",
+    "name_kana": "ウメバヤシ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 343,
+    "member_no": 341,
+    "district_code": "6区C1",
+    "address_lot": "223-101",
+    "name": "中尾　竜広",
+    "name_kana": "ナカオ",
+    "phone": "",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 344,
+    "member_no": 342,
+    "district_code": "6区C1",
+    "address_lot": "223-103",
+    "name": "中川　宗樹",
+    "name_kana": "ナカガワ",
+    "phone": "090-8163-2707",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 345,
+    "member_no": 343,
+    "district_code": "6区C1",
+    "address_lot": "223-201",
+    "name": "大塚　勉",
+    "name_kana": "オオツカ",
+    "phone": "",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 346,
+    "member_no": 344,
+    "district_code": "6区C1",
+    "address_lot": "223-202",
+    "name": "猪俣　雅史",
+    "name_kana": "イノマタ",
+    "phone": "090-3910-6924",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 347,
+    "member_no": 345,
+    "district_code": "6区C1",
+    "address_lot": "223-203",
+    "name": "櫻井　雄祐",
+    "name_kana": "サクライ",
+    "phone": "090-7820-6742",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 348,
+    "member_no": 346,
+    "district_code": "6区C1",
+    "address_lot": "223-204",
+    "name": "泉名　恭介",
+    "name_kana": "イズミナ",
+    "phone": "090-5403-9174",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 349,
+    "member_no": 347,
+    "district_code": "6区C1",
+    "address_lot": "223-205",
+    "name": "大平　敏朗",
+    "name_kana": "オオヒラ",
+    "phone": "668-3209",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 350,
+    "member_no": 348,
+    "district_code": "6区C1",
+    "address_lot": "223-301",
+    "name": "中武　哲也",
+    "name_kana": "ナカタケ",
+    "phone": "",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 351,
+    "member_no": 349,
+    "district_code": "6区C1",
+    "address_lot": "223-302",
+    "name": "上野　貴史",
+    "name_kana": "ウエノ",
+    "phone": "",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 352,
+    "member_no": 350,
+    "district_code": "6区C1",
+    "address_lot": "223-303",
+    "name": "岡本　理",
+    "name_kana": "オカモト",
+    "phone": "",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 353,
+    "member_no": 351,
+    "district_code": "6区C1",
+    "address_lot": "223-304",
+    "name": "出野　恭平",
+    "name_kana": "イデノ",
+    "phone": "",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 354,
+    "member_no": 352,
+    "district_code": "6区C1",
+    "address_lot": "223-305",
+    "name": "浅川　育也",
+    "name_kana": "アサカワ",
+    "phone": "",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 355,
+    "member_no": 353,
+    "district_code": "6区C1",
+    "address_lot": "223-401",
+    "name": "寺澤　みなみ",
+    "name_kana": "テラサワ",
+    "phone": "",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 356,
+    "member_no": 354,
+    "district_code": "6区C1",
+    "address_lot": "223-402",
+    "name": "三井　秀之",
+    "name_kana": "ミツイ",
+    "phone": "090-3521-3550",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 357,
+    "member_no": 355,
+    "district_code": "6区C1",
+    "address_lot": "223-405",
+    "name": "川上　健",
+    "name_kana": "カワカミ",
+    "phone": "782-5424",
+    "note": "アーバンコート"
+  },
+  {
+    "source_row_no": 358,
+    "member_no": 356,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "篠田　富子",
+    "name_kana": "シノダ",
+    "phone": "665-2349",
+    "note": "ルノール篠田（計10戸）、篠田　好子"
+  },
+  {
+    "source_row_no": 359,
+    "member_no": 357,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "君塚　博",
+    "name_kana": "キミヅカ",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 360,
+    "member_no": 358,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "菊池　正",
+    "name_kana": "キクチ",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 361,
+    "member_no": 359,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "梅沢　伸成",
+    "name_kana": "ウメザワ",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 362,
+    "member_no": 360,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "新宅　博文",
+    "name_kana": "シンタク",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 363,
+    "member_no": 361,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "河中　良夫",
+    "name_kana": "カワナカ",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 364,
+    "member_no": 362,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "岡崎　雄介",
+    "name_kana": "オカザキ",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 365,
+    "member_no": 363,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "田中　貴央",
+    "name_kana": "タナカ",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 366,
+    "member_no": 364,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "田中　準",
+    "name_kana": "タナカ",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 367,
+    "member_no": 365,
+    "district_code": "6区D1",
+    "address_lot": "217-1",
+    "name": "岡崎　ゆり子",
+    "name_kana": "オカザキ",
+    "phone": "",
+    "note": "ルノール篠田"
+  },
+  {
+    "source_row_no": 368,
+    "member_no": 366,
+    "district_code": "7区A1",
+    "address_lot": "261",
+    "name": "加藤　由紀子",
+    "name_kana": "カトウ　ユキコ",
+    "phone": "665-7721",
+    "note": "2世帯、神原　順子"
+  },
+  {
+    "source_row_no": 369,
+    "member_no": 367,
+    "district_code": "7区A1",
+    "address_lot": "262",
+    "name": "豊田　健次",
+    "name_kana": "トヨダ　ケンジ",
+    "phone": "667-4210",
+    "note": ""
+  },
+  {
+    "source_row_no": 370,
+    "member_no": 368,
+    "district_code": "7区A1",
+    "address_lot": "264",
+    "name": "佐羽内　春夫",
+    "name_kana": "サバナイ",
+    "phone": "665-5414",
+    "note": "佐羽内　正幸"
+  },
+  {
+    "source_row_no": 371,
+    "member_no": 369,
+    "district_code": "7区A1",
+    "address_lot": "265",
+    "name": "須長　嘉幸",
+    "name_kana": "スナガ　ヨシユキ",
+    "phone": "665-7722",
+    "note": "須長　静子"
+  },
+  {
+    "source_row_no": 372,
+    "member_no": 370,
+    "district_code": "7区A1",
+    "address_lot": "266",
+    "name": "関口　豊",
+    "name_kana": "セキグチ　ユタカ",
+    "phone": "665-1461",
+    "note": "2世帯、村田"
+  },
+  {
+    "source_row_no": 373,
+    "member_no": 371,
+    "district_code": "7区A1",
+    "address_lot": "269-4",
+    "name": "首藤　寛之",
+    "name_kana": "クビトウ",
+    "phone": "090-3223-1104",
+    "note": ""
+  },
+  {
+    "source_row_no": 374,
+    "member_no": 372,
+    "district_code": "7区A1",
+    "address_lot": "269-5",
+    "name": "佃　真介",
+    "name_kana": "ツクダ",
+    "phone": "090-1233-6082",
+    "note": ""
+  },
+  {
+    "source_row_no": 375,
+    "member_no": 373,
+    "district_code": "7区A1",
+    "address_lot": "269-6",
+    "name": "西田　真也",
+    "name_kana": "ニシダ",
+    "phone": "090-4173-3839",
+    "note": ""
+  },
+  {
+    "source_row_no": 376,
+    "member_no": 374,
+    "district_code": "7区A1",
+    "address_lot": "269-7",
+    "name": "阪口　将太",
+    "name_kana": "サカグチ",
+    "phone": "080-5128-6246",
+    "note": ""
+  },
+  {
+    "source_row_no": 377,
+    "member_no": 375,
+    "district_code": "7区A1",
+    "address_lot": "298-2",
+    "name": "澤田　文江",
+    "name_kana": "サワダ",
+    "phone": "666-4425",
+    "note": "2世帯、澤田　博"
+  },
+  {
+    "source_row_no": 378,
+    "member_no": 376,
+    "district_code": "7区A1",
+    "address_lot": "298-3",
+    "name": "佐藤　亨",
+    "name_kana": "サトウ　トオル",
+    "phone": "667-7791",
+    "note": ""
+  },
+  {
+    "source_row_no": 379,
+    "member_no": 377,
+    "district_code": "7区A1",
+    "address_lot": "298-4",
+    "name": "岡田　雅洋",
+    "name_kana": "オカダ　マサヒロ",
+    "phone": "090-4095-7477",
+    "note": ""
+  },
+  {
+    "source_row_no": 380,
+    "member_no": 378,
+    "district_code": "7区A2",
+    "address_lot": "267",
+    "name": "加藤　保男",
+    "name_kana": "カトウ　ヤスオ",
+    "phone": "652-3618",
+    "note": ""
+  },
+  {
+    "source_row_no": 381,
+    "member_no": 379,
+    "district_code": "7区A2",
+    "address_lot": "267-2",
+    "name": "内田　秀明",
+    "name_kana": "ウチダ　ヒデアキ",
+    "phone": "665-2631",
+    "note": ""
+  },
+  {
+    "source_row_no": 382,
+    "member_no": 380,
+    "district_code": "7区A2",
+    "address_lot": "267-5",
+    "name": "高山　与兵衛",
+    "name_kana": "タカヤマ　ヨヘイ",
+    "phone": "653-7386",
+    "note": ""
+  },
+  {
+    "source_row_no": 383,
+    "member_no": 381,
+    "district_code": "7区A2",
+    "address_lot": "267-6",
+    "name": "横田　健司",
+    "name_kana": "ヨコタ　ケンジ",
+    "phone": "664-9514",
+    "note": ""
+  },
+  {
+    "source_row_no": 384,
+    "member_no": 382,
+    "district_code": "7区A2",
+    "address_lot": "267-8",
+    "name": "藤長　晴栄",
+    "name_kana": "フジナガ",
+    "phone": "652-8043",
+    "note": "藤長　昌彦"
+  },
+  {
+    "source_row_no": 385,
+    "member_no": 383,
+    "district_code": "7区A2",
+    "address_lot": "271-2",
+    "name": "榎本　タカ子",
+    "name_kana": "エノモト",
+    "phone": "665-1163",
+    "note": "榎本　富一"
+  },
+  {
+    "source_row_no": 386,
+    "member_no": 384,
+    "district_code": "7区A2",
+    "address_lot": "271-5",
+    "name": "榎本　正久",
+    "name_kana": "エノモト　タダヒサ",
+    "phone": "672-1110",
+    "note": ""
+  },
+  {
+    "source_row_no": 387,
+    "member_no": 385,
+    "district_code": "7区A2",
+    "address_lot": "272",
+    "name": "川上　俊光",
+    "name_kana": "カワカミ　トシミツ",
+    "phone": "667-6055",
+    "note": ""
+  },
+  {
+    "source_row_no": 388,
+    "member_no": 386,
+    "district_code": "7区A2",
+    "address_lot": "275",
+    "name": "草壁　敏明",
+    "name_kana": "クサカベ　トシアキ",
+    "phone": "651-4841",
+    "note": ""
+  },
+  {
+    "source_row_no": 389,
+    "member_no": 387,
+    "district_code": "7区A2",
+    "address_lot": "276-2",
+    "name": "根岸　智子",
+    "name_kana": "ネギシ　トモコ",
+    "phone": "667-2865",
+    "note": ""
+  },
+  {
+    "source_row_no": 390,
+    "member_no": 388,
+    "district_code": "7区A2",
+    "address_lot": "277",
+    "name": "川村　聡",
+    "name_kana": "カワムラ",
+    "phone": "663-6468",
+    "note": "川村　盈明"
+  },
+  {
+    "source_row_no": 391,
+    "member_no": 389,
+    "district_code": "7区B1",
+    "address_lot": "242-1",
+    "name": "飯田　真司",
+    "name_kana": "イイダ",
+    "phone": "090-1037-4396",
+    "note": ""
+  },
+  {
+    "source_row_no": 392,
+    "member_no": 390,
+    "district_code": "7区B1",
+    "address_lot": "242-3",
+    "name": "伊藤　彰",
+    "name_kana": "イトウ",
+    "phone": "663-1076",
+    "note": ""
+  },
+  {
+    "source_row_no": 393,
+    "member_no": 391,
+    "district_code": "7区B1",
+    "address_lot": "243",
+    "name": "花井　久美子",
+    "name_kana": "ハナイ",
+    "phone": "663-0376",
+    "note": "花井　秀夫"
+  },
+  {
+    "source_row_no": 394,
+    "member_no": 392,
+    "district_code": "7区B1",
+    "address_lot": "244",
+    "name": "北見　賢司",
+    "name_kana": "キタミ",
+    "phone": "780-2024",
+    "note": ""
+  },
+  {
+    "source_row_no": 395,
+    "member_no": 393,
+    "district_code": "7区B1",
+    "address_lot": "245",
+    "name": "浅田　健司",
+    "name_kana": "アサダ",
+    "phone": "663-0855",
+    "note": ""
+  },
+  {
+    "source_row_no": 396,
+    "member_no": 394,
+    "district_code": "7区B1",
+    "address_lot": "247-4",
+    "name": "佐藤　寿一",
+    "name_kana": "サトウ",
+    "phone": "653-4198",
+    "note": ""
+  },
+  {
+    "source_row_no": 397,
+    "member_no": 395,
+    "district_code": "7区B1",
+    "address_lot": "247-5",
+    "name": "宮崎　規",
+    "name_kana": "ミヤザキ",
+    "phone": "628-4702",
+    "note": ""
+  },
+  {
+    "source_row_no": 398,
+    "member_no": 396,
+    "district_code": "7区B1",
+    "address_lot": "247-6",
+    "name": "横井　幸治",
+    "name_kana": "ヨコイ",
+    "phone": "654-0858",
+    "note": ""
+  },
+  {
+    "source_row_no": 399,
+    "member_no": 397,
+    "district_code": "7区B1",
+    "address_lot": "258",
+    "name": "田口　理",
+    "name_kana": "タグチ",
+    "phone": "651-3486",
+    "note": ""
+  },
+  {
+    "source_row_no": 400,
+    "member_no": 398,
+    "district_code": "7区B1",
+    "address_lot": "260",
+    "name": "内藤　勝美",
+    "name_kana": "ナイトウ",
+    "phone": "665-4042",
+    "note": ""
+  },
+  {
+    "source_row_no": 401,
+    "member_no": 399,
+    "district_code": "7区B2",
+    "address_lot": "248-3",
+    "name": "東　幸二",
+    "name_kana": "ヒガシ",
+    "phone": "780-2155",
+    "note": ""
+  },
+  {
+    "source_row_no": 402,
+    "member_no": 400,
+    "district_code": "7区B2",
+    "address_lot": "248-6",
+    "name": "岡田　守弘",
+    "name_kana": "オカダ",
+    "phone": "090-1055-9400",
+    "note": ""
+  },
+  {
+    "source_row_no": 403,
+    "member_no": 401,
+    "district_code": "7区B2",
+    "address_lot": "249",
+    "name": "伊藤　光一",
+    "name_kana": "イトウ",
+    "phone": "663-1205",
+    "note": ""
+  },
+  {
+    "source_row_no": 404,
+    "member_no": 402,
+    "district_code": "7区B2",
+    "address_lot": "253-2",
+    "name": "正田　まち子",
+    "name_kana": "ショウダ",
+    "phone": "667-6713",
+    "note": "正田　秀幸"
+  },
+  {
+    "source_row_no": 405,
+    "member_no": 403,
+    "district_code": "7区B3",
+    "address_lot": "246",
+    "name": "黒鳥　修",
+    "name_kana": "クロトリ　オサム",
+    "phone": "663-3343",
+    "note": ""
+  },
+  {
+    "source_row_no": 406,
+    "member_no": 404,
+    "district_code": "7区B3",
+    "address_lot": "255-1",
+    "name": "大島　和子",
+    "name_kana": "オオシマ　カズコ",
+    "phone": "664-6609",
+    "note": ""
+  },
+  {
+    "source_row_no": 407,
+    "member_no": 405,
+    "district_code": "7区B3",
+    "address_lot": "255-2",
+    "name": "千葉　敬子",
+    "name_kana": "チバ",
+    "phone": "664-1512",
+    "note": "千葉　定子"
+  },
+  {
+    "source_row_no": 408,
+    "member_no": 406,
+    "district_code": "7区B3",
+    "address_lot": "256-1",
+    "name": "福田　友則",
+    "name_kana": "フクダ　トモノリ",
+    "phone": "666-9839",
+    "note": ""
+  },
+  {
+    "source_row_no": 409,
+    "member_no": 407,
+    "district_code": "7区B3",
+    "address_lot": "256-4",
+    "name": "佐藤　君江",
+    "name_kana": "サトウ　キミエ",
+    "phone": "666-9887",
+    "note": ""
+  },
+  {
+    "source_row_no": 410,
+    "member_no": 408,
+    "district_code": "7区B3",
+    "address_lot": "256-6",
+    "name": "檀上　悟",
+    "name_kana": "ダンジョウ　サトシ",
+    "phone": "665-6118",
+    "note": ""
+  },
+  {
+    "source_row_no": 411,
+    "member_no": 409,
+    "district_code": "7区B3",
+    "address_lot": "256-7",
+    "name": "岩井　博明",
+    "name_kana": "イワイ　ヒロアキ",
+    "phone": "653-3790",
+    "note": ""
+  },
+  {
+    "source_row_no": 412,
+    "member_no": 410,
+    "district_code": "7区B3",
+    "address_lot": "257",
+    "name": "蓮沼　嘉久",
+    "name_kana": "ハスヌマ　ヨシヒサ",
+    "phone": "663-3437",
+    "note": ""
+  },
+  {
+    "source_row_no": 413,
+    "member_no": 411,
+    "district_code": "7区B3",
+    "address_lot": "258",
+    "name": "小島　健治",
+    "name_kana": "コジマ　ケンジ",
+    "phone": "665-3585",
+    "note": "2世帯、国藤　昌志"
+  },
+  {
+    "source_row_no": 414,
+    "member_no": 412,
+    "district_code": "7区B3",
+    "address_lot": "258",
+    "name": "深井　秀雄",
+    "name_kana": "フカイ　ヒデオ",
+    "phone": "652-3691",
+    "note": ""
+  },
+  {
+    "source_row_no": 415,
+    "member_no": 413,
+    "district_code": "8区A1",
+    "address_lot": "314",
+    "name": "伊藤　昌広",
+    "name_kana": "イトウ",
+    "phone": "664-0131",
+    "note": "伊藤　静枝（664-6549）"
+  },
+  {
+    "source_row_no": 416,
+    "member_no": 414,
+    "district_code": "8区A1",
+    "address_lot": "314-1",
+    "name": "竹野　実",
+    "name_kana": "タケノ",
+    "phone": "652-3725",
+    "note": "竹野　イト"
+  },
+  {
+    "source_row_no": 417,
+    "member_no": 415,
+    "district_code": "8区A1",
+    "address_lot": "314-5",
+    "name": "蜂須　康平",
+    "name_kana": "ハチス",
+    "phone": "652-0218",
+    "note": "吉田　富子"
+  },
+  {
+    "source_row_no": 418,
+    "member_no": 416,
+    "district_code": "8区A1",
+    "address_lot": "314-5",
+    "name": "徳永　大介",
+    "name_kana": "トクナガ",
+    "phone": "080-2094-3379",
+    "note": ""
+  },
+  {
+    "source_row_no": 419,
+    "member_no": 417,
+    "district_code": "8区A1",
+    "address_lot": "314-9",
+    "name": "倉貫　義人",
+    "name_kana": "クラヌキ",
+    "phone": "776-9515",
+    "note": ""
+  },
+  {
+    "source_row_no": 420,
+    "member_no": 418,
+    "district_code": "8区A1",
+    "address_lot": "315-4",
+    "name": "山田　広樹",
+    "name_kana": "ヤマダ",
+    "phone": "673-2468",
+    "note": ""
+  },
+  {
+    "source_row_no": 421,
+    "member_no": 419,
+    "district_code": "8区A1",
+    "address_lot": "316-1",
+    "name": "安倍　幸弘",
+    "name_kana": "アベ",
+    "phone": "653-2175",
+    "note": ""
+  },
+  {
+    "source_row_no": 422,
+    "member_no": 420,
+    "district_code": "8区A1",
+    "address_lot": "316-3",
+    "name": "池田　健一",
+    "name_kana": "イケダ",
+    "phone": "699-3767",
+    "note": ""
+  },
+  {
+    "source_row_no": 423,
+    "member_no": 421,
+    "district_code": "8区A1",
+    "address_lot": "316-4",
+    "name": "茂垣　浩美",
+    "name_kana": "モガキ",
+    "phone": "699-3036",
+    "note": ""
+  },
+  {
+    "source_row_no": 424,
+    "member_no": 422,
+    "district_code": "8区A1",
+    "address_lot": "316-5",
+    "name": "伊藤　隆",
+    "name_kana": "イトウ",
+    "phone": "665-0163",
+    "note": ""
+  },
+  {
+    "source_row_no": 425,
+    "member_no": 423,
+    "district_code": "8区A1",
+    "address_lot": "316-6",
+    "name": "尾崎　健太",
+    "name_kana": "オザキ",
+    "phone": "667-6683",
+    "note": ""
+  },
+  {
+    "source_row_no": 426,
+    "member_no": 424,
+    "district_code": "8区A1",
+    "address_lot": "316-7",
+    "name": "竹嶋　章",
+    "name_kana": "タケシマ",
+    "phone": "652-5820",
+    "note": ""
+  },
+  {
+    "source_row_no": 427,
+    "member_no": 425,
+    "district_code": "8区A1",
+    "address_lot": "317",
+    "name": "鶴田　多智子",
+    "name_kana": "ツルタ",
+    "phone": "663-5856",
+    "note": ""
+  },
+  {
+    "source_row_no": 428,
+    "member_no": 426,
+    "district_code": "8区A1",
+    "address_lot": "317-3",
+    "name": "村田　一夫",
+    "name_kana": "ムラタ",
+    "phone": "",
+    "note": ""
+  },
+  {
+    "source_row_no": 429,
+    "member_no": 427,
+    "district_code": "8区A1",
+    "address_lot": "317-4",
+    "name": "田代　禮子",
+    "name_kana": "タシロ",
+    "phone": "651-9464",
+    "note": ""
+  },
+  {
+    "source_row_no": 430,
+    "member_no": 428,
+    "district_code": "8区A1",
+    "address_lot": "317-6",
+    "name": "守屋　昭雄",
+    "name_kana": "モリヤ",
+    "phone": "665-2573",
+    "note": "桧山　しず"
+  },
+  {
+    "source_row_no": 431,
+    "member_no": 429,
+    "district_code": "8区A1",
+    "address_lot": "317-7",
+    "name": "桜井　一保",
+    "name_kana": "サクライ",
+    "phone": "663-3183",
+    "note": ""
+  },
+  {
+    "source_row_no": 432,
+    "member_no": 430,
+    "district_code": "8区A1",
+    "address_lot": "318",
+    "name": "橋本　賀代子",
+    "name_kana": "ハシモト",
+    "phone": "665-6790",
+    "note": ""
+  },
+  {
+    "source_row_no": 433,
+    "member_no": 431,
+    "district_code": "8区A1",
+    "address_lot": "319-2",
+    "name": "野崎　喜光",
+    "name_kana": "ノザキ",
+    "phone": "664-7476",
+    "note": ""
+  },
+  {
+    "source_row_no": 434,
+    "member_no": 432,
+    "district_code": "8区A1",
+    "address_lot": "319-3",
+    "name": "住谷　安夫",
+    "name_kana": "スミヤ",
+    "phone": "664-2966",
+    "note": ""
+  },
+  {
+    "source_row_no": 435,
+    "member_no": 433,
+    "district_code": "8区B1",
+    "address_lot": "320-1",
+    "name": "唐木　興榮",
+    "name_kana": "カラキ",
+    "phone": "652-1139",
+    "note": ""
+  },
+  {
+    "source_row_no": 436,
+    "member_no": 434,
+    "district_code": "8区B1",
+    "address_lot": "321-3",
+    "name": "遠藤　憲治",
+    "name_kana": "エンドウ",
+    "phone": "664-1509",
+    "note": ""
+  },
+  {
+    "source_row_no": 437,
+    "member_no": 435,
+    "district_code": "8区B1",
+    "address_lot": "321-4",
+    "name": "針田　鴻一",
+    "name_kana": "ハリタ　コウイチ",
+    "phone": "653-8109",
+    "note": ""
+  },
+  {
+    "source_row_no": 438,
+    "member_no": 436,
+    "district_code": "8区B1",
+    "address_lot": "329-2",
+    "name": "内村　充仁",
+    "name_kana": "ウチムラ",
+    "phone": "665-4978",
+    "note": ""
+  },
+  {
+    "source_row_no": 439,
+    "member_no": 437,
+    "district_code": "8区B1",
+    "address_lot": "329-7",
+    "name": "礒部　貞男",
+    "name_kana": "イソベ",
+    "phone": "663-6366",
+    "note": ""
+  },
+  {
+    "source_row_no": 440,
+    "member_no": 438,
+    "district_code": "8区B1",
+    "address_lot": "329-8",
+    "name": "礒部　米三",
+    "name_kana": "イソベ",
+    "phone": "666-8553",
+    "note": "2世帯、磯部　隆行"
+  },
+  {
+    "source_row_no": 441,
+    "member_no": 439,
+    "district_code": "8区B1",
+    "address_lot": "329-17",
+    "name": "鈴木　康司",
+    "name_kana": "スズキ",
+    "phone": "667-9135",
+    "note": ""
+  },
+  {
+    "source_row_no": 442,
+    "member_no": 440,
+    "district_code": "8区B1",
+    "address_lot": "330-2",
+    "name": "青木　和子",
+    "name_kana": "アオキ",
+    "phone": "664-4842",
+    "note": ""
+  },
+  {
+    "source_row_no": 443,
+    "member_no": 441,
+    "district_code": "8区B1",
+    "address_lot": "330-3",
+    "name": "市川　昇司",
+    "name_kana": "イチカワ",
+    "phone": "652-8420",
+    "note": ""
+  },
+  {
+    "source_row_no": 444,
+    "member_no": 442,
+    "district_code": "8区B1",
+    "address_lot": "330-4",
+    "name": "清水　賢治郎",
+    "name_kana": "シミズ",
+    "phone": "654-5964",
+    "note": ""
+  },
+  {
+    "source_row_no": 445,
+    "member_no": 443,
+    "district_code": "8区B2",
+    "address_lot": "320-2",
+    "name": "松澤　隆和",
+    "name_kana": "マツザワ",
+    "phone": "699-3048",
+    "note": ""
+  },
+  {
+    "source_row_no": 446,
+    "member_no": 444,
+    "district_code": "8区B2",
+    "address_lot": "320-6",
+    "name": "鴞　健一郎",
+    "name_kana": "キョウ",
+    "phone": "090-7025-5758",
+    "note": ""
+  },
+  {
+    "source_row_no": 447,
+    "member_no": 445,
+    "district_code": "8区B2",
+    "address_lot": "320-7",
+    "name": "神山　貴文",
+    "name_kana": "カミヤマ",
+    "phone": "654-8415",
+    "note": ""
+  },
+  {
+    "source_row_no": 448,
+    "member_no": 446,
+    "district_code": "8区B2",
+    "address_lot": "320-8",
+    "name": "池田　浩之",
+    "name_kana": "イケダ",
+    "phone": "651-3896",
+    "note": ""
+  },
+  {
+    "source_row_no": 449,
+    "member_no": 447,
+    "district_code": "8区B2",
+    "address_lot": "320-9",
+    "name": "岩崎　仁",
+    "name_kana": "イワサキ",
+    "phone": "653-3827",
+    "note": ""
+  },
+  {
+    "source_row_no": 450,
+    "member_no": 448,
+    "district_code": "8区B2",
+    "address_lot": "324",
+    "name": "石田　純一",
+    "name_kana": "イシダ",
+    "phone": "664-3034",
+    "note": ""
+  },
+  {
+    "source_row_no": 451,
+    "member_no": 449,
+    "district_code": "8区B2",
+    "address_lot": "325-2",
+    "name": "富岡　正雄",
+    "name_kana": "トミオカ",
+    "phone": "668-0884",
+    "note": ""
+  },
+  {
+    "source_row_no": 452,
+    "member_no": 450,
+    "district_code": "8区B2",
+    "address_lot": "326",
+    "name": "藤巻　公裕",
+    "name_kana": "フジマキ",
+    "phone": "665-0775",
+    "note": ""
+  },
+  {
+    "source_row_no": 453,
+    "member_no": 451,
+    "district_code": "8区B2",
+    "address_lot": "327",
+    "name": "和田　広之",
+    "name_kana": "ワダ　ヒロユキ",
+    "phone": "654-8106",
+    "note": "2世帯、和田　清隆"
+  },
+  {
+    "source_row_no": 454,
+    "member_no": 452,
+    "district_code": "8区B2",
+    "address_lot": "328",
+    "name": "酒井　雅史",
+    "name_kana": "サカイ",
+    "phone": "667-0913",
+    "note": ""
+  },
+  {
+    "source_row_no": 455,
+    "member_no": 453,
+    "district_code": "8区B2",
+    "address_lot": "329-1",
+    "name": "斉藤　龍治",
+    "name_kana": "サイトウ",
+    "phone": "666-3127",
+    "note": ""
+  },
+  {
+    "source_row_no": 456,
+    "member_no": 454,
+    "district_code": "8区B2",
+    "address_lot": "329-13",
+    "name": "津久井　洋二",
+    "name_kana": "ツクイ",
+    "phone": "675-1126",
+    "note": ""
+  },
+  {
+    "source_row_no": 457,
+    "member_no": 455,
+    "district_code": "8区B2",
+    "address_lot": "329-14",
+    "name": "畠山　勝法",
+    "name_kana": "ハタケヤマ",
+    "phone": "652-8814",
+    "note": ""
+  },
+  {
+    "source_row_no": 458,
+    "member_no": 456,
+    "district_code": "8区B2",
+    "address_lot": "329-15",
+    "name": "丑山　努",
+    "name_kana": "ウシヤマ",
+    "phone": "665-4407",
+    "note": ""
+  },
+  {
+    "source_row_no": 459,
+    "member_no": 457,
+    "district_code": "8区B2",
+    "address_lot": "329-16",
+    "name": "白濱　健",
+    "name_kana": "シラハマ",
+    "phone": "090-4672-5541",
+    "note": ""
+  },
+  {
+    "source_row_no": 460,
+    "member_no": 458,
+    "district_code": "8区C1",
+    "address_lot": "350-4",
+    "name": "秋野　邦彦",
+    "name_kana": "アキノ",
+    "phone": "699-3778",
+    "note": ""
+  },
+  {
+    "source_row_no": 461,
+    "member_no": 459,
+    "district_code": "8区C1",
+    "address_lot": "350-5",
+    "name": "柴田　勝英",
+    "name_kana": "シバタ",
+    "phone": "653-2218",
+    "note": ""
+  },
+  {
+    "source_row_no": 462,
+    "member_no": 460,
+    "district_code": "8区C1",
+    "address_lot": "350-6",
+    "name": "星野　完",
+    "name_kana": "ホシノ",
+    "phone": "668-1385",
+    "note": ""
+  },
+  {
+    "source_row_no": 463,
+    "member_no": 461,
+    "district_code": "8区C1",
+    "address_lot": "351",
+    "name": "松本　賢二",
+    "name_kana": "マツモト",
+    "phone": "",
+    "note": ""
+  },
+  {
+    "source_row_no": 464,
+    "member_no": 462,
+    "district_code": "8区C1",
+    "address_lot": "352",
+    "name": "三友　正次",
+    "name_kana": "ミトモ",
+    "phone": "664-6377",
+    "note": ""
+  },
+  {
+    "source_row_no": 465,
+    "member_no": 463,
+    "district_code": "8区C1",
+    "address_lot": "353",
+    "name": "鈴木　一男",
+    "name_kana": "スズキ",
+    "phone": "665-2572",
+    "note": ""
+  },
+  {
+    "source_row_no": 466,
+    "member_no": 464,
+    "district_code": "8区C1",
+    "address_lot": "354",
+    "name": "榎本　清",
+    "name_kana": "エノモト",
+    "phone": "666-6643",
+    "note": ""
+  },
+  {
+    "source_row_no": 467,
+    "member_no": 465,
+    "district_code": "8区C2",
+    "address_lot": "355",
+    "name": "金子　正",
+    "name_kana": "カネコ　タダシ",
+    "phone": "663-3181",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 468,
+    "member_no": 466,
+    "district_code": "8区C2",
+    "address_lot": "355",
+    "name": "柿沼　清",
+    "name_kana": "カキヌマ　キヨシ",
+    "phone": "665-6824",
+    "note": ""
+  },
+  {
+    "source_row_no": 469,
+    "member_no": 467,
+    "district_code": "8区C2",
+    "address_lot": "355-10",
+    "name": "高橋　勝",
+    "name_kana": "タカハシ　マサル",
+    "phone": "666-3745",
+    "note": ""
+  },
+  {
+    "source_row_no": 470,
+    "member_no": 468,
+    "district_code": "8区C2",
+    "address_lot": "358-2",
+    "name": "石井　和夫",
+    "name_kana": "イシイ　カズオ",
+    "phone": "653-0695",
+    "note": ""
+  },
+  {
+    "source_row_no": 471,
+    "member_no": 469,
+    "district_code": "8区C2",
+    "address_lot": "359-5",
+    "name": "礒部　隆志",
+    "name_kana": "イソベ　タカシ",
+    "phone": "654-2284",
+    "note": ""
+  },
+  {
+    "source_row_no": 472,
+    "member_no": 470,
+    "district_code": "8区C2",
+    "address_lot": "359-7",
+    "name": "松本　芳宏",
+    "name_kana": "マツモト　ヨシヒロ",
+    "phone": "674-7057",
+    "note": ""
+  },
+  {
+    "source_row_no": 473,
+    "member_no": 471,
+    "district_code": "8区C2",
+    "address_lot": "359-8",
+    "name": "吉田　元徳",
+    "name_kana": "ヨシダ　モトノリ",
+    "phone": "654-9810",
+    "note": ""
+  },
+  {
+    "source_row_no": 474,
+    "member_no": 472,
+    "district_code": "8区C2",
+    "address_lot": "360",
+    "name": "安藤　敏夫",
+    "name_kana": "アンドウ　トシオ",
+    "phone": "661-8835",
+    "note": ""
+  },
+  {
+    "source_row_no": 475,
+    "member_no": 473,
+    "district_code": "8区C2",
+    "address_lot": "360",
+    "name": "田中　久男",
+    "name_kana": "タナカ　ヒサオ",
+    "phone": "665-7054",
+    "note": ""
+  },
+  {
+    "source_row_no": 476,
+    "member_no": 474,
+    "district_code": "8区C3",
+    "address_lot": "356-1",
+    "name": "竹野　勇",
+    "name_kana": "タケノ　イサム",
+    "phone": "666-8701",
+    "note": ""
+  },
+  {
+    "source_row_no": 477,
+    "member_no": 475,
+    "district_code": "8区C3",
+    "address_lot": "357-5",
+    "name": "五月女　義高",
+    "name_kana": "サオトメ",
+    "phone": "090-4819-1514",
+    "note": ""
+  },
+  {
+    "source_row_no": 478,
+    "member_no": 476,
+    "district_code": "8区C3",
+    "address_lot": "357-6",
+    "name": "津田　裕太",
+    "name_kana": "ツダ",
+    "phone": "090-9782-9257",
+    "note": ""
+  },
+  {
+    "source_row_no": 479,
+    "member_no": 477,
+    "district_code": "8区C3",
+    "address_lot": "357-7",
+    "name": "狩野　宗徳",
+    "name_kana": "カノ",
+    "phone": "782-8384",
+    "note": ""
+  },
+  {
+    "source_row_no": 480,
+    "member_no": 478,
+    "district_code": "8区C3",
+    "address_lot": "357-8",
+    "name": "川崎　雅彦",
+    "name_kana": "カワサキ",
+    "phone": "090-9940-4864",
+    "note": ""
+  },
+  {
+    "source_row_no": 481,
+    "member_no": 479,
+    "district_code": "8区C3",
+    "address_lot": "357-9",
+    "name": "熊谷　恒司",
+    "name_kana": "クマガイ",
+    "phone": "090-7946-4989",
+    "note": ""
+  },
+  {
+    "source_row_no": 482,
+    "member_no": 480,
+    "district_code": "8区C3",
+    "address_lot": "357-10",
+    "name": "福島　優",
+    "name_kana": "フクシマ",
+    "phone": "651-5781",
+    "note": ""
+  },
+  {
+    "source_row_no": 483,
+    "member_no": 481,
+    "district_code": "8区C3",
+    "address_lot": "363",
+    "name": "岩田　喜代士",
+    "name_kana": "イワタ　キヨシ",
+    "phone": "665-7723",
+    "note": ""
+  },
+  {
+    "source_row_no": 484,
+    "member_no": 482,
+    "district_code": "8区C3",
+    "address_lot": "363-4",
+    "name": "高階　亮介",
+    "name_kana": "タカシナ",
+    "phone": "090-6159-1136",
+    "note": ""
+  },
+  {
+    "source_row_no": 485,
+    "member_no": 483,
+    "district_code": "8区C3",
+    "address_lot": "363-10",
+    "name": "飯泉　貴之",
+    "name_kana": "イイズミ",
+    "phone": "",
+    "note": ""
+  },
+  {
+    "source_row_no": 486,
+    "member_no": 484,
+    "district_code": "8区C3",
+    "address_lot": "364",
+    "name": "関根　章弘",
+    "name_kana": "セキネ　アキヒロ",
+    "phone": "665-6568",
+    "note": ""
+  },
+  {
+    "source_row_no": 487,
+    "member_no": 485,
+    "district_code": "8区D1",
+    "address_lot": "344-1",
+    "name": "香川　清児",
+    "name_kana": "カガワ",
+    "phone": "090-4625-3375",
+    "note": ""
+  },
+  {
+    "source_row_no": 488,
+    "member_no": 486,
+    "district_code": "8区D1",
+    "address_lot": "344-2",
+    "name": "叶内　美則",
+    "name_kana": "カノウチ",
+    "phone": "788-3211",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 489,
+    "member_no": 487,
+    "district_code": "8区D1",
+    "address_lot": "345",
+    "name": "長嶋　恵昭",
+    "name_kana": "ナガシマ",
+    "phone": "663-5332",
+    "note": ""
+  },
+  {
+    "source_row_no": 490,
+    "member_no": 488,
+    "district_code": "8区D1",
+    "address_lot": "348-11",
+    "name": "池田　貞子",
+    "name_kana": "イケダ",
+    "phone": "663-6253",
+    "note": ""
+  },
+  {
+    "source_row_no": 491,
+    "member_no": 489,
+    "district_code": "8区D1",
+    "address_lot": "348-14",
+    "name": "野崎　徹",
+    "name_kana": "ノザキ",
+    "phone": "090-7194-7313",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 492,
+    "member_no": 490,
+    "district_code": "8区D1",
+    "address_lot": "348-15",
+    "name": "浦崎　源太",
+    "name_kana": "ウラザキ",
+    "phone": "080-7933-9176",
+    "note": ""
+  },
+  {
+    "source_row_no": 493,
+    "member_no": 491,
+    "district_code": "8区D1",
+    "address_lot": "349-1",
+    "name": "福田　卓人",
+    "name_kana": "フクダ",
+    "phone": "663-9669",
+    "note": ""
+  },
+  {
+    "source_row_no": 494,
+    "member_no": 492,
+    "district_code": "8区D1",
+    "address_lot": "349-4",
+    "name": "鈴木　英樹",
+    "name_kana": "スズキ",
+    "phone": "090-4616-2685",
+    "note": ""
+  },
+  {
+    "source_row_no": 495,
+    "member_no": 493,
+    "district_code": "8区D1",
+    "address_lot": "349-5",
+    "name": "矢沢　悟",
+    "name_kana": "ヤザワ",
+    "phone": "653-3110",
+    "note": "山本　秀子、不掲載"
+  },
+  {
+    "source_row_no": 496,
+    "member_no": 494,
+    "district_code": "8区D1",
+    "address_lot": "349-6",
+    "name": "小川　和昭",
+    "name_kana": "オガワ",
+    "phone": "782-8926",
+    "note": ""
+  },
+  {
+    "source_row_no": 497,
+    "member_no": 495,
+    "district_code": "8区D1",
+    "address_lot": "349-7",
+    "name": "飯島　一太郎",
+    "name_kana": "イイジマ",
+    "phone": "090-7285-6425",
+    "note": ""
+  },
+  {
+    "source_row_no": 498,
+    "member_no": 496,
+    "district_code": "8区D1",
+    "address_lot": "349-8",
+    "name": "早川　勇樹",
+    "name_kana": "ハヤカワ",
+    "phone": "782-4849",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 499,
+    "member_no": 497,
+    "district_code": "8区D1",
+    "address_lot": "349-9",
+    "name": "北村　卓文",
+    "name_kana": "キタムラ",
+    "phone": "090-7197-1042",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 500,
+    "member_no": 498,
+    "district_code": "8区D1",
+    "address_lot": "349-10",
+    "name": "福留　弘幸",
+    "name_kana": "フクドメ",
+    "phone": "779-8746",
+    "note": ""
+  },
+  {
+    "source_row_no": 501,
+    "member_no": 499,
+    "district_code": "8区D2",
+    "address_lot": "333-2",
+    "name": "熊田　八郎",
+    "name_kana": "クマタ",
+    "phone": "665-2314",
+    "note": ""
+  },
+  {
+    "source_row_no": 502,
+    "member_no": 500,
+    "district_code": "8区D2",
+    "address_lot": "336-2",
+    "name": "高北　勲",
+    "name_kana": "タカキタ",
+    "phone": "080-5176-7130",
+    "note": ""
+  },
+  {
+    "source_row_no": 503,
+    "member_no": 501,
+    "district_code": "8区D2",
+    "address_lot": "336-3",
+    "name": "髙木　大輔",
+    "name_kana": "タカギ",
+    "phone": "080-5299-5512",
+    "note": ""
+  },
+  {
+    "source_row_no": 504,
+    "member_no": 502,
+    "district_code": "8区D2",
+    "address_lot": "337",
+    "name": "松本　公光",
+    "name_kana": "マツモト",
+    "phone": "663-3173",
+    "note": "2世帯、堀野　行洋"
+  },
+  {
+    "source_row_no": 505,
+    "member_no": 503,
+    "district_code": "8区D2",
+    "address_lot": "337-3",
+    "name": "下山　裕太",
+    "name_kana": "シモヤマ",
+    "phone": "090-7414-8336",
+    "note": ""
+  },
+  {
+    "source_row_no": 506,
+    "member_no": 504,
+    "district_code": "8区D2",
+    "address_lot": "337-4",
+    "name": "宮田　航三",
+    "name_kana": "ミヤタ",
+    "phone": "090-9834-7667",
+    "note": ""
+  },
+  {
+    "source_row_no": 507,
+    "member_no": 505,
+    "district_code": "8区D2",
+    "address_lot": "342",
+    "name": "五十嵐　忠彦",
+    "name_kana": "イガラシ",
+    "phone": "666-9873",
+    "note": ""
+  },
+  {
+    "source_row_no": 508,
+    "member_no": 506,
+    "district_code": "8区D2",
+    "address_lot": "343-2",
+    "name": "和田　ひろ子",
+    "name_kana": "ワダ",
+    "phone": "664-4841",
+    "note": "2世帯、杉本　貴雄"
+  },
+  {
+    "source_row_no": 509,
+    "member_no": 507,
+    "district_code": "8区D2",
+    "address_lot": "343-3",
+    "name": "山田　行徳",
+    "name_kana": "ヤマダ",
+    "phone": "664-4843",
+    "note": ""
+  },
+  {
+    "source_row_no": 510,
+    "member_no": 508,
+    "district_code": "8区D2",
+    "address_lot": "475-3",
+    "name": "秦　裕二郎",
+    "name_kana": "ハタ",
+    "phone": "653-7186",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 511,
+    "member_no": 509,
+    "district_code": "8区D2",
+    "address_lot": "475-5",
+    "name": "守屋　誠",
+    "name_kana": "モリヤ",
+    "phone": "782-9775",
+    "note": ""
+  },
+  {
+    "source_row_no": 512,
+    "member_no": 510,
+    "district_code": "8区D2",
+    "address_lot": "475-6",
+    "name": "齋藤　鉄也",
+    "name_kana": "サイトウ",
+    "phone": "668-4615",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 513,
+    "member_no": 511,
+    "district_code": "8区D2",
+    "address_lot": "475-7",
+    "name": "近藤　正良",
+    "name_kana": "コンドウ",
+    "phone": "664-8677",
+    "note": ""
+  },
+  {
+    "source_row_no": 514,
+    "member_no": 512,
+    "district_code": "8区D2",
+    "address_lot": "339-7",
+    "name": "山田　篤志",
+    "name_kana": "ヤマダ",
+    "phone": "090-1814-8768",
+    "note": "【本来D3】暫定　5/18にD2移動"
+  },
+  {
+    "source_row_no": 515,
+    "member_no": 513,
+    "district_code": "9区A1",
+    "address_lot": "365-3",
+    "name": "宮崎　淳子",
+    "name_kana": "ミヤザキ",
+    "phone": "662-6563",
+    "note": "宮崎　伸一郎"
+  },
+  {
+    "source_row_no": 516,
+    "member_no": 514,
+    "district_code": "9区A1",
+    "address_lot": "365-4",
+    "name": "小豆澤　善久",
+    "name_kana": "アズキザワ　ヨシヒサ",
+    "phone": "668-6282",
+    "note": ""
+  },
+  {
+    "source_row_no": 517,
+    "member_no": 515,
+    "district_code": "9区A1",
+    "address_lot": "365-5",
+    "name": "猪熊　裕樹",
+    "name_kana": "イノクマ　ヒロキ",
+    "phone": "080-6672-1541",
+    "note": ""
+  },
+  {
+    "source_row_no": 518,
+    "member_no": 516,
+    "district_code": "9区A1",
+    "address_lot": "365-17",
+    "name": "及川　陽弘",
+    "name_kana": "オイカワ",
+    "phone": "090-6852-3403",
+    "note": ""
+  },
+  {
+    "source_row_no": 519,
+    "member_no": 517,
+    "district_code": "9区A1",
+    "address_lot": "367-1",
+    "name": "土屋　亮",
+    "name_kana": "ツチヤ　リョウ",
+    "phone": "782-9837",
+    "note": ""
+  },
+  {
+    "source_row_no": 520,
+    "member_no": 518,
+    "district_code": "9区A1",
+    "address_lot": "367-4",
+    "name": "石金　正明",
+    "name_kana": "イシカネ　マサアキ",
+    "phone": "665-3526",
+    "note": ""
+  },
+  {
+    "source_row_no": 521,
+    "member_no": 519,
+    "district_code": "9区A1",
+    "address_lot": "367-5",
+    "name": "笹元　道",
+    "name_kana": "ササモト　ミチ",
+    "phone": "654-7497",
+    "note": ""
+  },
+  {
+    "source_row_no": 522,
+    "member_no": 520,
+    "district_code": "9区A1",
+    "address_lot": "367-6",
+    "name": "小島　健",
+    "name_kana": "コジマ　ケン",
+    "phone": "663-8330",
+    "note": ""
+  },
+  {
+    "source_row_no": 523,
+    "member_no": 521,
+    "district_code": "9区A1",
+    "address_lot": "368-1",
+    "name": "荒井　崇",
+    "name_kana": "アライ　タカシ",
+    "phone": "664-6828",
+    "note": ""
+  },
+  {
+    "source_row_no": 524,
+    "member_no": 522,
+    "district_code": "9区A1",
+    "address_lot": "368-2",
+    "name": "村田　清",
+    "name_kana": "ムラタ　キヨシ",
+    "phone": "667-2480",
+    "note": ""
+  },
+  {
+    "source_row_no": 525,
+    "member_no": 523,
+    "district_code": "9区A1",
+    "address_lot": "369",
+    "name": "小中谷　訓",
+    "name_kana": "コナカヤ　サトシ",
+    "phone": "665-2969",
+    "note": ""
+  },
+  {
+    "source_row_no": 526,
+    "member_no": 524,
+    "district_code": "9区A1",
+    "address_lot": "371",
+    "name": "鈴木　裕史",
+    "name_kana": "スズキ　ヒロシ",
+    "phone": "665-5413",
+    "note": ""
+  },
+  {
+    "source_row_no": 527,
+    "member_no": 525,
+    "district_code": "9区A1",
+    "address_lot": "372-3",
+    "name": "鈴木　滋子",
+    "name_kana": "スズキ　シゲコ",
+    "phone": "651-0991",
+    "note": "鈴木　啓司"
+  },
+  {
+    "source_row_no": 528,
+    "member_no": 526,
+    "district_code": "9区A2",
+    "address_lot": "373-1",
+    "name": "五十嵐　富一",
+    "name_kana": "イガラシ　トミカズ",
+    "phone": "665-7040",
+    "note": "高山　房子"
+  },
+  {
+    "source_row_no": 529,
+    "member_no": 527,
+    "district_code": "9区A2",
+    "address_lot": "373-2",
+    "name": "勝見　勇",
+    "name_kana": "カツミ　イサム",
+    "phone": "666-3401",
+    "note": "吉田　タカ子"
+  },
+  {
+    "source_row_no": 530,
+    "member_no": 528,
+    "district_code": "9区A2",
+    "address_lot": "375-1",
+    "name": "加藤　昌男",
+    "name_kana": "カトウ　マサオ",
+    "phone": "653-5152",
+    "note": "中村　奈津子"
+  },
+  {
+    "source_row_no": 531,
+    "member_no": 529,
+    "district_code": "9区A2",
+    "address_lot": "375-3",
+    "name": "山下　節子",
+    "name_kana": "ヤマシタ",
+    "phone": "666-4004",
+    "note": "山下　茂樹"
+  },
+  {
+    "source_row_no": 532,
+    "member_no": 530,
+    "district_code": "9区A2",
+    "address_lot": "376-6",
+    "name": "木原　三津夫",
+    "name_kana": "キハラ　ミツオ",
+    "phone": "651-1943",
+    "note": ""
+  },
+  {
+    "source_row_no": 533,
+    "member_no": 531,
+    "district_code": "9区A2",
+    "address_lot": "376-7",
+    "name": "村澤　好明",
+    "name_kana": "ムラサワ　ヨシハル",
+    "phone": "664-4377",
+    "note": ""
+  },
+  {
+    "source_row_no": 534,
+    "member_no": 532,
+    "district_code": "9区A3",
+    "address_lot": "456-1",
+    "name": "北川　正",
+    "name_kana": "キタガワ",
+    "phone": "667-0200",
+    "note": "2世帯、粂　宗治"
+  },
+  {
+    "source_row_no": 535,
+    "member_no": 533,
+    "district_code": "9区A3",
+    "address_lot": "456-2",
+    "name": "廿浦　功雄",
+    "name_kana": "ツヅウラ",
+    "phone": "664-6889",
+    "note": ""
+  },
+  {
+    "source_row_no": 536,
+    "member_no": 534,
+    "district_code": "9区A3",
+    "address_lot": "459-1",
+    "name": "茂木　繁",
+    "name_kana": "モテギ",
+    "phone": "666-5673",
+    "note": ""
+  },
+  {
+    "source_row_no": 537,
+    "member_no": 535,
+    "district_code": "9区A3",
+    "address_lot": "463-1",
+    "name": "関口　達也",
+    "name_kana": "セキグチ",
+    "phone": "090-5824-3178",
+    "note": ""
+  },
+  {
+    "source_row_no": 538,
+    "member_no": 536,
+    "district_code": "9区A3",
+    "address_lot": "464",
+    "name": "中村　卓",
+    "name_kana": "ナカムラ",
+    "phone": "664-5040",
+    "note": ""
+  },
+  {
+    "source_row_no": 539,
+    "member_no": 537,
+    "district_code": "9区A3",
+    "address_lot": "469-1",
+    "name": "横山　小夜子",
+    "name_kana": "ヨコヤマ",
+    "phone": "666-6724",
+    "note": "横山　みどり"
+  },
+  {
+    "source_row_no": 540,
+    "member_no": 538,
+    "district_code": "9区A3",
+    "address_lot": "469-2",
+    "name": "鈴木　孝正",
+    "name_kana": "スズキ",
+    "phone": "653-0963",
+    "note": ""
+  },
+  {
+    "source_row_no": 541,
+    "member_no": 539,
+    "district_code": "9区A3",
+    "address_lot": "470",
+    "name": "金子　任吉",
+    "name_kana": "カネコ",
+    "phone": "667-1259",
+    "note": ""
+  },
+  {
+    "source_row_no": 542,
+    "member_no": 540,
+    "district_code": "9区A3",
+    "address_lot": "470-2",
+    "name": "塚村　俊夫",
+    "name_kana": "ツカムラ",
+    "phone": "090-5518-3822",
+    "note": ""
+  },
+  {
+    "source_row_no": 543,
+    "member_no": 541,
+    "district_code": "9区B1",
+    "address_lot": "459-16",
+    "name": "小林　恵美子",
+    "name_kana": "コバヤシ",
+    "phone": "665-3414",
+    "note": "小林　栄"
+  },
+  {
+    "source_row_no": 544,
+    "member_no": 542,
+    "district_code": "9区B1",
+    "address_lot": "459-17",
+    "name": "中田　優",
+    "name_kana": "ナカダ",
+    "phone": "080-3463-4065",
+    "note": ""
+  },
+  {
+    "source_row_no": 545,
+    "member_no": 543,
+    "district_code": "9区B1",
+    "address_lot": "459-18",
+    "name": "飯村　清嗣",
+    "name_kana": "イイムラ",
+    "phone": "663-3441",
+    "note": ""
+  },
+  {
+    "source_row_no": 546,
+    "member_no": 544,
+    "district_code": "9区B1",
+    "address_lot": "459-21",
+    "name": "江藤　道夫",
+    "name_kana": "エトウ",
+    "phone": "652-7430",
+    "note": ""
+  },
+  {
+    "source_row_no": 547,
+    "member_no": 545,
+    "district_code": "9区B1",
+    "address_lot": "459-22",
+    "name": "紺野　理恵子",
+    "name_kana": "コンノ",
+    "phone": "666-6706",
+    "note": ""
+  },
+  {
+    "source_row_no": 548,
+    "member_no": 546,
+    "district_code": "9区B1",
+    "address_lot": "459-23",
+    "name": "今泉　彰夫",
+    "name_kana": "イマイズミ",
+    "phone": "652-0475",
+    "note": ""
+  },
+  {
+    "source_row_no": 549,
+    "member_no": 547,
+    "district_code": "9区B1",
+    "address_lot": "459-28",
+    "name": "浅野　キミ子",
+    "name_kana": "アサノ",
+    "phone": "666-4436",
+    "note": "2世帯、島田　浩徳"
+  },
+  {
+    "source_row_no": 550,
+    "member_no": 548,
+    "district_code": "9区B1",
+    "address_lot": "459-29",
+    "name": "岩原　卓美",
+    "name_kana": "イワハラ",
+    "phone": "090-4743-3392",
+    "note": ""
+  },
+  {
+    "source_row_no": 551,
+    "member_no": 549,
+    "district_code": "9区B1",
+    "address_lot": "459-31",
+    "name": "戸矢　泰斗",
+    "name_kana": "トヤ",
+    "phone": "628-5431",
+    "note": "090-5317-1864"
+  },
+  {
+    "source_row_no": 552,
+    "member_no": 550,
+    "district_code": "9区B2",
+    "address_lot": "459-4",
+    "name": "西川　雅司",
+    "name_kana": "ニシカワ",
+    "phone": "080-2027-1147",
+    "note": ""
+  },
+  {
+    "source_row_no": 553,
+    "member_no": 551,
+    "district_code": "9区B2",
+    "address_lot": "459-5",
+    "name": "富樫　岩子",
+    "name_kana": "トガシ",
+    "phone": "665-1121",
+    "note": "富樫　健"
+  },
+  {
+    "source_row_no": 554,
+    "member_no": 552,
+    "district_code": "9区B2",
+    "address_lot": "459-8",
+    "name": "和気　靖久",
+    "name_kana": "ワキ",
+    "phone": "663-7269",
+    "note": ""
+  },
+  {
+    "source_row_no": 555,
+    "member_no": 553,
+    "district_code": "9区B2",
+    "address_lot": "459-9",
+    "name": "長谷川　和俊",
+    "name_kana": "ハセガワ",
+    "phone": "090-4624-3680",
+    "note": ""
+  },
+  {
+    "source_row_no": 556,
+    "member_no": 554,
+    "district_code": "9区B2",
+    "address_lot": "459-12",
+    "name": "暮井　駿佑",
+    "name_kana": "クレイ",
+    "phone": "090-2745-1375",
+    "note": ""
+  },
+  {
+    "source_row_no": 557,
+    "member_no": 555,
+    "district_code": "9区B2",
+    "address_lot": "459-13",
+    "name": "佐藤　正義",
+    "name_kana": "サトウ",
+    "phone": "653-7658",
+    "note": ""
+  },
+  {
+    "source_row_no": 558,
+    "member_no": 556,
+    "district_code": "9区B2",
+    "address_lot": "459-14",
+    "name": "新井　美紗江",
+    "name_kana": "アライ",
+    "phone": "665-3413",
+    "note": ""
+  },
+  {
+    "source_row_no": 559,
+    "member_no": 557,
+    "district_code": "9区B2",
+    "address_lot": "459-15",
+    "name": "近村　潔",
+    "name_kana": "チカムラ",
+    "phone": "653-4387",
+    "note": ""
+  },
+  {
+    "source_row_no": 560,
+    "member_no": 558,
+    "district_code": "9区B2",
+    "address_lot": "459-30",
+    "name": "小林　恭輔",
+    "name_kana": "コバヤシ",
+    "phone": "090-2911-1994",
+    "note": ""
+  },
+  {
+    "source_row_no": 561,
+    "member_no": 559,
+    "district_code": "9区B2",
+    "address_lot": "468",
+    "name": "杉浦　千恵",
+    "name_kana": "スギウラ",
+    "phone": "663-9617",
+    "note": ""
+  },
+  {
+    "source_row_no": 562,
+    "member_no": 560,
+    "district_code": "9区B2",
+    "address_lot": "469-3",
+    "name": "田中　一弘",
+    "name_kana": "タナカ",
+    "phone": "663-4088",
+    "note": ""
+  },
+  {
+    "source_row_no": 563,
+    "member_no": 561,
+    "district_code": "9区B2",
+    "address_lot": "469-4",
+    "name": "長谷川　孝",
+    "name_kana": "ハセガワ",
+    "phone": "954-3952",
+    "note": ""
+  },
+  {
+    "source_row_no": 564,
+    "member_no": 562,
+    "district_code": "10区A1",
+    "address_lot": "414-2",
+    "name": "濱田　良雄",
+    "name_kana": "ハマダ",
+    "phone": "665-2343",
+    "note": ""
+  },
+  {
+    "source_row_no": 565,
+    "member_no": 563,
+    "district_code": "10区A1",
+    "address_lot": "415-1",
+    "name": "配島　信恵",
+    "name_kana": "ハイシマ",
+    "phone": "651-5907",
+    "note": ""
+  },
+  {
+    "source_row_no": 566,
+    "member_no": 564,
+    "district_code": "10区A1",
+    "address_lot": "415-5",
+    "name": "星野　均",
+    "name_kana": "ホシノ",
+    "phone": "667-6046",
+    "note": ""
+  },
+  {
+    "source_row_no": 567,
+    "member_no": 565,
+    "district_code": "10区A1",
+    "address_lot": "416-1",
+    "name": "井上　功",
+    "name_kana": "イノウエ",
+    "phone": "663-7893",
+    "note": ""
+  },
+  {
+    "source_row_no": 568,
+    "member_no": 566,
+    "district_code": "10区A1",
+    "address_lot": "416-2",
+    "name": "丁子　史正",
+    "name_kana": "チョウジ",
+    "phone": "666-2748",
+    "note": ""
+  },
+  {
+    "source_row_no": 569,
+    "member_no": 567,
+    "district_code": "10区A1",
+    "address_lot": "420-2",
+    "name": "濱田　朝子",
+    "name_kana": "ハマダ",
+    "phone": "665-2154",
+    "note": ""
+  },
+  {
+    "source_row_no": 570,
+    "member_no": 568,
+    "district_code": "10区A1",
+    "address_lot": "420-4",
+    "name": "志村　美津留",
+    "name_kana": "シムラ",
+    "phone": "663-1421",
+    "note": "志村　隆吉"
+  },
+  {
+    "source_row_no": 571,
+    "member_no": 569,
+    "district_code": "10区A1",
+    "address_lot": "420-7",
+    "name": "野山　繁紀",
+    "name_kana": "ノヤマ",
+    "phone": "783-4938",
+    "note": ""
+  },
+  {
+    "source_row_no": 572,
+    "member_no": 570,
+    "district_code": "10区A1",
+    "address_lot": "420-9",
+    "name": "村田　恵子",
+    "name_kana": "ムラタ",
+    "phone": "654-4412",
+    "note": ""
+  },
+  {
+    "source_row_no": 573,
+    "member_no": 571,
+    "district_code": "10区A1",
+    "address_lot": "420-10",
+    "name": "上野　昭雄",
+    "name_kana": "ウエノ",
+    "phone": "651-1489",
+    "note": ""
+  },
+  {
+    "source_row_no": 574,
+    "member_no": 572,
+    "district_code": "10区A1",
+    "address_lot": "420-11",
+    "name": "佐藤　晴彦",
+    "name_kana": "サトウ",
+    "phone": "667-4356",
+    "note": ""
+  },
+  {
+    "source_row_no": 575,
+    "member_no": 573,
+    "district_code": "10区A1",
+    "address_lot": "421-5",
+    "name": "岩田　康男",
+    "name_kana": "イワタ",
+    "phone": "666-3312",
+    "note": ""
+  },
+  {
+    "source_row_no": 576,
+    "member_no": 574,
+    "district_code": "10区A2",
+    "address_lot": "423-1",
+    "name": "蔵野　恭司",
+    "name_kana": "クラノ",
+    "phone": "651-2848",
+    "note": ""
+  },
+  {
+    "source_row_no": 577,
+    "member_no": 575,
+    "district_code": "10区A2",
+    "address_lot": "423-3",
+    "name": "鶴間　武",
+    "name_kana": "ツルマ",
+    "phone": "651-8095",
+    "note": ""
+  },
+  {
+    "source_row_no": 578,
+    "member_no": 576,
+    "district_code": "10区A2",
+    "address_lot": "423-5",
+    "name": "山田　清之",
+    "name_kana": "ヤマダ",
+    "phone": "665-7328",
+    "note": ""
+  },
+  {
+    "source_row_no": 579,
+    "member_no": 577,
+    "district_code": "10区A2",
+    "address_lot": "423-6",
+    "name": "飯田　秀一",
+    "name_kana": "イイダ",
+    "phone": "666-3887",
+    "note": "飯田　由紀子"
+  },
+  {
+    "source_row_no": 580,
+    "member_no": 578,
+    "district_code": "10区A2",
+    "address_lot": "423-7",
+    "name": "里見　友崇",
+    "name_kana": "サトミ",
+    "phone": "653-0262",
+    "note": ""
+  },
+  {
+    "source_row_no": 581,
+    "member_no": 579,
+    "district_code": "10区A2",
+    "address_lot": "423-9",
+    "name": "上村　哲也",
+    "name_kana": "カミムラ　テツヤ",
+    "phone": "653-0734",
+    "note": "上村　せつ子"
+  },
+  {
+    "source_row_no": 582,
+    "member_no": 580,
+    "district_code": "10区A2",
+    "address_lot": "423-13",
+    "name": "山下　直樹",
+    "name_kana": "ヤマシタ",
+    "phone": "654-4596",
+    "note": ""
+  },
+  {
+    "source_row_no": 583,
+    "member_no": 581,
+    "district_code": "10区A2",
+    "address_lot": "423-14",
+    "name": "石ヶ谷　宜昭",
+    "name_kana": "イシガヤ",
+    "phone": "090-1530-9405",
+    "note": ""
+  },
+  {
+    "source_row_no": 584,
+    "member_no": 582,
+    "district_code": "10区A2",
+    "address_lot": "423-18",
+    "name": "吉田　光範",
+    "name_kana": "ヨシダ",
+    "phone": "699-2804",
+    "note": ""
+  },
+  {
+    "source_row_no": 585,
+    "member_no": 583,
+    "district_code": "10区A3",
+    "address_lot": "425-8",
+    "name": "竹之内　崇",
+    "name_kana": "タケノウチ",
+    "phone": "666-1824",
+    "note": ""
+  },
+  {
+    "source_row_no": 586,
+    "member_no": 584,
+    "district_code": "10区A3",
+    "address_lot": "425-9",
+    "name": "根本　芳司",
+    "name_kana": "ネモト",
+    "phone": "651-8115",
+    "note": ""
+  },
+  {
+    "source_row_no": 587,
+    "member_no": 585,
+    "district_code": "10区A3",
+    "address_lot": "426-101",
+    "name": "佐藤　直行",
+    "name_kana": "サトウ",
+    "phone": "651-3554",
+    "note": ""
+  },
+  {
+    "source_row_no": 588,
+    "member_no": 586,
+    "district_code": "10区A3",
+    "address_lot": "430-2",
+    "name": "神山　透",
+    "name_kana": "カミヤマ",
+    "phone": "665-3410",
+    "note": ""
+  },
+  {
+    "source_row_no": 589,
+    "member_no": 587,
+    "district_code": "10区A3",
+    "address_lot": "433",
+    "name": "野口　光弘",
+    "name_kana": "ノグチ",
+    "phone": "665-3079",
+    "note": ""
+  },
+  {
+    "source_row_no": 590,
+    "member_no": 588,
+    "district_code": "10区A3",
+    "address_lot": "433-1",
+    "name": "児島　英一郎",
+    "name_kana": "コジマ",
+    "phone": "783-3583",
+    "note": ""
+  },
+  {
+    "source_row_no": 591,
+    "member_no": 589,
+    "district_code": "10区A3",
+    "address_lot": "437-2",
+    "name": "佐藤　憲雄",
+    "name_kana": "サトウ",
+    "phone": "664-6827",
+    "note": "ﾒｿﾞﾝ佐藤"
+  },
+  {
+    "source_row_no": 592,
+    "member_no": 590,
+    "district_code": "10区B1",
+    "address_lot": "443-3",
+    "name": "小森　好美",
+    "name_kana": "コモリ",
+    "phone": "666-7267",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 593,
+    "member_no": 591,
+    "district_code": "10区B1",
+    "address_lot": "443-5",
+    "name": "河澄　利晴",
+    "name_kana": "カワスミ",
+    "phone": "667-6931",
+    "note": ""
+  },
+  {
+    "source_row_no": 594,
+    "member_no": 592,
+    "district_code": "10区B1",
+    "address_lot": "443-6",
+    "name": "船橋　里美",
+    "name_kana": "フナバシ",
+    "phone": "651-5320",
+    "note": ""
+  },
+  {
+    "source_row_no": 595,
+    "member_no": 593,
+    "district_code": "10区B1",
+    "address_lot": "443-7",
+    "name": "杉本　しづ江",
+    "name_kana": "スギモト",
+    "phone": "666-1238",
+    "note": "杉本　満彦"
+  },
+  {
+    "source_row_no": 596,
+    "member_no": 594,
+    "district_code": "10区B1",
+    "address_lot": "443-13",
+    "name": "松島　由紀子",
+    "name_kana": "マツシマ",
+    "phone": "667-5004",
+    "note": "松島　賢治"
+  },
+  {
+    "source_row_no": 597,
+    "member_no": 595,
+    "district_code": "10区B1",
+    "address_lot": "444-3",
+    "name": "吉田　昌之",
+    "name_kana": "ヨシダ",
+    "phone": "666-8755",
+    "note": "吉田　昌泰"
+  },
+  {
+    "source_row_no": 598,
+    "member_no": 596,
+    "district_code": "10区B1",
+    "address_lot": "444-5",
+    "name": "浅香　伸和",
+    "name_kana": "アサカ",
+    "phone": "666-6800",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 599,
+    "member_no": 597,
+    "district_code": "10区B1",
+    "address_lot": "444-11",
+    "name": "金子　益夫",
+    "name_kana": "カネコ",
+    "phone": "667-3990",
+    "note": ""
+  },
+  {
+    "source_row_no": 600,
+    "member_no": 598,
+    "district_code": "10区B1",
+    "address_lot": "444-17",
+    "name": "遠藤　裕貴",
+    "name_kana": "エンドウ",
+    "phone": "090-9685-1154",
+    "note": ""
+  },
+  {
+    "source_row_no": 601,
+    "member_no": 599,
+    "district_code": "10区B1",
+    "address_lot": "444-19",
+    "name": "粟飯原　忠夫",
+    "name_kana": "アイハラ",
+    "phone": "652-6037",
+    "note": ""
+  },
+  {
+    "source_row_no": 602,
+    "member_no": 600,
+    "district_code": "10区B2",
+    "address_lot": "445-5",
+    "name": "大川　寛",
+    "name_kana": "オオカワ",
+    "phone": "653-6593",
+    "note": ""
+  },
+  {
+    "source_row_no": 603,
+    "member_no": 601,
+    "district_code": "10区B2",
+    "address_lot": "446",
+    "name": "高山　照子",
+    "name_kana": "タカヤマ",
+    "phone": "664-1026",
+    "note": ""
+  },
+  {
+    "source_row_no": 604,
+    "member_no": 602,
+    "district_code": "10区B2",
+    "address_lot": "448",
+    "name": "宮下　利治",
+    "name_kana": "ミヤシタ",
+    "phone": "667-8733",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 605,
+    "member_no": 603,
+    "district_code": "10区B2",
+    "address_lot": "449-3",
+    "name": "永田　充",
+    "name_kana": "ナガタ",
+    "phone": "652-4565",
+    "note": ""
+  },
+  {
+    "source_row_no": 606,
+    "member_no": 604,
+    "district_code": "10区B2",
+    "address_lot": "449-7",
+    "name": "西嶋　隆太",
+    "name_kana": "ニシジマ",
+    "phone": "664-6215",
+    "note": "西嶋　武"
+  },
+  {
+    "source_row_no": 607,
+    "member_no": 605,
+    "district_code": "10区B2",
+    "address_lot": "449-10",
+    "name": "鈴木　聡彦",
+    "name_kana": "スズキ",
+    "phone": "",
+    "note": "不掲載"
+  },
+  {
+    "source_row_no": 608,
+    "member_no": 606,
+    "district_code": "10区B2",
+    "address_lot": "449-12",
+    "name": "李　橋",
+    "name_kana": "リ",
+    "phone": "080-3823-0093",
+    "note": ""
+  },
+  {
+    "source_row_no": 609,
+    "member_no": 607,
+    "district_code": "10区B2",
+    "address_lot": "455-4",
+    "name": "青山　直寛",
+    "name_kana": "アオヤマ",
+    "phone": "090-5603-3510",
+    "note": ""
+  },
+  {
+    "source_row_no": 610,
+    "member_no": 608,
+    "district_code": "10区B2",
+    "address_lot": "455-5",
+    "name": "山瀧　信人",
+    "name_kana": "ヤマタキ",
+    "phone": "090-4244-3654",
+    "note": ""
+  },
+  {
+    "source_row_no": 611,
+    "member_no": 609,
+    "district_code": "10区B2",
+    "address_lot": "455-12",
+    "name": "樋口　雅之",
+    "name_kana": "ヒグチ",
+    "phone": "080-6088-8111",
+    "note": ""
+  },
+  {
+    "source_row_no": 612,
+    "member_no": 610,
+    "district_code": "10区B3",
+    "address_lot": "451-4",
+    "name": "水野　正雄",
+    "name_kana": "ミズノ",
+    "phone": "090-4096-9147",
+    "note": ""
+  },
+  {
+    "source_row_no": 613,
+    "member_no": 611,
+    "district_code": "10区B3",
+    "address_lot": "452-1",
+    "name": "井原　輝男",
+    "name_kana": "イハラ",
+    "phone": "667-2841",
+    "note": ""
+  },
+  {
+    "source_row_no": 614,
+    "member_no": 612,
+    "district_code": "10区B3",
+    "address_lot": "452-2",
+    "name": "鈴木　璋吉",
+    "name_kana": "スズキ",
+    "phone": "664-3195",
+    "note": "鈴木　準一郎"
+  },
+  {
+    "source_row_no": 615,
+    "member_no": 613,
+    "district_code": "10区B3",
+    "address_lot": "452-5",
+    "name": "松下　隆一",
+    "name_kana": "マツシタ",
+    "phone": "666-6039",
+    "note": ""
+  },
+  {
+    "source_row_no": 616,
+    "member_no": 614,
+    "district_code": "10区B3",
+    "address_lot": "453-3",
+    "name": "渋谷　直克",
+    "name_kana": "シブヤ",
+    "phone": "651-8615",
+    "note": ""
+  },
+  {
+    "source_row_no": 617,
+    "member_no": 615,
+    "district_code": "10区B3",
+    "address_lot": "454-1",
+    "name": "浅田　翔太",
+    "name_kana": "アサダ",
+    "phone": "090-6536-0414",
+    "note": ""
+  },
+  {
+    "source_row_no": 618,
+    "member_no": 616,
+    "district_code": "10区B3",
+    "address_lot": "454-2",
+    "name": "加藤　裕也",
+    "name_kana": "カトウ",
+    "phone": "080-1083-1247",
+    "note": ""
+  },
+  {
+    "source_row_no": 619,
+    "member_no": 617,
+    "district_code": "10区B3",
+    "address_lot": "454-3",
+    "name": "清田　敏生",
+    "name_kana": "キヨタ",
+    "phone": "090-7700-3981",
+    "note": ""
+  },
+  {
+    "source_row_no": 620,
+    "member_no": 618,
+    "district_code": "10区B3",
+    "address_lot": "454-4",
+    "name": "武田　智輝",
+    "name_kana": "タケダ",
+    "phone": "090-3840-9568",
+    "note": ""
+  },
+  {
+    "source_row_no": 621,
+    "member_no": 619,
+    "district_code": "10区B3",
+    "address_lot": "454-5",
+    "name": "小林　俊介",
+    "name_kana": "コバヤシ",
+    "phone": "090-2467-4325",
+    "note": ""
+  },
+  {
+    "source_row_no": 622,
+    "member_no": 620,
+    "district_code": "10区B4",
+    "address_lot": "441-8",
+    "name": "岡野　文子",
+    "name_kana": "オカノ",
+    "phone": "665-8766",
+    "note": "2世帯、髙比良　邦宏"
+  },
+  {
+    "source_row_no": 623,
+    "member_no": 621,
+    "district_code": "10区B4",
+    "address_lot": "441-12",
+    "name": "渡辺　充也",
+    "name_kana": "ワタナベ",
+    "phone": "090-7200-6692",
+    "note": ""
+  },
+  {
+    "source_row_no": 624,
+    "member_no": 622,
+    "district_code": "10区B4",
+    "address_lot": "442-3",
+    "name": "伊村　秀樹",
+    "name_kana": "イムラ",
+    "phone": "660-3063",
+    "note": ""
+  },
+  {
+    "source_row_no": 625,
+    "member_no": 623,
+    "district_code": "10区B4",
+    "address_lot": "442-4",
+    "name": "鎌田　佳祐",
+    "name_kana": "カマタ",
+    "phone": "090-4312-4552",
+    "note": ""
+  },
+  {
+    "source_row_no": 626,
+    "member_no": 624,
+    "district_code": "10区B4",
+    "address_lot": "442-5",
+    "name": "鈴木　敏弘",
+    "name_kana": "スズキ",
+    "phone": "667-0023",
+    "note": "鈴木　茂利"
+  },
+  {
+    "source_row_no": 627,
+    "member_no": 625,
+    "district_code": "10区B4",
+    "address_lot": "442-6",
+    "name": "齋藤　親希",
+    "name_kana": "サイトウ",
+    "phone": "653-2824",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 628,
+    "member_no": 626,
+    "district_code": "10区B4",
+    "address_lot": "442-12",
+    "name": "油井原　健",
+    "name_kana": "ユイハラ",
+    "phone": "070-3338-6570",
+    "note": ""
+  },
+  {
+    "source_row_no": 629,
+    "member_no": 627,
+    "district_code": "10区B4",
+    "address_lot": "442-13",
+    "name": "遠藤　武",
+    "name_kana": "エンドウ",
+    "phone": "666-8373",
+    "note": "2世帯"
+  },
+  {
+    "source_row_no": 630,
+    "member_no": 628,
+    "district_code": "10区B4",
+    "address_lot": "443-10",
+    "name": "佐藤　豊",
+    "name_kana": "サトウ",
+    "phone": "664-1645",
+    "note": ""
+  },
+  {
+    "source_row_no": 631,
+    "member_no": 629,
+    "district_code": "10区B4",
+    "address_lot": "443-11",
+    "name": "加藤　繁",
+    "name_kana": "カトウ",
+    "phone": "651-3604",
+    "note": ""
+  },
+  {
+    "source_row_no": 632,
+    "member_no": 630,
+    "district_code": "10区B4",
+    "address_lot": "443-12",
+    "name": "片岡　義光",
+    "name_kana": "カタオカ",
+    "phone": "651-6864",
+    "note": "片岡　ハツヲ"
+  },
+  {
+    "source_row_no": 633,
+    "member_no": 631,
+    "district_code": "10区B4",
+    "address_lot": "444-12",
+    "name": "近井　睦夫",
+    "name_kana": "チカイ",
+    "phone": "667-6467",
+    "note": ""
+  }
+]

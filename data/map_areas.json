@@ -1,0 +1,522 @@
+[
+  {
+    "svg_element_id": "area01_A1",
+    "district_code": "1区A1",
+    "area_type": "district",
+    "display_name": "1区A1",
+    "has_source_range": true,
+    "sort_order": 1
+  },
+  {
+    "svg_element_id": "area01_A2",
+    "district_code": "1区A2",
+    "area_type": "district",
+    "display_name": "1区A2",
+    "has_source_range": true,
+    "sort_order": 2
+  },
+  {
+    "svg_element_id": "area01_B1",
+    "district_code": "1区B1",
+    "area_type": "district",
+    "display_name": "1区B1",
+    "has_source_range": true,
+    "sort_order": 3
+  },
+  {
+    "svg_element_id": "area01_B2",
+    "district_code": "1区B2",
+    "area_type": "district",
+    "display_name": "1区B2",
+    "has_source_range": true,
+    "sort_order": 4
+  },
+  {
+    "svg_element_id": "area01_C1",
+    "district_code": "1区C1",
+    "area_type": "district",
+    "display_name": "1区C1",
+    "has_source_range": true,
+    "sort_order": 5
+  },
+  {
+    "svg_element_id": "area01_C2",
+    "district_code": "1区C2",
+    "area_type": "district",
+    "display_name": "1区C2",
+    "has_source_range": true,
+    "sort_order": 6
+  },
+  {
+    "svg_element_id": "area02_A1",
+    "district_code": "2区A1",
+    "area_type": "district",
+    "display_name": "2区A1",
+    "has_source_range": true,
+    "sort_order": 7
+  },
+  {
+    "svg_element_id": "area02_A2",
+    "district_code": "2区A2",
+    "area_type": "district",
+    "display_name": "2区A2",
+    "has_source_range": true,
+    "sort_order": 8
+  },
+  {
+    "svg_element_id": "area02_B1",
+    "district_code": "2区B1",
+    "area_type": "district",
+    "display_name": "2区B1",
+    "has_source_range": true,
+    "sort_order": 9
+  },
+  {
+    "svg_element_id": "area02_B2",
+    "district_code": "2区B2",
+    "area_type": "district",
+    "display_name": "2区B2",
+    "has_source_range": true,
+    "sort_order": 10
+  },
+  {
+    "svg_element_id": "area03_A1",
+    "district_code": "3区A1",
+    "area_type": "district",
+    "display_name": "3区A1",
+    "has_source_range": true,
+    "sort_order": 11
+  },
+  {
+    "svg_element_id": "area03_A2",
+    "district_code": "3区A2",
+    "area_type": "district",
+    "display_name": "3区A2",
+    "has_source_range": true,
+    "sort_order": 12
+  },
+  {
+    "svg_element_id": "area03_B1",
+    "district_code": "3区B1",
+    "area_type": "district",
+    "display_name": "3区B1",
+    "has_source_range": true,
+    "sort_order": 13
+  },
+  {
+    "svg_element_id": "area03_B2",
+    "district_code": "3区B2",
+    "area_type": "district",
+    "display_name": "3区B2",
+    "has_source_range": true,
+    "sort_order": 14
+  },
+  {
+    "svg_element_id": "area03_B3",
+    "district_code": "3区B3",
+    "area_type": "district",
+    "display_name": "3区B3",
+    "has_source_range": false,
+    "sort_order": 15
+  },
+  {
+    "svg_element_id": "area03_C1",
+    "district_code": "3区C1",
+    "area_type": "district",
+    "display_name": "3区C1",
+    "has_source_range": true,
+    "sort_order": 16
+  },
+  {
+    "svg_element_id": "area03_C2",
+    "district_code": "3区C2",
+    "area_type": "district",
+    "display_name": "3区C2",
+    "has_source_range": true,
+    "sort_order": 17
+  },
+  {
+    "svg_element_id": "area04_A1",
+    "district_code": "4区A1",
+    "area_type": "district",
+    "display_name": "4区A1",
+    "has_source_range": true,
+    "sort_order": 18
+  },
+  {
+    "svg_element_id": "area04_A2",
+    "district_code": "4区A2",
+    "area_type": "district",
+    "display_name": "4区A2",
+    "has_source_range": true,
+    "sort_order": 19
+  },
+  {
+    "svg_element_id": "area04_A3",
+    "district_code": "4区A3",
+    "area_type": "district",
+    "display_name": "4区A3",
+    "has_source_range": true,
+    "sort_order": 20
+  },
+  {
+    "svg_element_id": "area04_B1",
+    "district_code": "4区B1",
+    "area_type": "district",
+    "display_name": "4区B1",
+    "has_source_range": true,
+    "sort_order": 21
+  },
+  {
+    "svg_element_id": "area04_B2",
+    "district_code": "4区B2",
+    "area_type": "district",
+    "display_name": "4区B2",
+    "has_source_range": true,
+    "sort_order": 22
+  },
+  {
+    "svg_element_id": "area04_C1",
+    "district_code": "4区C1",
+    "area_type": "district",
+    "display_name": "4区C1",
+    "has_source_range": true,
+    "sort_order": 23
+  },
+  {
+    "svg_element_id": "area04_C2",
+    "district_code": "4区C2",
+    "area_type": "district",
+    "display_name": "4区C2",
+    "has_source_range": true,
+    "sort_order": 24
+  },
+  {
+    "svg_element_id": "area04_C3",
+    "district_code": "4区C3",
+    "area_type": "district",
+    "display_name": "4区C3",
+    "has_source_range": true,
+    "sort_order": 25
+  },
+  {
+    "svg_element_id": "area05_A1",
+    "district_code": "5区A1",
+    "area_type": "district",
+    "display_name": "5区A1",
+    "has_source_range": true,
+    "sort_order": 26
+  },
+  {
+    "svg_element_id": "area05_A2",
+    "district_code": "5区A2",
+    "area_type": "district",
+    "display_name": "5区A2",
+    "has_source_range": true,
+    "sort_order": 27
+  },
+  {
+    "svg_element_id": "area05_B1",
+    "district_code": "5区B1",
+    "area_type": "district",
+    "display_name": "5区B1",
+    "has_source_range": true,
+    "sort_order": 28
+  },
+  {
+    "svg_element_id": "area05_B2",
+    "district_code": "5区B2",
+    "area_type": "district",
+    "display_name": "5区B2",
+    "has_source_range": true,
+    "sort_order": 29
+  },
+  {
+    "svg_element_id": "area06_A1",
+    "district_code": "6区A1",
+    "area_type": "district",
+    "display_name": "6区A1",
+    "has_source_range": true,
+    "sort_order": 30
+  },
+  {
+    "svg_element_id": "area06_A2",
+    "district_code": "6区A2",
+    "area_type": "district",
+    "display_name": "6区A2",
+    "has_source_range": true,
+    "sort_order": 31
+  },
+  {
+    "svg_element_id": "area06_B1",
+    "district_code": "6区B1",
+    "area_type": "district",
+    "display_name": "6区B1",
+    "has_source_range": true,
+    "sort_order": 32
+  },
+  {
+    "svg_element_id": "area06_B2",
+    "district_code": "6区B2",
+    "area_type": "district",
+    "display_name": "6区B2",
+    "has_source_range": true,
+    "sort_order": 33
+  },
+  {
+    "svg_element_id": "area06_C1",
+    "district_code": "6区C1",
+    "area_type": "district",
+    "display_name": "6区C1",
+    "has_source_range": true,
+    "sort_order": 34
+  },
+  {
+    "svg_element_id": "area06_D1",
+    "district_code": "6区D1",
+    "area_type": "district",
+    "display_name": "6区D1",
+    "has_source_range": true,
+    "sort_order": 35
+  },
+  {
+    "svg_element_id": "area06_D2",
+    "district_code": "6区D2",
+    "area_type": "district",
+    "display_name": "6区D2",
+    "has_source_range": false,
+    "sort_order": 36
+  },
+  {
+    "svg_element_id": "area06_E",
+    "district_code": "6区E",
+    "area_type": "district",
+    "display_name": "6区E",
+    "has_source_range": true,
+    "sort_order": 37
+  },
+  {
+    "svg_element_id": "area07_A1",
+    "district_code": "7区A1",
+    "area_type": "district",
+    "display_name": "7区A1",
+    "has_source_range": true,
+    "sort_order": 38
+  },
+  {
+    "svg_element_id": "area07_A2",
+    "district_code": "7区A2",
+    "area_type": "district",
+    "display_name": "7区A2",
+    "has_source_range": true,
+    "sort_order": 39
+  },
+  {
+    "svg_element_id": "area07_B1",
+    "district_code": "7区B1",
+    "area_type": "district",
+    "display_name": "7区B1",
+    "has_source_range": true,
+    "sort_order": 40
+  },
+  {
+    "svg_element_id": "area07_B2",
+    "district_code": "7区B2",
+    "area_type": "district",
+    "display_name": "7区B2",
+    "has_source_range": true,
+    "sort_order": 41
+  },
+  {
+    "svg_element_id": "area07_B3",
+    "district_code": "7区B3",
+    "area_type": "district",
+    "display_name": "7区B3",
+    "has_source_range": true,
+    "sort_order": 42
+  },
+  {
+    "svg_element_id": "area08_A1",
+    "district_code": "8区A1",
+    "area_type": "district",
+    "display_name": "8区A1",
+    "has_source_range": true,
+    "sort_order": 43
+  },
+  {
+    "svg_element_id": "area08_B1",
+    "district_code": "8区B1",
+    "area_type": "district",
+    "display_name": "8区B1",
+    "has_source_range": true,
+    "sort_order": 44
+  },
+  {
+    "svg_element_id": "area08_B2",
+    "district_code": "8区B2",
+    "area_type": "district",
+    "display_name": "8区B2",
+    "has_source_range": true,
+    "sort_order": 45
+  },
+  {
+    "svg_element_id": "area08_C1",
+    "district_code": "8区C1",
+    "area_type": "district",
+    "display_name": "8区C1",
+    "has_source_range": true,
+    "sort_order": 46
+  },
+  {
+    "svg_element_id": "area08_C2",
+    "district_code": "8区C2",
+    "area_type": "district",
+    "display_name": "8区C2",
+    "has_source_range": true,
+    "sort_order": 47
+  },
+  {
+    "svg_element_id": "area08_C3",
+    "district_code": "8区C3",
+    "area_type": "district",
+    "display_name": "8区C3",
+    "has_source_range": true,
+    "sort_order": 48
+  },
+  {
+    "svg_element_id": "area08_D1",
+    "district_code": "8区D1",
+    "area_type": "district",
+    "display_name": "8区D1",
+    "has_source_range": true,
+    "sort_order": 49
+  },
+  {
+    "svg_element_id": "area08_D2",
+    "district_code": "8区D2",
+    "area_type": "district",
+    "display_name": "8区D2",
+    "has_source_range": true,
+    "sort_order": 50
+  },
+  {
+    "svg_element_id": "area08_D3",
+    "district_code": "8区D3",
+    "area_type": "district",
+    "display_name": "8区D3",
+    "has_source_range": false,
+    "sort_order": 51
+  },
+  {
+    "svg_element_id": "area09_A1",
+    "district_code": "9区A1",
+    "area_type": "district",
+    "display_name": "9区A1",
+    "has_source_range": true,
+    "sort_order": 52
+  },
+  {
+    "svg_element_id": "area09_A2",
+    "district_code": "9区A2",
+    "area_type": "district",
+    "display_name": "9区A2",
+    "has_source_range": true,
+    "sort_order": 53
+  },
+  {
+    "svg_element_id": "area09_A3",
+    "district_code": "9区A3",
+    "area_type": "district",
+    "display_name": "9区A3",
+    "has_source_range": true,
+    "sort_order": 54
+  },
+  {
+    "svg_element_id": "area09_B1",
+    "district_code": "9区B1",
+    "area_type": "district",
+    "display_name": "9区B1",
+    "has_source_range": true,
+    "sort_order": 55
+  },
+  {
+    "svg_element_id": "area09_B2",
+    "district_code": "9区B2",
+    "area_type": "district",
+    "display_name": "9区B2",
+    "has_source_range": true,
+    "sort_order": 56
+  },
+  {
+    "svg_element_id": "area10_A1",
+    "district_code": "10区A1",
+    "area_type": "district",
+    "display_name": "10区A1",
+    "has_source_range": true,
+    "sort_order": 57
+  },
+  {
+    "svg_element_id": "area10_A2",
+    "district_code": "10区A2",
+    "area_type": "district",
+    "display_name": "10区A2",
+    "has_source_range": true,
+    "sort_order": 58
+  },
+  {
+    "svg_element_id": "area10_A3",
+    "district_code": "10区A3",
+    "area_type": "district",
+    "display_name": "10区A3",
+    "has_source_range": true,
+    "sort_order": 59
+  },
+  {
+    "svg_element_id": "area10_B1",
+    "district_code": "10区B1",
+    "area_type": "district",
+    "display_name": "10区B1",
+    "has_source_range": true,
+    "sort_order": 60
+  },
+  {
+    "svg_element_id": "area10_B2",
+    "district_code": "10区B2",
+    "area_type": "district",
+    "display_name": "10区B2",
+    "has_source_range": true,
+    "sort_order": 61
+  },
+  {
+    "svg_element_id": "area10_B3",
+    "district_code": "10区B3",
+    "area_type": "district",
+    "display_name": "10区B3",
+    "has_source_range": true,
+    "sort_order": 62
+  },
+  {
+    "svg_element_id": "area10_B4",
+    "district_code": "10区B4",
+    "area_type": "district",
+    "display_name": "10区B4",
+    "has_source_range": true,
+    "sort_order": 63
+  },
+  {
+    "svg_element_id": "area10_C1",
+    "district_code": "10区C1",
+    "area_type": "district",
+    "display_name": "10区C1",
+    "has_source_range": false,
+    "sort_order": 64
+  },
+  {
+    "svg_element_id": "area10_C2",
+    "district_code": "10区C2",
+    "area_type": "district",
+    "display_name": "10区C2",
+    "has_source_range": false,
+    "sort_order": 65
+  }
+]

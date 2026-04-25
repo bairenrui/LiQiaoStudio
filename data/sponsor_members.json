@@ -1,0 +1,202 @@
+[
+  {
+    "source_row_no": 3,
+    "sponsor_no": 1,
+    "district_code": "1区C2",
+    "address_lot": "64",
+    "company_name": "読売センター大宮日進",
+    "contact_name": "",
+    "phone": "663-4124",
+    "business_description": "新聞販売（読売・報知）・広告"
+  },
+  {
+    "source_row_no": 4,
+    "sponsor_no": 2,
+    "district_code": "2区B2",
+    "address_lot": "191",
+    "company_name": "中華　一龍",
+    "contact_name": "",
+    "phone": "651-3598",
+    "business_description": "飲食店"
+  },
+  {
+    "source_row_no": 5,
+    "sponsor_no": 3,
+    "district_code": "2区B2",
+    "address_lot": "192-2",
+    "company_name": "㈱まるやま",
+    "contact_name": "",
+    "phone": "664-0857",
+    "business_description": "高級呉服・宝石・ファッション"
+  },
+  {
+    "source_row_no": 6,
+    "sponsor_no": 4,
+    "district_code": "3区C1",
+    "address_lot": "181",
+    "company_name": "㈱シャインコーポレーション",
+    "contact_name": "",
+    "phone": "667-1820",
+    "business_description": "米穀事業・駐車場事業"
+  },
+  {
+    "source_row_no": 7,
+    "sponsor_no": 5,
+    "district_code": "3区C1",
+    "address_lot": "188-201",
+    "company_name": "エバプラ大宮北",
+    "contact_name": "水垣　和代",
+    "phone": "729-6723",
+    "business_description": "障碍者福祉事業"
+  },
+  {
+    "source_row_no": 8,
+    "sponsor_no": 6,
+    "district_code": "3区C1",
+    "address_lot": "190",
+    "company_name": "大宮大成郵便局",
+    "contact_name": "",
+    "phone": "665-7524",
+    "business_description": "郵便事業"
+  },
+  {
+    "source_row_no": 9,
+    "sponsor_no": 7,
+    "district_code": "3区C2",
+    "address_lot": "180-2",
+    "company_name": "やぶ重",
+    "contact_name": "",
+    "phone": "665-1788",
+    "business_description": "飲食店"
+  },
+  {
+    "source_row_no": 10,
+    "sponsor_no": 8,
+    "district_code": "4区C3",
+    "address_lot": "172-2",
+    "company_name": "早川軒",
+    "contact_name": "",
+    "phone": "667-5322",
+    "business_description": "飲食店"
+  },
+  {
+    "source_row_no": 11,
+    "sponsor_no": 9,
+    "district_code": "4区C3",
+    "address_lot": "172-3",
+    "company_name": "㈱ヒカリエキスプレス",
+    "contact_name": "",
+    "phone": "667-2645",
+    "business_description": "貨物自動車運送業"
+  },
+  {
+    "source_row_no": 12,
+    "sponsor_no": 10,
+    "district_code": "6区A1",
+    "address_lot": "201-1",
+    "company_name": "セブンイレブン大成店",
+    "contact_name": "",
+    "phone": "651-7111",
+    "business_description": "コンビニエンスストア"
+  },
+  {
+    "source_row_no": 13,
+    "sponsor_no": 11,
+    "district_code": "6区A2",
+    "address_lot": "224-1",
+    "company_name": "㈱ウィズ・ウェイスト・ジャパン",
+    "contact_name": "",
+    "phone": "668-1414",
+    "business_description": "廃棄物処理業"
+  },
+  {
+    "source_row_no": 14,
+    "sponsor_no": 12,
+    "district_code": "6区B1",
+    "address_lot": "226",
+    "company_name": "㈱セレモニー大成ホール",
+    "contact_name": "",
+    "phone": "0120-754-488",
+    "business_description": "葬儀事業"
+  },
+  {
+    "source_row_no": 15,
+    "sponsor_no": 13,
+    "district_code": "6区",
+    "address_lot": "397-3",
+    "company_name": "春陽苑桜木支所",
+    "contact_name": "",
+    "phone": "661-8611",
+    "business_description": "介護福祉施設業"
+  },
+  {
+    "source_row_no": 16,
+    "sponsor_no": 14,
+    "district_code": "6区",
+    "address_lot": "402",
+    "company_name": "普門院",
+    "contact_name": "",
+    "phone": "663-1471",
+    "business_description": "仏教寺院・幼稚園"
+  },
+  {
+    "source_row_no": 17,
+    "sponsor_no": 15,
+    "district_code": "7区A3",
+    "address_lot": "273-1",
+    "company_name": "㈱アップル",
+    "contact_name": "",
+    "phone": "652-8585",
+    "business_description": "不動産仲介賃貸管理"
+  },
+  {
+    "source_row_no": 18,
+    "sponsor_no": 16,
+    "district_code": "7区A3",
+    "address_lot": "274",
+    "company_name": "㈱ヤマギシライフコーポ",
+    "contact_name": "",
+    "phone": "662-1911",
+    "business_description": "建設・不動産仲介業"
+  },
+  {
+    "source_row_no": 19,
+    "sponsor_no": 17,
+    "district_code": "7区A3",
+    "address_lot": "281",
+    "company_name": "城北信用金庫大宮支店",
+    "contact_name": "",
+    "phone": "652-1151",
+    "business_description": "外国為替・公認銀行"
+  },
+  {
+    "source_row_no": 20,
+    "sponsor_no": 18,
+    "district_code": "8区A1",
+    "address_lot": "319-1",
+    "company_name": "東京避雷針工業㈱",
+    "contact_name": "",
+    "phone": "625-9661",
+    "business_description": "避雷針設備設計・施行機器製造販売"
+  },
+  {
+    "source_row_no": 21,
+    "sponsor_no": 19,
+    "district_code": "9区A1",
+    "address_lot": "365-1",
+    "company_name": "㈲とらや",
+    "contact_name": "",
+    "phone": "666-3467",
+    "business_description": "事務用品"
+  },
+  {
+    "source_row_no": 22,
+    "sponsor_no": 20,
+    "district_code": "9区A2",
+    "address_lot": "373-3",
+    "company_name": "㈱チャイルドサポート神尾",
+    "contact_name": "神尾　伸也",
+    "phone": "658-9641",
+    "business_description": "児童福祉事業"
+  }
+]

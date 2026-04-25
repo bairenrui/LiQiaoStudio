@@ -1,0 +1,302 @@
+[
+  {
+    "start_row": 3,
+    "end_row": 12,
+    "svg_element_id": "area01_A1"
+  },
+  {
+    "start_row": 13,
+    "end_row": 24,
+    "svg_element_id": "area01_A2"
+  },
+  {
+    "start_row": 25,
+    "end_row": 30,
+    "svg_element_id": "area01_B1"
+  },
+  {
+    "start_row": 31,
+    "end_row": 42,
+    "svg_element_id": "area01_B2"
+  },
+  {
+    "start_row": 43,
+    "end_row": 49,
+    "svg_element_id": "area01_C1"
+  },
+  {
+    "start_row": 50,
+    "end_row": 63,
+    "svg_element_id": "area01_C2"
+  },
+  {
+    "start_row": 64,
+    "end_row": 71,
+    "svg_element_id": "area02_A1"
+  },
+  {
+    "start_row": 72,
+    "end_row": 84,
+    "svg_element_id": "area02_A2"
+  },
+  {
+    "start_row": 85,
+    "end_row": 93,
+    "svg_element_id": "area02_B1"
+  },
+  {
+    "start_row": 94,
+    "end_row": 105,
+    "svg_element_id": "area02_B2"
+  },
+  {
+    "start_row": 106,
+    "end_row": 116,
+    "svg_element_id": "area03_A1"
+  },
+  {
+    "start_row": 117,
+    "end_row": 127,
+    "svg_element_id": "area03_A2"
+  },
+  {
+    "start_row": 128,
+    "end_row": 136,
+    "svg_element_id": "area03_B1"
+  },
+  {
+    "start_row": 137,
+    "end_row": 159,
+    "svg_element_id": "area03_B2"
+  },
+  {
+    "start_row": 160,
+    "end_row": 168,
+    "svg_element_id": "area03_C1"
+  },
+  {
+    "start_row": 169,
+    "end_row": 177,
+    "svg_element_id": "area03_C2"
+  },
+  {
+    "start_row": 178,
+    "end_row": 191,
+    "svg_element_id": "area04_A1"
+  },
+  {
+    "start_row": 192,
+    "end_row": 206,
+    "svg_element_id": "area04_A2"
+  },
+  {
+    "start_row": 207,
+    "end_row": 217,
+    "svg_element_id": "area04_A3"
+  },
+  {
+    "start_row": 218,
+    "end_row": 225,
+    "svg_element_id": "area04_B1"
+  },
+  {
+    "start_row": 226,
+    "end_row": 230,
+    "svg_element_id": "area04_B2"
+  },
+  {
+    "start_row": 231,
+    "end_row": 242,
+    "svg_element_id": "area04_B3"
+  },
+  {
+    "start_row": 243,
+    "end_row": 253,
+    "svg_element_id": "area04_C1"
+  },
+  {
+    "start_row": 254,
+    "end_row": 262,
+    "svg_element_id": "area04_C2"
+  },
+  {
+    "start_row": 263,
+    "end_row": 270,
+    "svg_element_id": "area04_C3"
+  },
+  {
+    "start_row": 271,
+    "end_row": 286,
+    "svg_element_id": "area05_A1"
+  },
+  {
+    "start_row": 287,
+    "end_row": 296,
+    "svg_element_id": "area05_A2"
+  },
+  {
+    "start_row": 297,
+    "end_row": 304,
+    "svg_element_id": "area05_B1"
+  },
+  {
+    "start_row": 305,
+    "end_row": 314,
+    "svg_element_id": "area05_B2"
+  },
+  {
+    "start_row": 315,
+    "end_row": 319,
+    "svg_element_id": "area06_A1"
+  },
+  {
+    "start_row": 320,
+    "end_row": 327,
+    "svg_element_id": "area06_A2"
+  },
+  {
+    "start_row": 328,
+    "end_row": 333,
+    "svg_element_id": "area06_B1"
+  },
+  {
+    "start_row": 334,
+    "end_row": 342,
+    "svg_element_id": "area06_B2"
+  },
+  {
+    "start_row": 343,
+    "end_row": 357,
+    "svg_element_id": "area06_C1"
+  },
+  {
+    "start_row": 358,
+    "end_row": 367,
+    "svg_element_id": "area06_D1"
+  },
+  {
+    "start_row": 368,
+    "end_row": 379,
+    "svg_element_id": "area07_A1"
+  },
+  {
+    "start_row": 380,
+    "end_row": 390,
+    "svg_element_id": "area07_A2"
+  },
+  {
+    "start_row": 391,
+    "end_row": 400,
+    "svg_element_id": "area07_B1"
+  },
+  {
+    "start_row": 401,
+    "end_row": 404,
+    "svg_element_id": "area07_B2"
+  },
+  {
+    "start_row": 405,
+    "end_row": 414,
+    "svg_element_id": "area07_B3"
+  },
+  {
+    "start_row": 415,
+    "end_row": 434,
+    "svg_element_id": "area08_A1"
+  },
+  {
+    "start_row": 435,
+    "end_row": 444,
+    "svg_element_id": "area08_B1"
+  },
+  {
+    "start_row": 445,
+    "end_row": 459,
+    "svg_element_id": "area08_B2"
+  },
+  {
+    "start_row": 460,
+    "end_row": 466,
+    "svg_element_id": "area08_C1"
+  },
+  {
+    "start_row": 467,
+    "end_row": 475,
+    "svg_element_id": "area08_C2"
+  },
+  {
+    "start_row": 476,
+    "end_row": 486,
+    "svg_element_id": "area08_C3"
+  },
+  {
+    "start_row": 487,
+    "end_row": 500,
+    "svg_element_id": "area08_D1"
+  },
+  {
+    "start_row": 501,
+    "end_row": 514,
+    "svg_element_id": "area08_D2"
+  },
+  {
+    "start_row": 515,
+    "end_row": 527,
+    "svg_element_id": "area09_A1"
+  },
+  {
+    "start_row": 528,
+    "end_row": 533,
+    "svg_element_id": "area09_A2"
+  },
+  {
+    "start_row": 534,
+    "end_row": 542,
+    "svg_element_id": "area09_A3"
+  },
+  {
+    "start_row": 543,
+    "end_row": 551,
+    "svg_element_id": "area09_B1"
+  },
+  {
+    "start_row": 552,
+    "end_row": 563,
+    "svg_element_id": "area09_B2"
+  },
+  {
+    "start_row": 564,
+    "end_row": 575,
+    "svg_element_id": "area10_A1"
+  },
+  {
+    "start_row": 576,
+    "end_row": 584,
+    "svg_element_id": "area10_A2"
+  },
+  {
+    "start_row": 585,
+    "end_row": 591,
+    "svg_element_id": "area10_A3"
+  },
+  {
+    "start_row": 592,
+    "end_row": 601,
+    "svg_element_id": "area10_B1"
+  },
+  {
+    "start_row": 602,
+    "end_row": 611,
+    "svg_element_id": "area10_B2"
+  },
+  {
+    "start_row": 612,
+    "end_row": 621,
+    "svg_element_id": "area10_B3"
+  },
+  {
+    "start_row": 622,
+    "end_row": 633,
+    "svg_element_id": "area10_B4"
+  }
+]

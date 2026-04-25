@@ -1,0 +1,37 @@
+[
+  {
+    "key_name": "home",
+    "svg_group_id": "home",
+    "display_name": "住宅",
+    "is_default_visible": false,
+    "sort_order": 1
+  },
+  {
+    "key_name": "apartment",
+    "svg_group_id": "apartment",
+    "display_name": "集合住宅",
+    "is_default_visible": false,
+    "sort_order": 2
+  },
+  {
+    "key_name": "boundary",
+    "svg_group_id": "boundary",
+    "display_name": "境界",
+    "is_default_visible": true,
+    "sort_order": 3
+  },
+  {
+    "key_name": "commercial",
+    "svg_group_id": "comercial",
+    "display_name": "商業",
+    "is_default_visible": false,
+    "sort_order": 4
+  },
+  {
+    "key_name": "map1914",
+    "svg_group_id": "map_1914",
+    "display_name": "1914年地図",
+    "is_default_visible": false,
+    "sort_order": 5
+  }
+]
