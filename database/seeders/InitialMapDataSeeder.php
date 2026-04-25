@@ -77,7 +77,7 @@ class InitialMapDataSeeder extends Seeder
         DB::table('map_versions')->updateOrInsert(
             ['name' => '大成町二丁目地図'],
             [
-                'svg_path' => 'assets/map.svg',
+                'svg_path' => '/assets/map.svg',
                 'view_box' => '0 0 4656.46 4293.15',
                 'is_active' => true,
                 'created_by' => $adminId,
