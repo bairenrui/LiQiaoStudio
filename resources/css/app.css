@@ -88,6 +88,16 @@ button {
     font-size: 28px;
 }
 
+.status-line {
+    margin: -8px 0 20px;
+    color: #63718a;
+    font-size: 13px;
+}
+
+.status-line.error {
+    color: #b42318;
+}
+
 .panel {
     background: #fff;
     border: 1px solid #d9e1ee;

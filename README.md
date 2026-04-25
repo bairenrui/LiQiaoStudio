@@ -68,3 +68,21 @@ DB_DATABASE=taiseicho_map
 DB_USERNAME=root
 DB_PASSWORD=
 ```
+
+## Initial API
+
+第一版只读 API：
+
+```http
+GET /api/dashboard/summary
+GET /api/members?keyword=佐藤&limit=50
+GET /api/map
+GET /api/map/areas/area10_B2
+```
+
+说明：
+
+- `/api/dashboard/summary` 返回首页统计。
+- `/api/members` 支持按姓名、フリガナ、电话、备注、区班、番地搜索。
+- `/api/map` 返回当前启用地图、图层、SVG 区域列表。
+- `/api/map/areas/{svgElementId}` 返回某个 SVG 区域下的会員和賛助会員。

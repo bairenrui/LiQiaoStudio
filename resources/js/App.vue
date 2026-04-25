@@ -1,10 +1,36 @@
 <script setup>
-const modules = [
-    { label: '会員', count: 631 },
-    { label: '賛助会員', count: 20 },
-    { label: '地図区域', count: 65 },
-    { label: 'レイヤー', count: 5 },
-];
+import { computed, onMounted, ref } from 'vue';
+
+const summary = ref({
+    members: null,
+    sponsor_members: null,
+    districts: null,
+    map_areas: null,
+});
+const isLoading = ref(true);
+const errorMessage = ref('');
+
+const modules = computed(() => [
+    { label: '会員', count: summary.value.members },
+    { label: '賛助会員', count: summary.value.sponsor_members },
+    { label: '区班', count: summary.value.districts },
+    { label: '地図区域', count: summary.value.map_areas },
+]);
+
+onMounted(async () => {
+    try {
+        const response = await fetch('/api/dashboard/summary');
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        summary.value = await response.json();
+    } catch (error) {
+        errorMessage.value = error instanceof Error ? error.message : 'API request failed';
+    } finally {
+        isLoading.value = false;
+    }
+});
 </script>
 
 <template>
@@ -21,9 +47,12 @@ const modules = [
             <div class="summary-grid">
                 <article v-for="item in modules" :key="item.label" class="summary-card">
                     <span>{{ item.label }}</span>
-                    <strong>{{ item.count }}</strong>
+                    <strong>{{ item.count ?? '-' }}</strong>
                 </article>
             </div>
+
+            <p v-if="isLoading" class="status-line">Loading summary...</p>
+            <p v-else-if="errorMessage" class="status-line error">{{ errorMessage }}</p>
 
             <section class="panel">
                 <h2>初期構築状況</h2>
