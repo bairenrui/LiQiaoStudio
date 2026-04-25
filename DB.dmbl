@@ -1,27 +1,236 @@
-Table m_user {
-  id integer [primary key]
-  name_family varchar 
-  name_first varchar
-  name_cooperation varchar
-  name_display varchar
-  address_postcode varchar
-  address_prefecture varchar
-  address_city varchar
-  address_other varchar
-  id_admin_created
-  id_admin_updated
-  datetime_created
-  datetime_updated
+Project taiseicho_map_system {
+  database_type: "MySQL"
+  Note: "Vue3 + Laravel + MySQL schema for自治会地图与会员管理系统"
 }
 
-Table m_admin {
-  id interger [primary key]
-  name_family varchar
-  name_first varchar
-  name_display varchar
-  role integer
-  datetime_created datetime
-  id_admin_created integer
-  datetime_updated datetime
-  id_admin_updated integer
+Table users {
+  id bigint [pk, increment]
+  name varchar(100) [not null]
+  email varchar(255) [not null, unique]
+  password varchar(255) [not null]
+  role varchar(30) [not null, default: "viewer", note: "admin/editor/viewer"]
+  is_active boolean [not null, default: true]
+  last_login_at datetime
+  remember_token varchar(100)
+  created_at timestamp
+  updated_at timestamp
+  deleted_at timestamp
 }
+
+Table districts {
+  id bigint [pk, increment]
+  code varchar(30) [not null, unique, note: "Example: 10区B2"]
+  district_no int [not null, note: "Example: 10"]
+  block_code varchar(10) [note: "Example: B2"]
+  display_name varchar(50) [not null]
+  sort_order int [not null, default: 0]
+  created_at timestamp
+  updated_at timestamp
+}
+
+Table map_versions {
+  id bigint [pk, increment]
+  name varchar(100) [not null]
+  svg_path varchar(500) [not null]
+  view_box varchar(100)
+  is_active boolean [not null, default: false]
+  created_by bigint
+  created_at timestamp
+  updated_at timestamp
+}
+
+Table map_areas {
+  id bigint [pk, increment]
+  map_version_id bigint [not null]
+  district_id bigint
+  svg_element_id varchar(100) [not null, note: "Example: area10_B2"]
+  area_type varchar(30) [not null, default: "district", note: "district/building/landmark/other"]
+  display_name varchar(100)
+  default_fill_color varchar(20) [default: "#ffffff"]
+  highlight_fill_color varchar(20) [default: "#a8d0ff"]
+  is_clickable boolean [not null, default: true]
+  sort_order int [not null, default: 0]
+  created_at timestamp
+  updated_at timestamp
+
+  indexes {
+    (map_version_id, svg_element_id) [unique]
+    district_id
+  }
+}
+
+Table map_layers {
+  id bigint [pk, increment]
+  map_version_id bigint [not null]
+  key_name varchar(50) [not null, note: "home/apartment/boundary/commercial/map1914"]
+  svg_group_id varchar(100) [not null]
+  display_name varchar(100) [not null]
+  is_default_visible boolean [not null, default: false]
+  sort_order int [not null, default: 0]
+  created_at timestamp
+  updated_at timestamp
+
+  indexes {
+    (map_version_id, key_name) [unique]
+  }
+}
+
+Table households {
+  id bigint [pk, increment]
+  district_id bigint
+  address_lot varchar(50) [not null, note: "番地, Example: 449-12"]
+  building_name varchar(100)
+  room_no varchar(50)
+  note text
+  created_at timestamp
+  updated_at timestamp
+  deleted_at timestamp
+
+  indexes {
+    district_id
+    address_lot
+  }
+}
+
+Table members {
+  id bigint [pk, increment]
+  household_id bigint
+  district_id bigint
+  member_no int [note: "Original No. from source sheet"]
+  name varchar(100) [not null]
+  name_kana varchar(100)
+  phone varchar(50) [note: "Consider Laravel encrypted cast"]
+  note text
+  publication_status varchar(30) [not null, default: "public", note: "public/private/unlisted"]
+  membership_status varchar(30) [not null, default: "active", note: "active/inactive/moved/unknown"]
+  source_row_no int
+  created_by bigint
+  updated_by bigint
+  created_at timestamp
+  updated_at timestamp
+  deleted_at timestamp
+
+  indexes {
+    district_id
+    household_id
+    member_no
+    name
+    name_kana
+  }
+}
+
+Table sponsor_members {
+  id bigint [pk, increment]
+  district_id bigint
+  sponsor_no int [note: "Original No. from source sheet"]
+  address_lot varchar(50)
+  company_name varchar(150) [not null]
+  contact_name varchar(100)
+  phone varchar(50) [note: "Consider Laravel encrypted cast"]
+  business_description varchar(255)
+  note text
+  membership_status varchar(30) [not null, default: "active"]
+  source_row_no int
+  created_by bigint
+  updated_by bigint
+  created_at timestamp
+  updated_at timestamp
+  deleted_at timestamp
+
+  indexes {
+    district_id
+    sponsor_no
+    company_name
+    contact_name
+  }
+}
+
+Table map_area_member_links {
+  id bigint [pk, increment]
+  map_area_id bigint [not null]
+  member_id bigint
+  sponsor_member_id bigint
+  link_type varchar(30) [not null, default: "primary", note: "primary/secondary/manual"]
+  created_at timestamp
+  updated_at timestamp
+
+  indexes {
+    map_area_id
+    member_id
+    sponsor_member_id
+  }
+}
+
+Table import_jobs {
+  id bigint [pk, increment]
+  import_type varchar(30) [not null, note: "members/sponsors/map_areas"]
+  original_filename varchar(255) [not null]
+  stored_path varchar(500)
+  status varchar(30) [not null, default: "pending", note: "pending/processing/completed/failed"]
+  total_rows int [not null, default: 0]
+  success_rows int [not null, default: 0]
+  failed_rows int [not null, default: 0]
+  error_message text
+  imported_by bigint
+  started_at datetime
+  finished_at datetime
+  created_at timestamp
+  updated_at timestamp
+}
+
+Table import_rows {
+  id bigint [pk, increment]
+  import_job_id bigint [not null]
+  row_no int [not null]
+  raw_payload json [not null]
+  status varchar(30) [not null, default: "pending"]
+  error_message text
+  target_table varchar(100)
+  target_id bigint
+  created_at timestamp
+  updated_at timestamp
+
+  indexes {
+    import_job_id
+    (target_table, target_id)
+  }
+}
+
+Table audit_logs {
+  id bigint [pk, increment]
+  user_id bigint
+  action varchar(50) [not null, note: "create/update/delete/import/login/export"]
+  target_table varchar(100)
+  target_id bigint
+  before_payload json
+  after_payload json
+  ip_address varchar(45)
+  user_agent varchar(500)
+  created_at timestamp
+
+  indexes {
+    user_id
+    (target_table, target_id)
+    action
+    created_at
+  }
+}
+
+Ref: map_versions.created_by > users.id
+Ref: map_areas.map_version_id > map_versions.id
+Ref: map_areas.district_id > districts.id
+Ref: map_layers.map_version_id > map_versions.id
+Ref: households.district_id > districts.id
+Ref: members.household_id > households.id
+Ref: members.district_id > districts.id
+Ref: members.created_by > users.id
+Ref: members.updated_by > users.id
+Ref: sponsor_members.district_id > districts.id
+Ref: sponsor_members.created_by > users.id
+Ref: sponsor_members.updated_by > users.id
+Ref: map_area_member_links.map_area_id > map_areas.id
+Ref: map_area_member_links.member_id > members.id
+Ref: map_area_member_links.sponsor_member_id > sponsor_members.id
+Ref: import_jobs.imported_by > users.id
+Ref: import_rows.import_job_id > import_jobs.id
+Ref: audit_logs.user_id > users.id
